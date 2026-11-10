@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="-500 -500 1000 1000">
+<title>KEUM vortex</title>
+<desc>{&quot;schema&quot;: &quot;keum.graph.v1&quot;, &quot;symbolic&quot;: true, &quot;nodes&quot;: 20, &quot;edges&quot;: 24}</desc>
+<rect x="-500" y="-500" width="1000" height="1000" fill="#fbfaf6"/>
+<g id="edges">
+<line id="edge-0" data-kind="frame" x1="343.021" y1="-0.0" x2="-171.51" y2="-297.064" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-1" data-kind="frame" x1="343.021" y1="-0.0" x2="0.0" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-2" data-kind="frame" x1="-171.51" y1="-297.064" x2="-171.51" y2="297.064" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-3" data-kind="frame" x1="-171.51" y1="-297.064" x2="0.0" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-4" data-kind="frame" x1="-171.51" y1="297.064" x2="343.021" y2="-0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-5" data-kind="frame" x1="-171.51" y1="297.064" x2="0.0" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-6" data-kind="frame" x1="343.021" y1="-0.0" x2="-171.51" y2="-297.064" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-7" data-kind="frame" x1="343.021" y1="-0.0" x2="0.0" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-8" data-kind="frame" x1="-171.51" y1="-297.064" x2="-171.51" y2="297.064" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-9" data-kind="frame" x1="-171.51" y1="-297.064" x2="0.0" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-10" data-kind="frame" x1="-171.51" y1="297.064" x2="343.021" y2="-0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-11" data-kind="frame" x1="-171.51" y1="297.064" x2="0.0" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-12" data-kind="ring" x1="0.0" y1="445.0" x2="222.5" y2="385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-13" data-kind="ring" x1="222.5" y1="385.381" x2="385.381" y2="222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-14" data-kind="ring" x1="385.381" y1="222.5" x2="445.0" y2="-0.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-15" data-kind="ring" x1="445.0" y1="-0.0" x2="385.381" y2="-222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-16" data-kind="ring" x1="385.381" y1="-222.5" x2="222.5" y2="-385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-17" data-kind="ring" x1="222.5" y1="-385.381" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-18" data-kind="ring" x1="0.0" y1="-445.0" x2="-222.5" y2="-385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-19" data-kind="ring" x1="-222.5" y1="-385.381" x2="-385.381" y2="-222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-20" data-kind="ring" x1="-385.381" y1="-222.5" x2="-445.0" y2="-0.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-21" data-kind="ring" x1="-445.0" y1="-0.0" x2="-385.381" y2="222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-22" data-kind="ring" x1="-385.381" y1="222.5" x2="-222.5" y2="385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-23" data-kind="ring" x1="-222.5" y1="385.381" x2="0.0" y2="445.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+</g><g id="nodes">
+<g id="node-PCM0" data-entity-id="41" data-kind="vertex"><circle cx="343.021" cy="-0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="343.021" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PCM</text>
+</g>
+<g id="node-PCM1" data-entity-id="41" data-kind="vertex"><circle cx="-171.51" cy="-297.064" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-171.51" y="-293.66400000000004" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PCM</text>
+</g>
+<g id="node-PCM2" data-entity-id="41" data-kind="vertex"><circle cx="-171.51" cy="297.064" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-171.51" y="300.464" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PCM</text>
+</g>
+<g id="node-PCMT" data-entity-id="41" data-kind="apex"><circle cx="0.0" cy="0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PCM</text>
+</g>
+<g id="node-PKA0" data-entity-id="41" data-kind="vertex"><circle cx="343.021" cy="-0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="343.021" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PKA</text>
+</g>
+<g id="node-PKA1" data-entity-id="41" data-kind="vertex"><circle cx="-171.51" cy="-297.064" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-171.51" y="-293.66400000000004" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PKA</text>
+</g>
+<g id="node-PKA2" data-entity-id="41" data-kind="vertex"><circle cx="-171.51" cy="297.064" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-171.51" y="300.464" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PKA</text>
+</g>
+<g id="node-PKAT" data-entity-id="41" data-kind="apex"><circle cx="0.0" cy="0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">PKA</text>
+</g>
+<g id="node-V1" data-entity-id="258" data-kind="vortex"><circle cx="0.0" cy="445.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="448.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">1</text>
+</g>
+<g id="node-V2" data-entity-id="258" data-kind="vortex"><circle cx="222.5" cy="385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="222.5" y="388.78099999999995" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">2</text>
+</g>
+<g id="node-V3" data-entity-id="258" data-kind="vortex"><circle cx="385.381" cy="222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="385.381" y="225.9" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">3</text>
+</g>
+<g id="node-V4" data-entity-id="258" data-kind="vortex"><circle cx="445.0" cy="-0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="445.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">4</text>
+</g>
+<g id="node-V5" data-entity-id="258" data-kind="vortex"><circle cx="385.381" cy="-222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="385.381" y="-219.1" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">5</text>
+</g>
+<g id="node-V6" data-entity-id="258" data-kind="vortex"><circle cx="222.5" cy="-385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="222.5" y="-381.981" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">6</text>
+</g>
+<g id="node-V7" data-entity-id="258" data-kind="vortex"><circle cx="0.0" cy="-445.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="-441.6" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">7</text>
+</g>
+<g id="node-V8" data-entity-id="258" data-kind="vortex"><circle cx="-222.5" cy="-385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-222.5" y="-381.981" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">8</text>
+</g>
+<g id="node-V9" data-entity-id="258" data-kind="vortex"><circle cx="-385.381" cy="-222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-385.381" y="-219.1" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">9</text>
+</g>
+<g id="node-V10" data-entity-id="258" data-kind="vortex"><circle cx="-445.0" cy="-0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-445.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">10</text>
+</g>
+<g id="node-V11" data-entity-id="258" data-kind="vortex"><circle cx="-385.381" cy="222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-385.381" y="225.9" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">11</text>
+</g>
+<g id="node-V12" data-entity-id="258" data-kind="vortex"><circle cx="-222.5" cy="385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-222.5" y="388.78099999999995" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">12</text>
+</g>
+</g>
+<text x="0" y="-467" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#24324a">KEUM · VORTEX</text>
+<text x="0" y="480" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#71839a">SYMBOLIC MODEL · NOT EMPIRICAL PHYSICS</text>
+</svg>

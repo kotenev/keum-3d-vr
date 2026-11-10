@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="-500 -500 1000 1000">
+<title>KEUM kathara</title>
+<desc>{&quot;schema&quot;: &quot;keum.graph.v1&quot;, &quot;symbolic&quot;: true, &quot;nodes&quot;: 12, &quot;edges&quot;: 32}</desc>
+<rect x="-500" y="-500" width="1000" height="1000" fill="#fbfaf6"/>
+<g id="edges">
+<line id="edge-0" data-kind="connection" x1="0.0" y1="435.326" x2="0.0" y2="319.239" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-1" data-kind="connection" x1="0.0" y1="435.326" x2="193.478" y2="232.174" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-2" data-kind="connection" x1="0.0" y1="435.326" x2="-193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-3" data-kind="connection" x1="0.0" y1="319.239" x2="-193.478" y2="232.174" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-4" data-kind="connection" x1="0.0" y1="319.239" x2="193.478" y2="232.174" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-5" data-kind="connection" x1="0.0" y1="319.239" x2="0.0" y2="-106.413" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-6" data-kind="connection" x1="-193.478" y1="232.174" x2="193.478" y2="232.174" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-7" data-kind="connection" x1="-193.478" y1="232.174" x2="0.0" y2="125.761" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-8" data-kind="connection" x1="-193.478" y1="232.174" x2="-193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-9" data-kind="connection" x1="-193.478" y1="232.174" x2="193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-10" data-kind="connection" x1="-193.478" y1="232.174" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-11" data-kind="connection" x1="193.478" y1="232.174" x2="0.0" y2="125.761" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-12" data-kind="connection" x1="193.478" y1="232.174" x2="-193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-13" data-kind="connection" x1="193.478" y1="232.174" x2="193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-14" data-kind="connection" x1="193.478" y1="232.174" x2="0.0" y2="-338.587" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-15" data-kind="connection" x1="0.0" y1="125.761" x2="-193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-16" data-kind="connection" x1="0.0" y1="125.761" x2="193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-17" data-kind="connection" x1="0.0" y1="125.761" x2="193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-18" data-kind="connection" x1="-193.478" y1="0.0" x2="193.478" y2="0.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-19" data-kind="connection" x1="-193.478" y1="0.0" x2="0.0" y2="-106.413" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-20" data-kind="connection" x1="-193.478" y1="0.0" x2="-193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-21" data-kind="connection" x1="193.478" y1="0.0" x2="0.0" y2="-106.413" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-22" data-kind="connection" x1="193.478" y1="0.0" x2="193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-23" data-kind="connection" x1="0.0" y1="-106.413" x2="-193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-24" data-kind="connection" x1="0.0" y1="-106.413" x2="193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-25" data-kind="connection" x1="0.0" y1="-106.413" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-26" data-kind="connection" x1="-193.478" y1="-222.5" x2="193.478" y2="-222.5" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-27" data-kind="connection" x1="-193.478" y1="-222.5" x2="0.0" y2="-338.587" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-28" data-kind="connection" x1="-193.478" y1="-222.5" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-29" data-kind="connection" x1="193.478" y1="-222.5" x2="0.0" y2="-338.587" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-30" data-kind="connection" x1="193.478" y1="-222.5" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+<line id="edge-31" data-kind="connection" x1="0.0" y1="-338.587" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.70" opacity=".74"/>
+</g><g id="nodes">
+<g id="node-K1" data-entity-id="21" data-kind="signet"><circle cx="0.0" cy="435.326" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="438.726" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">1</text>
+</g>
+<g id="node-K2" data-entity-id="21" data-kind="signet"><circle cx="0.0" cy="319.239" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="322.63899999999995" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">2</text>
+</g>
+<g id="node-K3" data-entity-id="21" data-kind="signet"><circle cx="-193.478" cy="232.174" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-193.478" y="235.574" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">3</text>
+</g>
+<g id="node-K4" data-entity-id="21" data-kind="signet"><circle cx="193.478" cy="232.174" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="193.478" y="235.574" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">4</text>
+</g>
+<g id="node-K5" data-entity-id="21" data-kind="signet"><circle cx="0.0" cy="125.761" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="129.161" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">5</text>
+</g>
+<g id="node-K6" data-entity-id="21" data-kind="signet"><circle cx="-193.478" cy="0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-193.478" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">6</text>
+</g>
+<g id="node-K7" data-entity-id="21" data-kind="signet"><circle cx="193.478" cy="0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="193.478" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">7</text>
+</g>
+<g id="node-K8" data-entity-id="21" data-kind="signet"><circle cx="0.0" cy="-106.413" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="-103.01299999999999" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">8</text>
+</g>
+<g id="node-K9" data-entity-id="21" data-kind="signet"><circle cx="-193.478" cy="-222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-193.478" y="-219.1" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">9</text>
+</g>
+<g id="node-K10" data-entity-id="21" data-kind="signet"><circle cx="193.478" cy="-222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="193.478" y="-219.1" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">10</text>
+</g>
+<g id="node-K11" data-entity-id="21" data-kind="signet"><circle cx="0.0" cy="-338.587" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="-335.187" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">11</text>
+</g>
+<g id="node-K12" data-entity-id="21" data-kind="signet"><circle cx="0.0" cy="-445.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="-441.6" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">12</text>
+</g>
+</g>
+<text x="0" y="-467" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#24324a">KEUM · KATHARA</text>
+<text x="0" y="480" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#71839a">SYMBOLIC MODEL · NOT EMPIRICAL PHYSICS</text>
+</svg>

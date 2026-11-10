@@ -40,3 +40,16 @@
 - The 3D viewer accepts `?graph=kathara` (built-in) or `?graph=custom` after opening a graph in the editor.
 - Technical specification: `docs/GRAPH_ENGINE_V2.md`.
 - Run tests with `python3 -m unittest discover -s vector_engine -p 'test_*.py'`.
+
+## Документация MkDocs
+
+Подробный математический и архитектурный справочник расположен в [`mkdocs/`](mkdocs/index.md). Конфигурация — [`mkdocs.yml`](mkdocs.yml).
+
+```bash
+python3 -m pip install -r requirements-docs.txt
+mkdocs serve
+# или проверить сборку:
+mkdocs build --strict
+```
+
+После настройки GitHub Pages на ветку `gh-pages` сайт можно открыть по адресу https://kotenev.github.io/keum-3d-vr/ . Формулы написаны в LaTeX, а отдельная глава содержит нативные примеры MathML. Документация отличает реализованные алгоритмы от математических спецификаций и эзотерических утверждений.

@@ -1,0 +1,427 @@
+{
+  "schema": "keum.graph.v1",
+  "preset": "axiotonal",
+  "seed": 0,
+  "complexity": 2,
+  "units": "normalized",
+  "source_status": "symbolic reconstruction",
+  "nodes": [
+    {
+      "id": "L1",
+      "position": [
+        0.0,
+        -4.1,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "1",
+      "group": "base"
+    },
+    {
+      "id": "L2",
+      "position": [
+        2.05,
+        -3.5507,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "2",
+      "group": "base"
+    },
+    {
+      "id": "L3",
+      "position": [
+        3.5507,
+        -2.05,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "3",
+      "group": "base"
+    },
+    {
+      "id": "L4",
+      "position": [
+        4.1,
+        0.0,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "4",
+      "group": "base"
+    },
+    {
+      "id": "L5",
+      "position": [
+        3.5507,
+        2.05,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "5",
+      "group": "base"
+    },
+    {
+      "id": "L6",
+      "position": [
+        2.05,
+        3.5507,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "6",
+      "group": "base"
+    },
+    {
+      "id": "L7",
+      "position": [
+        0.0,
+        4.1,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "7",
+      "group": "base"
+    },
+    {
+      "id": "L8",
+      "position": [
+        -2.05,
+        3.5507,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "8",
+      "group": "base"
+    },
+    {
+      "id": "L9",
+      "position": [
+        -3.5507,
+        2.05,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "9",
+      "group": "base"
+    },
+    {
+      "id": "L10",
+      "position": [
+        -4.1,
+        0.0,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "10",
+      "group": "base"
+    },
+    {
+      "id": "L11",
+      "position": [
+        -3.5507,
+        -2.05,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "11",
+      "group": "base"
+    },
+    {
+      "id": "L12",
+      "position": [
+        -2.05,
+        -3.5507,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 263,
+      "label": "12",
+      "group": "base"
+    },
+    {
+      "id": "C",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "kind": "core",
+      "entity_id": 263,
+      "label": "0",
+      "group": "base"
+    }
+  ],
+  "edges": [
+    {
+      "source": "L1",
+      "target": "L2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L2",
+      "target": "L3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L3",
+      "target": "L4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L4",
+      "target": "L5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L5",
+      "target": "L6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L6",
+      "target": "L7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L7",
+      "target": "L8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L8",
+      "target": "L9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L9",
+      "target": "L10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L10",
+      "target": "L11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L11",
+      "target": "L12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "L12",
+      "target": "L1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L1",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L2",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L3",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L4",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L5",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L6",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L7",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L8",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L9",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L10",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L11",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "C",
+      "target": "L12",
+      "kind": "radial",
+      "weight": 0.7,
+      "group": "base"
+    },
+    {
+      "source": "L1",
+      "target": "L5",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L2",
+      "target": "L6",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L3",
+      "target": "L7",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L4",
+      "target": "L8",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L5",
+      "target": "L9",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L6",
+      "target": "L10",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L7",
+      "target": "L11",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L8",
+      "target": "L12",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L9",
+      "target": "L1",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L10",
+      "target": "L2",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L11",
+      "target": "L3",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    },
+    {
+      "source": "L12",
+      "target": "L4",
+      "kind": "chord",
+      "weight": 0.4,
+      "group": "base"
+    }
+  ],
+  "annotations": [],
+  "metadata": {
+    "entity_id": 263,
+    "source_images": "1–49 (conceptual mapping; not exact digitization)",
+    "coordinate_system": "right-handed; z-up",
+    "license_note": "Original geometry generated from formal rules"
+  }
+}

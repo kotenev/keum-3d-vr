@@ -63,5 +63,20 @@ nav:
       - SVG и glTF: implementation/rendering.md
       - Тестирование: implementation/testing.md
       - Прослеживаемость: implementation/traceability.md
+  - Энциклопедия 412 понятий:
+      - Космология: encyclopedia/cosmology.md
+      - Сакральная геометрия: encyclopedia/geometry.md
+      - Меркаба и поля: encyclopedia/merkaba.md
+      - Дыхание и циклы: encyclopedia/cycles.md
+      - Энергетическая анатомия: encyclopedia/anatomy.md
+      - Планетарные модели: encyclopedia/planetary.md
+      - Тела Hova: encyclopedia/hova.md
+      - ДНК и коды: encyclopedia/dna-codes.md
+      - Кристаллическое тело: encyclopedia/crystal.md
+      - Пламена и Eukatharista: encyclopedia/flames.md
+      - Спирали и вихри: encyclopedia/vortices.md
+      - Проекции и голография: encyclopedia/projection.md
+      - Матрицы излучения: encyclopedia/radiation.md
+      - Коды и Christos: encyclopedia/christos.md
   - Источники: bibliography.md
   - Глоссарий: glossary.md

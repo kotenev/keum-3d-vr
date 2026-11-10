@@ -53,6 +53,7 @@ nav:
       - Динамика и резонанс: mathematics/dynamics.md
       - Геометрия и проекции: mathematics/geometry.md
       - Топология и численные методы: mathematics/numerics.md
+      - TeX и MathML: mathematics/mathml.md
   - Семейства моделей:
       - Космология и плотности: models/cosmology.md
       - Kathara, Lotus, Reuche: models/kathara-lotus.md

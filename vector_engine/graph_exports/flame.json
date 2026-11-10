@@ -1,0 +1,1915 @@
+{
+  "schema": "keum.graph.v1",
+  "preset": "flame",
+  "seed": 0,
+  "complexity": 2,
+  "units": "normalized",
+  "source_status": "symbolic reconstruction",
+  "nodes": [
+    {
+      "id": "D1_1",
+      "position": [
+        0.0,
+        -1.25,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "1",
+      "group": "D1"
+    },
+    {
+      "id": "D1_2",
+      "position": [
+        0.625,
+        -1.08253,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "2",
+      "group": "D1"
+    },
+    {
+      "id": "D1_3",
+      "position": [
+        1.08253,
+        -0.625,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "3",
+      "group": "D1"
+    },
+    {
+      "id": "D1_4",
+      "position": [
+        1.25,
+        0.0,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "4",
+      "group": "D1"
+    },
+    {
+      "id": "D1_5",
+      "position": [
+        1.08253,
+        0.625,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "5",
+      "group": "D1"
+    },
+    {
+      "id": "D1_6",
+      "position": [
+        0.625,
+        1.08253,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "6",
+      "group": "D1"
+    },
+    {
+      "id": "D1_7",
+      "position": [
+        0.0,
+        1.25,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "7",
+      "group": "D1"
+    },
+    {
+      "id": "D1_8",
+      "position": [
+        -0.625,
+        1.08253,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "8",
+      "group": "D1"
+    },
+    {
+      "id": "D1_9",
+      "position": [
+        -1.08253,
+        0.625,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "9",
+      "group": "D1"
+    },
+    {
+      "id": "D1_10",
+      "position": [
+        -1.25,
+        0.0,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "10",
+      "group": "D1"
+    },
+    {
+      "id": "D1_11",
+      "position": [
+        -1.08253,
+        -0.625,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "11",
+      "group": "D1"
+    },
+    {
+      "id": "D1_12",
+      "position": [
+        -0.625,
+        -1.08253,
+        -3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "12",
+      "group": "D1"
+    },
+    {
+      "id": "D2_1",
+      "position": [
+        0.0,
+        -1.6,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "1",
+      "group": "D2"
+    },
+    {
+      "id": "D2_2",
+      "position": [
+        0.8,
+        -1.38564,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "2",
+      "group": "D2"
+    },
+    {
+      "id": "D2_3",
+      "position": [
+        1.38564,
+        -0.8,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "3",
+      "group": "D2"
+    },
+    {
+      "id": "D2_4",
+      "position": [
+        1.6,
+        0.0,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "4",
+      "group": "D2"
+    },
+    {
+      "id": "D2_5",
+      "position": [
+        1.38564,
+        0.8,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "5",
+      "group": "D2"
+    },
+    {
+      "id": "D2_6",
+      "position": [
+        0.8,
+        1.38564,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "6",
+      "group": "D2"
+    },
+    {
+      "id": "D2_7",
+      "position": [
+        0.0,
+        1.6,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "7",
+      "group": "D2"
+    },
+    {
+      "id": "D2_8",
+      "position": [
+        -0.8,
+        1.38564,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "8",
+      "group": "D2"
+    },
+    {
+      "id": "D2_9",
+      "position": [
+        -1.38564,
+        0.8,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "9",
+      "group": "D2"
+    },
+    {
+      "id": "D2_10",
+      "position": [
+        -1.6,
+        0.0,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "10",
+      "group": "D2"
+    },
+    {
+      "id": "D2_11",
+      "position": [
+        -1.38564,
+        -0.8,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "11",
+      "group": "D2"
+    },
+    {
+      "id": "D2_12",
+      "position": [
+        -0.8,
+        -1.38564,
+        -1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "12",
+      "group": "D2"
+    },
+    {
+      "id": "D3_1",
+      "position": [
+        0.0,
+        -1.95,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "1",
+      "group": "D3"
+    },
+    {
+      "id": "D3_2",
+      "position": [
+        0.975,
+        -1.68875,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "2",
+      "group": "D3"
+    },
+    {
+      "id": "D3_3",
+      "position": [
+        1.68875,
+        -0.975,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "3",
+      "group": "D3"
+    },
+    {
+      "id": "D3_4",
+      "position": [
+        1.95,
+        0.0,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "4",
+      "group": "D3"
+    },
+    {
+      "id": "D3_5",
+      "position": [
+        1.68875,
+        0.975,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "5",
+      "group": "D3"
+    },
+    {
+      "id": "D3_6",
+      "position": [
+        0.975,
+        1.68875,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "6",
+      "group": "D3"
+    },
+    {
+      "id": "D3_7",
+      "position": [
+        0.0,
+        1.95,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "7",
+      "group": "D3"
+    },
+    {
+      "id": "D3_8",
+      "position": [
+        -0.975,
+        1.68875,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "8",
+      "group": "D3"
+    },
+    {
+      "id": "D3_9",
+      "position": [
+        -1.68875,
+        0.975,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "9",
+      "group": "D3"
+    },
+    {
+      "id": "D3_10",
+      "position": [
+        -1.95,
+        0.0,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "10",
+      "group": "D3"
+    },
+    {
+      "id": "D3_11",
+      "position": [
+        -1.68875,
+        -0.975,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "11",
+      "group": "D3"
+    },
+    {
+      "id": "D3_12",
+      "position": [
+        -0.975,
+        -1.68875,
+        0.0
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "12",
+      "group": "D3"
+    },
+    {
+      "id": "D4_1",
+      "position": [
+        0.0,
+        -2.3,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "1",
+      "group": "D4"
+    },
+    {
+      "id": "D4_2",
+      "position": [
+        1.15,
+        -1.99186,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "2",
+      "group": "D4"
+    },
+    {
+      "id": "D4_3",
+      "position": [
+        1.99186,
+        -1.15,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "3",
+      "group": "D4"
+    },
+    {
+      "id": "D4_4",
+      "position": [
+        2.3,
+        0.0,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "4",
+      "group": "D4"
+    },
+    {
+      "id": "D4_5",
+      "position": [
+        1.99186,
+        1.15,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "5",
+      "group": "D4"
+    },
+    {
+      "id": "D4_6",
+      "position": [
+        1.15,
+        1.99186,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "6",
+      "group": "D4"
+    },
+    {
+      "id": "D4_7",
+      "position": [
+        0.0,
+        2.3,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "7",
+      "group": "D4"
+    },
+    {
+      "id": "D4_8",
+      "position": [
+        -1.15,
+        1.99186,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "8",
+      "group": "D4"
+    },
+    {
+      "id": "D4_9",
+      "position": [
+        -1.99186,
+        1.15,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "9",
+      "group": "D4"
+    },
+    {
+      "id": "D4_10",
+      "position": [
+        -2.3,
+        0.0,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "10",
+      "group": "D4"
+    },
+    {
+      "id": "D4_11",
+      "position": [
+        -1.99186,
+        -1.15,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "11",
+      "group": "D4"
+    },
+    {
+      "id": "D4_12",
+      "position": [
+        -1.15,
+        -1.99186,
+        1.7
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "12",
+      "group": "D4"
+    },
+    {
+      "id": "D5_1",
+      "position": [
+        0.0,
+        -2.65,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "1",
+      "group": "D5"
+    },
+    {
+      "id": "D5_2",
+      "position": [
+        1.325,
+        -2.29497,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "2",
+      "group": "D5"
+    },
+    {
+      "id": "D5_3",
+      "position": [
+        2.29497,
+        -1.325,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "3",
+      "group": "D5"
+    },
+    {
+      "id": "D5_4",
+      "position": [
+        2.65,
+        0.0,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "4",
+      "group": "D5"
+    },
+    {
+      "id": "D5_5",
+      "position": [
+        2.29497,
+        1.325,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "5",
+      "group": "D5"
+    },
+    {
+      "id": "D5_6",
+      "position": [
+        1.325,
+        2.29497,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "6",
+      "group": "D5"
+    },
+    {
+      "id": "D5_7",
+      "position": [
+        0.0,
+        2.65,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "7",
+      "group": "D5"
+    },
+    {
+      "id": "D5_8",
+      "position": [
+        -1.325,
+        2.29497,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "8",
+      "group": "D5"
+    },
+    {
+      "id": "D5_9",
+      "position": [
+        -2.29497,
+        1.325,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "9",
+      "group": "D5"
+    },
+    {
+      "id": "D5_10",
+      "position": [
+        -2.65,
+        0.0,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "10",
+      "group": "D5"
+    },
+    {
+      "id": "D5_11",
+      "position": [
+        -2.29497,
+        -1.325,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "11",
+      "group": "D5"
+    },
+    {
+      "id": "D5_12",
+      "position": [
+        -1.325,
+        -2.29497,
+        3.4
+      ],
+      "kind": "density",
+      "entity_id": 201,
+      "label": "12",
+      "group": "D5"
+    }
+  ],
+  "edges": [
+    {
+      "source": "D1_1",
+      "target": "D1_2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_2",
+      "target": "D1_3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_3",
+      "target": "D1_4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_4",
+      "target": "D1_5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_5",
+      "target": "D1_6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_6",
+      "target": "D1_7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_7",
+      "target": "D1_8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_8",
+      "target": "D1_9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_9",
+      "target": "D1_10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_10",
+      "target": "D1_11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_11",
+      "target": "D1_12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_12",
+      "target": "D1_1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D1"
+    },
+    {
+      "source": "D1_1",
+      "target": "D1_6",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_2",
+      "target": "D1_7",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_3",
+      "target": "D1_8",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_4",
+      "target": "D1_9",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_5",
+      "target": "D1_10",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_6",
+      "target": "D1_11",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_7",
+      "target": "D1_12",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_8",
+      "target": "D1_1",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_9",
+      "target": "D1_2",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_10",
+      "target": "D1_3",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_11",
+      "target": "D1_4",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D1_12",
+      "target": "D1_5",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D1"
+    },
+    {
+      "source": "D2_1",
+      "target": "D2_2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_2",
+      "target": "D2_3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_3",
+      "target": "D2_4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_4",
+      "target": "D2_5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_5",
+      "target": "D2_6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_6",
+      "target": "D2_7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_7",
+      "target": "D2_8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_8",
+      "target": "D2_9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_9",
+      "target": "D2_10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_10",
+      "target": "D2_11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_11",
+      "target": "D2_12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D2_12",
+      "target": "D2_1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D2"
+    },
+    {
+      "source": "D1_1",
+      "target": "D2_1",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_2",
+      "target": "D2_2",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_3",
+      "target": "D2_3",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_4",
+      "target": "D2_4",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_5",
+      "target": "D2_5",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_6",
+      "target": "D2_6",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_7",
+      "target": "D2_7",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_8",
+      "target": "D2_8",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_9",
+      "target": "D2_9",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_10",
+      "target": "D2_10",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_11",
+      "target": "D2_11",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D1_12",
+      "target": "D2_12",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_1",
+      "target": "D2_6",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_2",
+      "target": "D2_7",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_3",
+      "target": "D2_8",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_4",
+      "target": "D2_9",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_5",
+      "target": "D2_10",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_6",
+      "target": "D2_11",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_7",
+      "target": "D2_12",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_8",
+      "target": "D2_1",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_9",
+      "target": "D2_2",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_10",
+      "target": "D2_3",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_11",
+      "target": "D2_4",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D2_12",
+      "target": "D2_5",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D2"
+    },
+    {
+      "source": "D3_1",
+      "target": "D3_2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_2",
+      "target": "D3_3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_3",
+      "target": "D3_4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_4",
+      "target": "D3_5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_5",
+      "target": "D3_6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_6",
+      "target": "D3_7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_7",
+      "target": "D3_8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_8",
+      "target": "D3_9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_9",
+      "target": "D3_10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_10",
+      "target": "D3_11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_11",
+      "target": "D3_12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D3_12",
+      "target": "D3_1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D3"
+    },
+    {
+      "source": "D2_1",
+      "target": "D3_1",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_2",
+      "target": "D3_2",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_3",
+      "target": "D3_3",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_4",
+      "target": "D3_4",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_5",
+      "target": "D3_5",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_6",
+      "target": "D3_6",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_7",
+      "target": "D3_7",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_8",
+      "target": "D3_8",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_9",
+      "target": "D3_9",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_10",
+      "target": "D3_10",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_11",
+      "target": "D3_11",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D2_12",
+      "target": "D3_12",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_1",
+      "target": "D3_6",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_2",
+      "target": "D3_7",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_3",
+      "target": "D3_8",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_4",
+      "target": "D3_9",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_5",
+      "target": "D3_10",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_6",
+      "target": "D3_11",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_7",
+      "target": "D3_12",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_8",
+      "target": "D3_1",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_9",
+      "target": "D3_2",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_10",
+      "target": "D3_3",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_11",
+      "target": "D3_4",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D3_12",
+      "target": "D3_5",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D3"
+    },
+    {
+      "source": "D4_1",
+      "target": "D4_2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_2",
+      "target": "D4_3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_3",
+      "target": "D4_4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_4",
+      "target": "D4_5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_5",
+      "target": "D4_6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_6",
+      "target": "D4_7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_7",
+      "target": "D4_8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_8",
+      "target": "D4_9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_9",
+      "target": "D4_10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_10",
+      "target": "D4_11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_11",
+      "target": "D4_12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D4_12",
+      "target": "D4_1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D4"
+    },
+    {
+      "source": "D3_1",
+      "target": "D4_1",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_2",
+      "target": "D4_2",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_3",
+      "target": "D4_3",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_4",
+      "target": "D4_4",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_5",
+      "target": "D4_5",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_6",
+      "target": "D4_6",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_7",
+      "target": "D4_7",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_8",
+      "target": "D4_8",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_9",
+      "target": "D4_9",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_10",
+      "target": "D4_10",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_11",
+      "target": "D4_11",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D3_12",
+      "target": "D4_12",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_1",
+      "target": "D4_6",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_2",
+      "target": "D4_7",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_3",
+      "target": "D4_8",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_4",
+      "target": "D4_9",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_5",
+      "target": "D4_10",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_6",
+      "target": "D4_11",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_7",
+      "target": "D4_12",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_8",
+      "target": "D4_1",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_9",
+      "target": "D4_2",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_10",
+      "target": "D4_3",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_11",
+      "target": "D4_4",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D4_12",
+      "target": "D4_5",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D4"
+    },
+    {
+      "source": "D5_1",
+      "target": "D5_2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_2",
+      "target": "D5_3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_3",
+      "target": "D5_4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_4",
+      "target": "D5_5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_5",
+      "target": "D5_6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_6",
+      "target": "D5_7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_7",
+      "target": "D5_8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_8",
+      "target": "D5_9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_9",
+      "target": "D5_10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_10",
+      "target": "D5_11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_11",
+      "target": "D5_12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D5_12",
+      "target": "D5_1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "D5"
+    },
+    {
+      "source": "D4_1",
+      "target": "D5_1",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_2",
+      "target": "D5_2",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_3",
+      "target": "D5_3",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_4",
+      "target": "D5_4",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_5",
+      "target": "D5_5",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_6",
+      "target": "D5_6",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_7",
+      "target": "D5_7",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_8",
+      "target": "D5_8",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_9",
+      "target": "D5_9",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_10",
+      "target": "D5_10",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_11",
+      "target": "D5_11",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D4_12",
+      "target": "D5_12",
+      "kind": "interlayer",
+      "weight": 0.6,
+      "group": "cross"
+    },
+    {
+      "source": "D5_1",
+      "target": "D5_6",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_2",
+      "target": "D5_7",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_3",
+      "target": "D5_8",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_4",
+      "target": "D5_9",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_5",
+      "target": "D5_10",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_6",
+      "target": "D5_11",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_7",
+      "target": "D5_12",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_8",
+      "target": "D5_1",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_9",
+      "target": "D5_2",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_10",
+      "target": "D5_3",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_11",
+      "target": "D5_4",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    },
+    {
+      "source": "D5_12",
+      "target": "D5_5",
+      "kind": "chord",
+      "weight": 0.3,
+      "group": "D5"
+    }
+  ],
+  "annotations": [],
+  "metadata": {
+    "entity_id": 201,
+    "source_images": "1–49 (conceptual mapping; not exact digitization)",
+    "coordinate_system": "right-handed; z-up",
+    "license_note": "Original geometry generated from formal rules"
+  }
+}

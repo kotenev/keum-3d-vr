@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="-500 -500 1000 1000">
+<title>KEUM lotus</title>
+<desc>{&quot;schema&quot;: &quot;keum.graph.v1&quot;, &quot;symbolic&quot;: true, &quot;nodes&quot;: 25, &quot;edges&quot;: 72}</desc>
+<rect x="-500" y="-500" width="1000" height="1000" fill="#fbfaf6"/>
+<g id="edges">
+<line id="edge-0" data-kind="ring" x1="0.0" y1="445.0" x2="115.175" y2="429.837" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-1" data-kind="ring" x1="115.175" y1="429.837" x2="222.5" y2="385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-2" data-kind="ring" x1="222.5" y1="385.381" x2="314.663" y2="314.663" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-3" data-kind="ring" x1="314.663" y1="314.663" x2="385.381" y2="222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-4" data-kind="ring" x1="385.381" y1="222.5" x2="429.837" y2="115.175" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-5" data-kind="ring" x1="429.837" y1="115.175" x2="445.0" y2="-0.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-6" data-kind="ring" x1="445.0" y1="-0.0" x2="429.837" y2="-115.175" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-7" data-kind="ring" x1="429.837" y1="-115.175" x2="385.381" y2="-222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-8" data-kind="ring" x1="385.381" y1="-222.5" x2="314.663" y2="-314.663" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-9" data-kind="ring" x1="314.663" y1="-314.663" x2="222.5" y2="-385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-10" data-kind="ring" x1="222.5" y1="-385.381" x2="115.175" y2="-429.837" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-11" data-kind="ring" x1="115.175" y1="-429.837" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-12" data-kind="ring" x1="0.0" y1="-445.0" x2="-115.175" y2="-429.837" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-13" data-kind="ring" x1="-115.175" y1="-429.837" x2="-222.5" y2="-385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-14" data-kind="ring" x1="-222.5" y1="-385.381" x2="-314.663" y2="-314.663" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-15" data-kind="ring" x1="-314.663" y1="-314.663" x2="-385.381" y2="-222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-16" data-kind="ring" x1="-385.381" y1="-222.5" x2="-429.837" y2="-115.175" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-17" data-kind="ring" x1="-429.837" y1="-115.175" x2="-445.0" y2="-0.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-18" data-kind="ring" x1="-445.0" y1="-0.0" x2="-429.837" y2="115.175" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-19" data-kind="ring" x1="-429.837" y1="115.175" x2="-385.381" y2="222.5" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-20" data-kind="ring" x1="-385.381" y1="222.5" x2="-314.663" y2="314.663" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-21" data-kind="ring" x1="-314.663" y1="314.663" x2="-222.5" y2="385.381" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-22" data-kind="ring" x1="-222.5" y1="385.381" x2="-115.175" y2="429.837" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-23" data-kind="ring" x1="-115.175" y1="429.837" x2="0.0" y2="445.0" stroke="#24324a" stroke-width="1.10" opacity=".74"/>
+<line id="edge-24" data-kind="radial" x1="0.0" y1="0.0" x2="0.0" y2="445.0" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-25" data-kind="radial" x1="0.0" y1="0.0" x2="115.175" y2="429.837" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-26" data-kind="radial" x1="0.0" y1="0.0" x2="222.5" y2="385.381" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-27" data-kind="radial" x1="0.0" y1="0.0" x2="314.663" y2="314.663" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-28" data-kind="radial" x1="0.0" y1="0.0" x2="385.381" y2="222.5" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-29" data-kind="radial" x1="0.0" y1="0.0" x2="429.837" y2="115.175" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-30" data-kind="radial" x1="0.0" y1="0.0" x2="445.0" y2="-0.0" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-31" data-kind="radial" x1="0.0" y1="0.0" x2="429.837" y2="-115.175" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-32" data-kind="radial" x1="0.0" y1="0.0" x2="385.381" y2="-222.5" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-33" data-kind="radial" x1="0.0" y1="0.0" x2="314.663" y2="-314.663" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-34" data-kind="radial" x1="0.0" y1="0.0" x2="222.5" y2="-385.381" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-35" data-kind="radial" x1="0.0" y1="0.0" x2="115.175" y2="-429.837" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-36" data-kind="radial" x1="0.0" y1="0.0" x2="0.0" y2="-445.0" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-37" data-kind="radial" x1="0.0" y1="0.0" x2="-115.175" y2="-429.837" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-38" data-kind="radial" x1="0.0" y1="0.0" x2="-222.5" y2="-385.381" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-39" data-kind="radial" x1="0.0" y1="0.0" x2="-314.663" y2="-314.663" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-40" data-kind="radial" x1="0.0" y1="0.0" x2="-385.381" y2="-222.5" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-41" data-kind="radial" x1="0.0" y1="0.0" x2="-429.837" y2="-115.175" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-42" data-kind="radial" x1="0.0" y1="0.0" x2="-445.0" y2="-0.0" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-43" data-kind="radial" x1="0.0" y1="0.0" x2="-429.837" y2="115.175" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-44" data-kind="radial" x1="0.0" y1="0.0" x2="-385.381" y2="222.5" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-45" data-kind="radial" x1="0.0" y1="0.0" x2="-314.663" y2="314.663" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-46" data-kind="radial" x1="0.0" y1="0.0" x2="-222.5" y2="385.381" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-47" data-kind="radial" x1="0.0" y1="0.0" x2="-115.175" y2="429.837" stroke="#24324a" stroke-width="1.19" opacity=".74"/>
+<line id="edge-48" data-kind="chord" x1="0.0" y1="445.0" x2="385.381" y2="-222.5" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-49" data-kind="chord" x1="115.175" y1="429.837" x2="314.663" y2="-314.663" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-50" data-kind="chord" x1="222.5" y1="385.381" x2="222.5" y2="-385.381" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-51" data-kind="chord" x1="314.663" y1="314.663" x2="115.175" y2="-429.837" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-52" data-kind="chord" x1="385.381" y1="222.5" x2="0.0" y2="-445.0" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-53" data-kind="chord" x1="429.837" y1="115.175" x2="-115.175" y2="-429.837" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-54" data-kind="chord" x1="445.0" y1="-0.0" x2="-222.5" y2="-385.381" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-55" data-kind="chord" x1="429.837" y1="-115.175" x2="-314.663" y2="-314.663" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-56" data-kind="chord" x1="385.381" y1="-222.5" x2="-385.381" y2="-222.5" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-57" data-kind="chord" x1="314.663" y1="-314.663" x2="-429.837" y2="-115.175" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-58" data-kind="chord" x1="222.5" y1="-385.381" x2="-445.0" y2="-0.0" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-59" data-kind="chord" x1="115.175" y1="-429.837" x2="-429.837" y2="115.175" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-60" data-kind="chord" x1="0.0" y1="-445.0" x2="-385.381" y2="222.5" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-61" data-kind="chord" x1="-115.175" y1="-429.837" x2="-314.663" y2="314.663" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-62" data-kind="chord" x1="-222.5" y1="-385.381" x2="-222.5" y2="385.381" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-63" data-kind="chord" x1="-314.663" y1="-314.663" x2="-115.175" y2="429.837" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-64" data-kind="chord" x1="-385.381" y1="-222.5" x2="0.0" y2="445.0" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-65" data-kind="chord" x1="-429.837" y1="-115.175" x2="115.175" y2="429.837" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-66" data-kind="chord" x1="-445.0" y1="-0.0" x2="222.5" y2="385.381" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-67" data-kind="chord" x1="-429.837" y1="115.175" x2="314.663" y2="314.663" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-68" data-kind="chord" x1="-385.381" y1="222.5" x2="385.381" y2="222.5" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-69" data-kind="chord" x1="-314.663" y1="314.663" x2="429.837" y2="115.175" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-70" data-kind="chord" x1="-222.5" y1="385.381" x2="445.0" y2="-0.0" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+<line id="edge-71" data-kind="chord" x1="-115.175" y1="429.837" x2="429.837" y2="-115.175" stroke="#71839a" stroke-width="0.68" opacity=".74"/>
+</g><g id="nodes">
+<g id="node-L1" data-entity-id="28" data-kind="lotus"><circle cx="0.0" cy="445.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="448.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">1</text>
+</g>
+<g id="node-L2" data-entity-id="28" data-kind="lotus"><circle cx="115.175" cy="429.837" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="115.175" y="433.23699999999997" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">2</text>
+</g>
+<g id="node-L3" data-entity-id="28" data-kind="lotus"><circle cx="222.5" cy="385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="222.5" y="388.78099999999995" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">3</text>
+</g>
+<g id="node-L4" data-entity-id="28" data-kind="lotus"><circle cx="314.663" cy="314.663" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="314.663" y="318.063" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">4</text>
+</g>
+<g id="node-L5" data-entity-id="28" data-kind="lotus"><circle cx="385.381" cy="222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="385.381" y="225.9" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">5</text>
+</g>
+<g id="node-L6" data-entity-id="28" data-kind="lotus"><circle cx="429.837" cy="115.175" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="429.837" y="118.575" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">6</text>
+</g>
+<g id="node-L7" data-entity-id="28" data-kind="lotus"><circle cx="445.0" cy="-0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="445.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">7</text>
+</g>
+<g id="node-L8" data-entity-id="28" data-kind="lotus"><circle cx="429.837" cy="-115.175" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="429.837" y="-111.77499999999999" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">8</text>
+</g>
+<g id="node-L9" data-entity-id="28" data-kind="lotus"><circle cx="385.381" cy="-222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="385.381" y="-219.1" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">9</text>
+</g>
+<g id="node-L10" data-entity-id="28" data-kind="lotus"><circle cx="314.663" cy="-314.663" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="314.663" y="-311.26300000000003" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">10</text>
+</g>
+<g id="node-L11" data-entity-id="28" data-kind="lotus"><circle cx="222.5" cy="-385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="222.5" y="-381.981" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">11</text>
+</g>
+<g id="node-L12" data-entity-id="28" data-kind="lotus"><circle cx="115.175" cy="-429.837" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="115.175" y="-426.437" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">12</text>
+</g>
+<g id="node-L13" data-entity-id="28" data-kind="lotus"><circle cx="0.0" cy="-445.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="-441.6" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">13</text>
+</g>
+<g id="node-L14" data-entity-id="28" data-kind="lotus"><circle cx="-115.175" cy="-429.837" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-115.175" y="-426.437" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">14</text>
+</g>
+<g id="node-L15" data-entity-id="28" data-kind="lotus"><circle cx="-222.5" cy="-385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-222.5" y="-381.981" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">15</text>
+</g>
+<g id="node-L16" data-entity-id="28" data-kind="lotus"><circle cx="-314.663" cy="-314.663" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-314.663" y="-311.26300000000003" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">16</text>
+</g>
+<g id="node-L17" data-entity-id="28" data-kind="lotus"><circle cx="-385.381" cy="-222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-385.381" y="-219.1" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">17</text>
+</g>
+<g id="node-L18" data-entity-id="28" data-kind="lotus"><circle cx="-429.837" cy="-115.175" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-429.837" y="-111.77499999999999" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">18</text>
+</g>
+<g id="node-L19" data-entity-id="28" data-kind="lotus"><circle cx="-445.0" cy="-0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-445.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">19</text>
+</g>
+<g id="node-L20" data-entity-id="28" data-kind="lotus"><circle cx="-429.837" cy="115.175" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-429.837" y="118.575" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">20</text>
+</g>
+<g id="node-L21" data-entity-id="28" data-kind="lotus"><circle cx="-385.381" cy="222.5" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-385.381" y="225.9" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">21</text>
+</g>
+<g id="node-L22" data-entity-id="28" data-kind="lotus"><circle cx="-314.663" cy="314.663" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-314.663" y="318.063" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">22</text>
+</g>
+<g id="node-L23" data-entity-id="28" data-kind="lotus"><circle cx="-222.5" cy="385.381" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-222.5" y="388.78099999999995" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">23</text>
+</g>
+<g id="node-L24" data-entity-id="28" data-kind="lotus"><circle cx="-115.175" cy="429.837" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="-115.175" y="433.23699999999997" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">24</text>
+</g>
+<g id="node-C" data-entity-id="28" data-kind="core"><circle cx="0.0" cy="0.0" r="10" fill="#fbfaf6" stroke="#bd704b" stroke-width="2"/>
+<text x="0.0" y="3.4" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#24324a">0</text>
+</g>
+</g>
+<text x="0" y="-467" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#24324a">KEUM · LOTUS</text>
+<text x="0" y="480" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#71839a">SYMBOLIC MODEL · NOT EMPIRICAL PHYSICS</text>
+</svg>

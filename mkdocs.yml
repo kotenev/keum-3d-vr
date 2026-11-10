@@ -1,0 +1,66 @@
+site_name: KEUM — Mathematical & Architecture Reference
+site_description: Формальная математическая и программная архитектура символической Kathara–Eckasha модели
+site_url: https://kotenev.github.io/keum-3d-vr/
+repo_url: https://github.com/kotenev/keum-3d-vr
+repo_name: kotenev/keum-3d-vr
+docs_dir: mkdocs
+site_dir: site
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+    - search.highlight
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: cyan
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+nav:
+  - Обзор: index.md
+  - Методология: methodology.md
+  - Архитектура:
+      - Системный контекст: architecture/system.md
+      - Компоненты и данные: architecture/components.md
+      - Контракты и форматы: architecture/contracts.md
+  - Математика:
+      - Аксиомы и пространства: mathematics/foundations.md
+      - Графы и потоки: mathematics/graphs.md
+      - Динамика и резонанс: mathematics/dynamics.md
+      - Геометрия и проекции: mathematics/geometry.md
+      - Топология и численные методы: mathematics/numerics.md
+  - Семейства моделей:
+      - Космология и плотности: models/cosmology.md
+      - Kathara, Lotus, Reuche: models/kathara-lotus.md
+      - Merkaba, PCM и PKA: models/merkaba.md
+      - Hova, DNA, Fire Codes: models/hova-dna.md
+  - Реализация:
+      - SVG и glTF: implementation/rendering.md
+      - Тестирование: implementation/testing.md
+      - Прослеживаемость: implementation/traceability.md
+  - Источники: bibliography.md
+  - Глоссарий: glossary.md

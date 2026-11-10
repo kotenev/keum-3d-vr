@@ -1,0 +1,427 @@
+{
+  "schema": "keum.graph.v1",
+  "preset": "merkaba",
+  "seed": 0,
+  "complexity": 2,
+  "units": "normalized",
+  "source_status": "symbolic reconstruction",
+  "nodes": [
+    {
+      "id": "PCM0",
+      "position": [
+        3.7,
+        0.0,
+        1.5
+      ],
+      "kind": "vertex",
+      "entity_id": 41,
+      "label": "PCM",
+      "group": "PCM"
+    },
+    {
+      "id": "PCM1",
+      "position": [
+        -1.85,
+        3.20429,
+        1.5
+      ],
+      "kind": "vertex",
+      "entity_id": 41,
+      "label": "PCM",
+      "group": "PCM"
+    },
+    {
+      "id": "PCM2",
+      "position": [
+        -1.85,
+        -3.20429,
+        1.5
+      ],
+      "kind": "vertex",
+      "entity_id": 41,
+      "label": "PCM",
+      "group": "PCM"
+    },
+    {
+      "id": "PCMT",
+      "position": [
+        0,
+        0,
+        -4
+      ],
+      "kind": "apex",
+      "entity_id": 41,
+      "label": "PCM",
+      "group": "PCM"
+    },
+    {
+      "id": "PKA0",
+      "position": [
+        3.7,
+        0.0,
+        -1.5
+      ],
+      "kind": "vertex",
+      "entity_id": 41,
+      "label": "PKA",
+      "group": "PKA"
+    },
+    {
+      "id": "PKA1",
+      "position": [
+        -1.85,
+        3.20429,
+        -1.5
+      ],
+      "kind": "vertex",
+      "entity_id": 41,
+      "label": "PKA",
+      "group": "PKA"
+    },
+    {
+      "id": "PKA2",
+      "position": [
+        -1.85,
+        -3.20429,
+        -1.5
+      ],
+      "kind": "vertex",
+      "entity_id": 41,
+      "label": "PKA",
+      "group": "PKA"
+    },
+    {
+      "id": "PKAT",
+      "position": [
+        0,
+        0,
+        4
+      ],
+      "kind": "apex",
+      "entity_id": 41,
+      "label": "PKA",
+      "group": "PKA"
+    },
+    {
+      "id": "V1",
+      "position": [
+        0.0,
+        -4.8,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "1",
+      "group": "vortex"
+    },
+    {
+      "id": "V2",
+      "position": [
+        2.4,
+        -4.15692,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "2",
+      "group": "vortex"
+    },
+    {
+      "id": "V3",
+      "position": [
+        4.15692,
+        -2.4,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "3",
+      "group": "vortex"
+    },
+    {
+      "id": "V4",
+      "position": [
+        4.8,
+        0.0,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "4",
+      "group": "vortex"
+    },
+    {
+      "id": "V5",
+      "position": [
+        4.15692,
+        2.4,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "5",
+      "group": "vortex"
+    },
+    {
+      "id": "V6",
+      "position": [
+        2.4,
+        4.15692,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "6",
+      "group": "vortex"
+    },
+    {
+      "id": "V7",
+      "position": [
+        0.0,
+        4.8,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "7",
+      "group": "vortex"
+    },
+    {
+      "id": "V8",
+      "position": [
+        -2.4,
+        4.15692,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "8",
+      "group": "vortex"
+    },
+    {
+      "id": "V9",
+      "position": [
+        -4.15692,
+        2.4,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "9",
+      "group": "vortex"
+    },
+    {
+      "id": "V10",
+      "position": [
+        -4.8,
+        0.0,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "10",
+      "group": "vortex"
+    },
+    {
+      "id": "V11",
+      "position": [
+        -4.15692,
+        -2.4,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "11",
+      "group": "vortex"
+    },
+    {
+      "id": "V12",
+      "position": [
+        -2.4,
+        -4.15692,
+        0
+      ],
+      "kind": "vortex",
+      "entity_id": 258,
+      "label": "12",
+      "group": "vortex"
+    }
+  ],
+  "edges": [
+    {
+      "source": "PCM0",
+      "target": "PCM1",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PCM"
+    },
+    {
+      "source": "PCM0",
+      "target": "PCMT",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PCM"
+    },
+    {
+      "source": "PCM1",
+      "target": "PCM2",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PCM"
+    },
+    {
+      "source": "PCM1",
+      "target": "PCMT",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PCM"
+    },
+    {
+      "source": "PCM2",
+      "target": "PCM0",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PCM"
+    },
+    {
+      "source": "PCM2",
+      "target": "PCMT",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PCM"
+    },
+    {
+      "source": "PKA0",
+      "target": "PKA1",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PKA"
+    },
+    {
+      "source": "PKA0",
+      "target": "PKAT",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PKA"
+    },
+    {
+      "source": "PKA1",
+      "target": "PKA2",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PKA"
+    },
+    {
+      "source": "PKA1",
+      "target": "PKAT",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PKA"
+    },
+    {
+      "source": "PKA2",
+      "target": "PKA0",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PKA"
+    },
+    {
+      "source": "PKA2",
+      "target": "PKAT",
+      "kind": "frame",
+      "weight": 1,
+      "group": "PKA"
+    },
+    {
+      "source": "V1",
+      "target": "V2",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V2",
+      "target": "V3",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V3",
+      "target": "V4",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V4",
+      "target": "V5",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V5",
+      "target": "V6",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V6",
+      "target": "V7",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V7",
+      "target": "V8",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V8",
+      "target": "V9",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V9",
+      "target": "V10",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V10",
+      "target": "V11",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V11",
+      "target": "V12",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    },
+    {
+      "source": "V12",
+      "target": "V1",
+      "kind": "ring",
+      "weight": 0.65,
+      "group": "vortex"
+    }
+  ],
+  "annotations": [],
+  "metadata": {
+    "entity_id": 41,
+    "source_images": "1–49 (conceptual mapping; not exact digitization)",
+    "coordinate_system": "right-handed; z-up",
+    "license_note": "Original geometry generated from formal rules"
+  }
+}

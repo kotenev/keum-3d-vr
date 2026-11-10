@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="-500 -500 1000 1000" role="img">
+<title>MERKABA</title><desc>{&quot;preset&quot;: &quot;merkaba&quot;, &quot;size&quot;: 1000, &quot;theme&quot;: &quot;manuscript&quot;, &quot;complexity&quot;: 2, &quot;symbolic&quot;: true}</desc>
+<rect x="-500" y="-500" width="1000" height="1000" fill="#faf9f5"/>
+<line x1="-390.000" y1="0.000" x2="390.000" y2="0.000" stroke="#89919b" stroke-width="0.8" opacity="1" stroke-dasharray="6,6" />
+<line x1="0.000" y1="-390.000" x2="0.000" y2="390.000" stroke="#89919b" stroke-width="0.8" opacity="1" stroke-dasharray="6,6" />
+<circle cx="0.000" cy="0.000" r="360.000" stroke="#89919b" stroke-width="1.4" fill="none" opacity="1"/>
+<path d="M 0.000,-140.000 L 121.244,70.000 L -121.244,70.000 Z" fill="none" stroke="#253044" stroke-width="2.3" opacity="1"/>
+<path d="M 0.000,140.000 L -121.244,-70.000 L 121.244,-70.000 Z" fill="none" stroke="#a15d38" stroke-width="2.3" opacity="1"/>
+<circle cx="0.000" cy="0.000" r="140.000" stroke="#89919b" stroke-width="0.7" fill="none" opacity="1"/>
+<path d="M 0.000,-235.000 L 203.516,117.500 L -203.516,117.500 Z" fill="none" stroke="#253044" stroke-width="2.3" opacity="1"/>
+<path d="M 0.000,235.000 L -203.516,-117.500 L 203.516,-117.500 Z" fill="none" stroke="#a15d38" stroke-width="2.3" opacity="1"/>
+<circle cx="0.000" cy="0.000" r="235.000" stroke="#89919b" stroke-width="0.7" fill="none" opacity="1"/>
+<path d="M 0.000,-315.000 L 272.798,157.500 L -272.798,157.500 Z" fill="none" stroke="#253044" stroke-width="2.3" opacity="1"/>
+<path d="M 0.000,315.000 L -272.798,-157.500 L 272.798,-157.500 Z" fill="none" stroke="#a15d38" stroke-width="2.3" opacity="1"/>
+<circle cx="0.000" cy="0.000" r="315.000" stroke="#89919b" stroke-width="0.7" fill="none" opacity="1"/>
+<line x1="90.000" y1="0.000" x2="330.000" y2="0.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="77.942" y1="45.000" x2="285.788" y2="165.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="45.000" y1="77.942" x2="165.000" y2="285.788" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="0.000" y1="90.000" x2="0.000" y2="330.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="-45.000" y1="77.942" x2="-165.000" y2="285.788" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="-77.942" y1="45.000" x2="-285.788" y2="165.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="-90.000" y1="0.000" x2="-330.000" y2="0.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="-77.942" y1="-45.000" x2="-285.788" y2="-165.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="-45.000" y1="-77.942" x2="-165.000" y2="-285.788" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="-0.000" y1="-90.000" x2="-0.000" y2="-330.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="45.000" y1="-77.942" x2="165.000" y2="-285.788" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<line x1="77.942" y1="-45.000" x2="285.788" y2="-165.000" stroke="#89919b" stroke-width="0.7" opacity="0.7" />
+<text x="0.00" y="405.00" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#253044">PCM ↻ / PKA ↺ · COUNTER-ROTATION</text>
+<text x="0.00" y="-460.00" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#253044">MERKABA</text>
+<text x="0.00" y="466.00" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#89919b">KEUM VECTOR ENGINE · SYMBOLIC / NON-EMPIRICAL</text>
+</svg>

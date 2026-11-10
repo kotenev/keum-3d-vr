@@ -1,0 +1,4213 @@
+[
+  {
+    "entity_id": 1,
+    "name": "Keylontic Science",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 2,
+    "name": "Freedom Teachings",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 3,
+    "name": "15-Dimensional Time Matrix",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 4,
+    "name": "Density Levels",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 5,
+    "name": "Veca Universe",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 6,
+    "name": "Ecka Universe",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 7,
+    "name": "Ecka-Asha",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 8,
+    "name": "Eckasha",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 9,
+    "name": "Eckasha-A",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 10,
+    "name": "God Worlds",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 11,
+    "name": "Inner God Worlds",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 12,
+    "name": "Middle God Worlds",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 13,
+    "name": "Higher God Worlds",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 14,
+    "name": "Primal God-Seed Core Worlds",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 15,
+    "name": "Particum Universe",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 16,
+    "name": "Partiki Universe",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 17,
+    "name": "Partika Universe",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 18,
+    "name": "Parallel Earth",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 19,
+    "name": "Inner Earth",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 20,
+    "name": "Universal Shield",
+    "category": "Космология",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 21,
+    "name": "Kathara Grid",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 22,
+    "name": "Kathara Signets",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "shield",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 23,
+    "name": "Kathara Shields",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "shield",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 24,
+    "name": "Divine Blueprint",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 25,
+    "name": "Crystal Body Template",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 26,
+    "name": "Ecka-Veca Crystal Body",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 27,
+    "name": "Base Shield",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 28,
+    "name": "Lotus Arcs",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 29,
+    "name": "Lotus Bud",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 30,
+    "name": "45° Lotus Projection",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "axiotonal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 31,
+    "name": "Reuche Pillars",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 32,
+    "name": "Le-eTOR-A Chambers",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 33,
+    "name": "Seed Atom",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 34,
+    "name": "Christos Seed Atom",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 35,
+    "name": "12-Point Primary Lotus Arc Sets",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 36,
+    "name": "Veca Codes",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 37,
+    "name": "Ecka Codes",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 38,
+    "name": "Scepter Codes",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 39,
+    "name": "Transtharmonic Codes",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 40,
+    "name": "12-Strand Silicate Matrix",
+    "category": "Сакральная геометрия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 41,
+    "name": "Merkaba",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 42,
+    "name": "Christiac Merkaba",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 43,
+    "name": "Bi-Veca Merkaba",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 44,
+    "name": "Merkaba Spiral Sets",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 45,
+    "name": "Counter-Rotating Spirals",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 46,
+    "name": "Universal Veca Merkaba Fields",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 47,
+    "name": "Hallah Phase",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 48,
+    "name": "Quatra Phase",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 49,
+    "name": "Mahunta Phase",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 50,
+    "name": "Rahunta Phase",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 51,
+    "name": "PCM Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 52,
+    "name": "PKA Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 53,
+    "name": "Electrical Yon-A Spiral",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 54,
+    "name": "Magnetic Yin Spiral",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 55,
+    "name": "Rod and Staff",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 56,
+    "name": "Horizontal Veca Axis",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 57,
+    "name": "Vertical Veca Axis",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 58,
+    "name": "Radiant Body",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 59,
+    "name": "Parameter Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 60,
+    "name": "Primal Light Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 61,
+    "name": "Monadic Breathing",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 62,
+    "name": "24 ManA Breaths",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 63,
+    "name": "First Six ManA Breaths",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 64,
+    "name": "AzurA Lotus Flow",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 65,
+    "name": "In-Breath of God",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 66,
+    "name": "Out-Breath of God",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 67,
+    "name": "Great Exhale",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 68,
+    "name": "Manifestation",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 69,
+    "name": "De-manifestation",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 70,
+    "name": "Transduction Sequence",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 71,
+    "name": "Accretion",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 72,
+    "name": "Time Cycle Rotation",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "clock",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 73,
+    "name": "Universal Veca Octaves",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "clock",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 74,
+    "name": "Dimensional Harmonics",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 75,
+    "name": "Frequency Bands",
+    "category": "Дыхание и циклы",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 76,
+    "name": "AzurA",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 77,
+    "name": "Chakra 10",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 78,
+    "name": "Chakra 11",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 79,
+    "name": "Monadic Atomic Body",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 80,
+    "name": "Emotional Elemental Body",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 81,
+    "name": "Mental Body",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 82,
+    "name": "Dimensional Kathara Grids",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "cosmology",
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 83,
+    "name": "Incarnate Identity",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 84,
+    "name": "Soul Identity",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 85,
+    "name": "Over-Soul Identity",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 86,
+    "name": "Avatar Identity",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 87,
+    "name": "Rishi Identity",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 88,
+    "name": "12-Strand DNA Activation",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 89,
+    "name": "DNA Accretion",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 90,
+    "name": "Interdimensional Travel",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 91,
+    "name": "Halls of Amenti",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 92,
+    "name": "Star Gate System",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 93,
+    "name": "Planetary Shields",
+    "category": "Планетарные модели",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 94,
+    "name": "Earth D-2 Elemental Clock",
+    "category": "Планетарные модели",
+    "primary_geometry": "clock",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 95,
+    "name": "Earth Celestial Pole",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 96,
+    "name": "False South Celestial Pole",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 97,
+    "name": "Ecliptic Plane",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 98,
+    "name": "Solar North–South Axis",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 99,
+    "name": "Earth Elemental Grid",
+    "category": "Планетарные модели",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 100,
+    "name": "ARPS — Angular Rotation of Particle Spin",
+    "category": "Планетарные модели",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 101,
+    "name": "Star Gate Signal Sites",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 102,
+    "name": "Inner and Parallel Earth Relationships",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 103,
+    "name": "15-Chakra System",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 104,
+    "name": "Seven Primary Chakras",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 105,
+    "name": "Eight Morphogenetic Chakras",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 106,
+    "name": "Kathara Centers",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 107,
+    "name": "Kathara Lines",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 108,
+    "name": "Central Vertical Current",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 109,
+    "name": "Antahkarana",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 110,
+    "name": "Cranial-Sacral Seals",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 111,
+    "name": "Pineal Seal",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 112,
+    "name": "Tailbone Seal",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 113,
+    "name": "Maharic Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 114,
+    "name": "Planetary Maharic Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 115,
+    "name": "Personal Maharic Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 116,
+    "name": "Telluric Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 117,
+    "name": "Doradic Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 118,
+    "name": "Teuric Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 119,
+    "name": "Crystal Seals",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 120,
+    "name": "Star Crystal Seals",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 121,
+    "name": "Axi-Tonal Lines",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 122,
+    "name": "Energy Meridians",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 123,
+    "name": "Nada Hova",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 124,
+    "name": "Alphi Hova",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 125,
+    "name": "Betcha Hova",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 126,
+    "name": "Mahara Hova",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 127,
+    "name": "Raja Hova",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 128,
+    "name": "Taurenic Body",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 129,
+    "name": "Doradic Body",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 130,
+    "name": "Metatronic Body",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 131,
+    "name": "Hydronic Body",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 132,
+    "name": "Hedronic Body",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 133,
+    "name": "Hova Body Identity Stations",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 134,
+    "name": "Morphogenetic Field",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 135,
+    "name": "Scalar Shield",
+    "category": "Тела Hova",
+    "primary_geometry": "hova",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 136,
+    "name": "DNA Base Codes",
+    "category": "ДНК и коды",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 137,
+    "name": "DNA Acceleration Codes",
+    "category": "ДНК и коды",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 138,
+    "name": "DNA Fire Codes",
+    "category": "ДНК и коды",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 139,
+    "name": "Strand Template",
+    "category": "ДНК и коды",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 140,
+    "name": "DNA Frequency Accretion",
+    "category": "ДНК и коды",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 141,
+    "name": "Original Human Genome Template",
+    "category": "ДНК и коды",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 142,
+    "name": "Silicate Matrix Activation",
+    "category": "ДНК и коды",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 143,
+    "name": "Crystal Seal Activation",
+    "category": "ДНК и коды",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 144,
+    "name": "Eckasha-Aah",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 145,
+    "name": "Cosmic Krist",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 146,
+    "name": "Twelve Reuche Pillars",
+    "category": "Космология",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 147,
+    "name": "Veca Quadrants",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 148,
+    "name": "Parallel Primal Light-Sound Field",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 149,
+    "name": "Ecka Corridor",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 150,
+    "name": "Eckasha Corridor",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 151,
+    "name": "Dimensional Locks",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 152,
+    "name": "Density Locks",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 153,
+    "name": "Density Axis",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 154,
+    "name": "Heliotalic Seur Pillar",
+    "category": "Космология",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 155,
+    "name": "Density-1 Transharmonic Grid",
+    "category": "Космология",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "cosmology"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 156,
+    "name": "Embedded Density",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 157,
+    "name": "Density Locks Matrix",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 158,
+    "name": "Cosmic God-World Corridor",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 159,
+    "name": "Seed Flames",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 160,
+    "name": "Amoraea Flame",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 161,
+    "name": "Ecka-LotA Crystal Body",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 162,
+    "name": "Le-eTOR-A Flame",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 163,
+    "name": "Sha-LA-a Flame",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 164,
+    "name": "Amoraea Radiation Chambers",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 165,
+    "name": "Crystal Body Lotus",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 166,
+    "name": "Sho-na Transposition Filter",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 167,
+    "name": "Miasmic Crystals",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 168,
+    "name": "Organic Imprint",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 169,
+    "name": "Flame Body Activation",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 170,
+    "name": "Kathara Crystal Body Healing",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 171,
+    "name": "Double Bi-Veca Merkaba",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 172,
+    "name": "PCM Merkaba Actual Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 173,
+    "name": "PKA Merkaba Actual Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 174,
+    "name": "Merkaba Peripheral Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 175,
+    "name": "Electrical Merkaba Spin Current",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 176,
+    "name": "Magnetic Merkaba Spin Current",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 177,
+    "name": "Monad Placement",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 178,
+    "name": "D-13 Monad",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 179,
+    "name": "Christiac Merkaba Vehicle",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 180,
+    "name": "Seed Atom Activation",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 181,
+    "name": "Ecka-Veca Body Manifestation Sequence",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 182,
+    "name": "LotE’ Holographic Crystal Body",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 183,
+    "name": "PCM LotE’ Template",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 184,
+    "name": "Primal Kathara Template",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 185,
+    "name": "Density Kathara Template",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "cosmology",
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 186,
+    "name": "Ecka Monadic Beam",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 187,
+    "name": "D-13 Central Pillar",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 188,
+    "name": "Staff Spindle",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 189,
+    "name": "Rod Spindle",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 190,
+    "name": "Staff Spindle Pillar",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "reuche"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 191,
+    "name": "Rod Spindle Pillar",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "reuche"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 192,
+    "name": "Reuche Spindles",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "reuche"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 193,
+    "name": "LotE’ Reuche Spindle Lines",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "lotus",
+      "reuche"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 194,
+    "name": "Primary Lotus Arc Formation",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 195,
+    "name": "6-Petal Lotus Arc",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 196,
+    "name": "LotE’ Standing Wave Field",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 197,
+    "name": "Vertical Transmission Lines",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 198,
+    "name": "Shield Node Polarization",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 199,
+    "name": "Density Shield Intersections",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "shield",
+    "related_geometry": [
+      "cosmology"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 200,
+    "name": "Crystal Body Heartbeat",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 201,
+    "name": "Eukatharista",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 202,
+    "name": "Cosmic Eternal Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 203,
+    "name": "Eiros Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 204,
+    "name": "Dora-Amoraea Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 205,
+    "name": "Teura-Amoraea Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 206,
+    "name": "Mahara-Amoraea Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 207,
+    "name": "Raja-Amoraea Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 208,
+    "name": "Ecka Flame Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 209,
+    "name": "Radial Body",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 210,
+    "name": "Radial Body Depolarization",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 211,
+    "name": "Flame Body Integration",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 212,
+    "name": "Ecka Passage",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 213,
+    "name": "Ecka Circumnavigation",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 214,
+    "name": "Veca Density Lock Seals",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "shield",
+    "related_geometry": [
+      "cosmology"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 215,
+    "name": "Eternal Amoraea Flame",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 216,
+    "name": "Eckasha-A Aah-LA’ Body",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 217,
+    "name": "Reishadon Cells",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 218,
+    "name": "ReishaLAe Hub",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 219,
+    "name": "Reishadon Cluster",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 220,
+    "name": "First Partiki Unit",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 221,
+    "name": "Adon Cell Cluster",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 222,
+    "name": "Eiradons",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 223,
+    "name": "Manadons",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 224,
+    "name": "Etheric Reishadon Cells",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 225,
+    "name": "Atomic Reishadon Cells",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 226,
+    "name": "Ketheric Reishadon Cells",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 227,
+    "name": "E-LA-A Core",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 228,
+    "name": "Primal Force Field ManU–ManA–EirA",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 229,
+    "name": "Universal Radial Body",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 230,
+    "name": "Galactic Eckasha Map",
+    "category": "Планетарные модели",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 231,
+    "name": "Veca Codes and Radial Body Merger",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 232,
+    "name": "Density Radial Body",
+    "category": "Планетарные модели",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 233,
+    "name": "Primal Light-Sound Field Merger",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 234,
+    "name": "Universal Radial Body Expansion",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 235,
+    "name": "Cosmic Clock Correspondence",
+    "category": "Планетарные модели",
+    "primary_geometry": "clock",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 236,
+    "name": "Planetary Orbital Alignment",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 237,
+    "name": "Galactic Density Structure",
+    "category": "Планетарные модели",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 238,
+    "name": "Eckasha Universal Radial Map",
+    "category": "Планетарные модели",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 239,
+    "name": "Reu-Sha-TA Spiral",
+    "category": "Спирали и вихри",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 240,
+    "name": "Reuche Base Shield",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 241,
+    "name": "Counter-Rotating Etheric Spirals",
+    "category": "Спирали и вихри",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 242,
+    "name": "Reuche Vortices",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 243,
+    "name": "Reuche Chakra Vortices",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [
+      "hova"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 244,
+    "name": "Eiros Seed Atom",
+    "category": "Спирали и вихри",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 245,
+    "name": "Ethos Seed Atom",
+    "category": "Спирали и вихри",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 246,
+    "name": "Yon-a-Sa Seed Atom",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 247,
+    "name": "Photo-Flame Cells",
+    "category": "Спирали и вихри",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 248,
+    "name": "Fifteen Atomic Currents",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 249,
+    "name": "Inhale-Contraction Pillars",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 250,
+    "name": "Exhale Expansion",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 251,
+    "name": "Sha-LA-a Etheric-Atomic Current",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 252,
+    "name": "Manos Etheric Current",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 253,
+    "name": "Four-Way Reuche Chakra Expansion",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [
+      "hova"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 254,
+    "name": "Crystal Body Life-Force Production",
+    "category": "Спирали и вихри",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 255,
+    "name": "Reuche Spiral Fueling",
+    "category": "Спирали и вихри",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "reuche"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 256,
+    "name": "Densification Phase 3C",
+    "category": "Проекции и голография",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 257,
+    "name": "Densification Phase 3D",
+    "category": "Проекции и голография",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 258,
+    "name": "Vector Vortices",
+    "category": "Проекции и голография",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 259,
+    "name": "Ti’LE’a Vector Projection Plane",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 260,
+    "name": "Twelve Ti’LE’a Projection Planes",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 261,
+    "name": "Vector Code Template",
+    "category": "Проекции и голография",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 262,
+    "name": "Fire Letter Projection Lines",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 263,
+    "name": "Axiom Lines",
+    "category": "Проекции и голография",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 264,
+    "name": "Meridian Lines",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 265,
+    "name": "Ti’LE’a Sphere Refraction Screen",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 266,
+    "name": "Holographic Projection Screen",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 267,
+    "name": "Reion Field Sphere",
+    "category": "Проекции и голография",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 268,
+    "name": "Angular Facets",
+    "category": "Проекции и голография",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 269,
+    "name": "Vector Projection Angle",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 270,
+    "name": "Interwoven Projection Planes",
+    "category": "Проекции и голография",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 271,
+    "name": "Seed Atom Standing-Wave Flame Radiation",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 272,
+    "name": "Bi-Polar Seed Flames",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 273,
+    "name": "Tri-Polar Seed Flames",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 274,
+    "name": "360-Charge Amoraea Flame",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 275,
+    "name": "90-Charge Spark",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 276,
+    "name": "Ecka Base Shield Standing-Wave Disc",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 277,
+    "name": "Yon-A-Sa Base Shield",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 278,
+    "name": "Reuche Pillar Polarization",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 279,
+    "name": "24-Petal Ecka-Lota Lotus Arc Set",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 280,
+    "name": "Krist Code Stepping-Down",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 281,
+    "name": "24 Lotus Points",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 282,
+    "name": "20 Embodied Ethos Etheric Flames",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 283,
+    "name": "Etheric Flame Centres",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 284,
+    "name": "Five Density Locks",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 285,
+    "name": "Mahadra Ethos Flame",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 286,
+    "name": "E-Umbl Ethos Flame",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 287,
+    "name": "Azura-A Seed Atom",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 288,
+    "name": "Raihna Ethos Flame",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 289,
+    "name": "Adhrina Ethos Flame",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 290,
+    "name": "Checkerboard Mutation",
+    "category": "Пламена и Eukatharista",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 291,
+    "name": "Ecka-Lota Template",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 292,
+    "name": "PKA Loti Template",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 293,
+    "name": "PCM LotE’ Template Expansion",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 294,
+    "name": "45-Charge Le-eTOR-A Spark",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 295,
+    "name": "Sha-LA-a Veca Seed Atom",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 296,
+    "name": "Shaddhi Sha-LA-a Chambers",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 297,
+    "name": "Shaddum Sha-LA-a Chambers",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 298,
+    "name": "Four Veca Reuche Pillar Sets",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 299,
+    "name": "Primary Amoraea Radiation Chambers",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 300,
+    "name": "Tri-Polar 45° Tri-Veca Radiation",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 301,
+    "name": "Matradon Radiation Matrix",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 302,
+    "name": "Lotosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 303,
+    "name": "Logosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 304,
+    "name": "Photosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 305,
+    "name": "Bi-Polar Photospheres",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 306,
+    "name": "Photos Crystal Radiation Matrix",
+    "category": "Матрицы излучения",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 307,
+    "name": "Matradon Mother Cell",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 308,
+    "name": "Eight Inner Cells",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 309,
+    "name": "Moda Light Cell",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 310,
+    "name": "Adhura Sound Cell",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 311,
+    "name": "Moda-AdhurA Polarity",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 312,
+    "name": "Gender Cell Pair",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 313,
+    "name": "Michael-Mary Lines",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 314,
+    "name": "Circular Projection Geometry",
+    "category": "Планетарные модели",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 315,
+    "name": "Rotational Angular Correspondence",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 316,
+    "name": "Concentric Field Alignment",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 317,
+    "name": "Geometric Axis Intersection",
+    "category": "Планетарные модели",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 318,
+    "name": "Cosmic Clock Projection",
+    "category": "Планетарные модели",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [
+      "clock"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 319,
+    "name": "12-Dimensional Christos Divine Blueprint",
+    "category": "Коды и Christos",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 320,
+    "name": "Natural Universal Christos Shield",
+    "category": "Коды и Christos",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 321,
+    "name": "144 Fire Letters",
+    "category": "Коды и Christos",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 322,
+    "name": "Fire Letter Sequences",
+    "category": "Коды и Christos",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 323,
+    "name": "Core Scalar Blueprint",
+    "category": "Коды и Christos",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 324,
+    "name": "Universal Shield Unified Field",
+    "category": "Коды и Christos",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 325,
+    "name": "Krist Cross of Eternal Life",
+    "category": "Коды и Christos",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 326,
+    "name": "Twelve Signet Star Gates",
+    "category": "Коды и Christos",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 327,
+    "name": "Divine Blueprint Regeneration",
+    "category": "Коды и Christos",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 328,
+    "name": "Yan-Yun Electromagnetic Density Flows",
+    "category": "Меркаба и поля",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 329,
+    "name": "Natural Merkaba Circulatory System",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 330,
+    "name": "Christiac Bi-Veca Merkaba Vehicle Formation",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 331,
+    "name": "Three Eyes of Ra",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 332,
+    "name": "Photo-Flame-Cell Morphogenetic Fields",
+    "category": "Матрицы излучения",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 333,
+    "name": "Light and Sound Cell Polarity",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 334,
+    "name": "Ethos-Eiros Etheric Merkaba",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "flame"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 335,
+    "name": "Bio-Etheric Interface System",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "1–40 (prior register; exact mapping see previous conversation)"
+  },
+  {
+    "entity_id": 336,
+    "name": "Density-1 Transharmonic Bi-Veca Merkaba Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [
+      "cosmology"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 337,
+    "name": "Density-1 Radial Body Boundary",
+    "category": "Меркаба и поля",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 338,
+    "name": "Density-1 Parameter Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 339,
+    "name": "Trion Light Field",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 340,
+    "name": "33 1/3 CW Electrical Top Spiral",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 341,
+    "name": "11 2/3 CCW Magnetic Bottom Spiral",
+    "category": "Меркаба и поля",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 342,
+    "name": "Transharmonic Staff Boundary",
+    "category": "Меркаба и поля",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 343,
+    "name": "Eumbl Thigh-Centre Signet",
+    "category": "Меркаба и поля",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "41"
+  },
+  {
+    "entity_id": 344,
+    "name": "Rishic Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "43"
+  },
+  {
+    "entity_id": 345,
+    "name": "Four Horizontal Shields and One Vertical Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "43"
+  },
+  {
+    "entity_id": 346,
+    "name": "Three Signets per Shield",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "43"
+  },
+  {
+    "entity_id": 347,
+    "name": "Rotating Scalar Shield Disc",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "43"
+  },
+  {
+    "entity_id": 348,
+    "name": "Hova Tissue Capsule",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "hova",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "43"
+  },
+  {
+    "entity_id": 349,
+    "name": "Shield Awakening Claim",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "shield",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "43"
+  },
+  {
+    "entity_id": 350,
+    "name": "Fifteen Manifestation Fields",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 351,
+    "name": "Seven Higher Heavens",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 352,
+    "name": "Seven Lower Heavens",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 353,
+    "name": "Central Heaven",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 354,
+    "name": "Four Kathara Grids at Centers 12 and 13",
+    "category": "Космология",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 355,
+    "name": "Two 15-Dimensional Time Matrices",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 356,
+    "name": "Ecka Inner God-World Time Matrix",
+    "category": "Космология",
+    "primary_geometry": "cosmology",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 357,
+    "name": "Universal Veca Primal Field Kathara Grid",
+    "category": "Космология",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "kathara"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 358,
+    "name": "Eckatic Sound Field",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 359,
+    "name": "Ecka Return-to-Source Circulation",
+    "category": "Космология",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "44"
+  },
+  {
+    "entity_id": 360,
+    "name": "Vortex Actual Source Shield",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 361,
+    "name": "Vortex Actual Field",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 362,
+    "name": "Vortex Virtual Field",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 363,
+    "name": "Vortex Virtual Deflection Field",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 364,
+    "name": "Observable Spiralling Arms",
+    "category": "Спирали и вихри",
+    "primary_geometry": "merkaba",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 365,
+    "name": "Actual versus Virtual Vortex",
+    "category": "Спирали и вихри",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 366,
+    "name": "Eternal Light Perpetual Motion Formula Claim",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 367,
+    "name": "360-Degree God-Seed Thrust Quotient",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 368,
+    "name": "45-Degree Reion Field Charge",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 369,
+    "name": "Fusion-Fission Point",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 370,
+    "name": "Universal Veca Monad",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 371,
+    "name": "Trion Light / Meajhe Sound Field Pair",
+    "category": "Спирали и вихри",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "45"
+  },
+  {
+    "entity_id": 372,
+    "name": "Ethos Etheric Spark-Pulse Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 373,
+    "name": "Eiros Etheric Spark-Pulse Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 374,
+    "name": "Electros Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 375,
+    "name": "Magnos Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 376,
+    "name": "Manos Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 377,
+    "name": "Lotos Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 378,
+    "name": "Electrosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 379,
+    "name": "Magnosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 380,
+    "name": "Ethosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 381,
+    "name": "Eirosphere",
+    "category": "Матрицы излучения",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 382,
+    "name": "Lotosphere EM Etheric-Atomic",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 383,
+    "name": "Etheric-Axiatonal Template",
+    "category": "Матрицы излучения",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 384,
+    "name": "Ethos-Meridian Line Set",
+    "category": "Матрицы излучения",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [
+      "flame"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 385,
+    "name": "Partikulate Current",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 386,
+    "name": "Spark-Pulse Standing-Wave Still Point",
+    "category": "Матрицы излучения",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "46"
+  },
+  {
+    "entity_id": 387,
+    "name": "Stage-3 PCM LotE’ M-T Sequence",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 388,
+    "name": "Primary Reuche Projection Vortices",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "reuche",
+    "related_geometry": [
+      "axiotonal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 389,
+    "name": "Pyramidal Projection Vortices",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "reuche",
+    "related_geometry": [
+      "axiotonal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 390,
+    "name": "24 Vertical Staff Light Grids",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 391,
+    "name": "24 Horizontal Rod Light Grids",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 392,
+    "name": "Milodic-Diodic Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 393,
+    "name": "Reuche Vortex-Point Crossover",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "reuche",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 394,
+    "name": "Three-Dimensional Holographic Crystal Body Light Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "cosmology"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 395,
+    "name": "PCM-PKA Frequency Flow Opening",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "47"
+  },
+  {
+    "entity_id": 396,
+    "name": "Three Embedded Crystal Body Light Grids",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 397,
+    "name": "Ecka-LotA Light Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 398,
+    "name": "PKA Loti Light Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 399,
+    "name": "PCM LotE’ Light Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 400,
+    "name": "Veca Lotum Two-Grid Embedding",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 401,
+    "name": "Sixty Shield Nodes per Light Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "crystal",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 402,
+    "name": "Twenty-Four Arcing Light Lines",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 403,
+    "name": "Singular PCM LotE’ Light Grid",
+    "category": "Кристаллическое тело",
+    "primary_geometry": "lotus",
+    "related_geometry": [
+      "crystal"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "48"
+  },
+  {
+    "entity_id": 404,
+    "name": "Eiros-Axiatonal 12-Line Set",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "flame",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 405,
+    "name": "Ethos-Meridian 12-Line Set",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [
+      "flame"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 406,
+    "name": "Nadis-Magnos 12-Line Set",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 407,
+    "name": "Radis-Electros 12-Line Set",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 408,
+    "name": "Nadis Lines",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 409,
+    "name": "Radis Lines",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 410,
+    "name": "Ethos Shield Line Rotation",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "flame",
+    "related_geometry": [
+      "shield"
+    ],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 411,
+    "name": "Etheric-Axiatonal Meridian Alignment",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "axiotonal",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  },
+  {
+    "entity_id": 412,
+    "name": "Cross-Polar Line Current Configuration",
+    "category": "Энергетическая анатомия",
+    "primary_geometry": "kathara",
+    "related_geometry": [],
+    "mapping_method": "keyword thematic approximation",
+    "confidence": "low",
+    "source": "49"
+  }
+]

@@ -20,13 +20,13 @@
 </aside></main>
 <script>
 const $=id=>document.getElementById(id);
-let width=1000,height=1000,points={reference:[],model:[]},shapes=[],candidates=[],pending=null,history=[];
+let width=1000,height=1000,points={reference:[],model:[]},shapes=[],candidates=[],candidateScale=[1,1],pending=null,history=[];
 const NS='http://www.w3.org/2000/svg';
 function el(name,attrs={}){let e=document.createElementNS(NS,name);for(let [k,v] of Object.entries(attrs))e.setAttribute(k,String(v));return e}
 function saveHistory(){history.push(JSON.stringify({points,shapes}));if(history.length>100)history.shift()}
 function pixel(e){let r=$('draw').getBoundingClientRect();return [+(Math.max(0,Math.min(width,(e.clientX-r.left)/r.width*width))).toFixed(2),+(Math.max(0,Math.min(height,(e.clientY-r.top)/r.height*height))).toFixed(2)]}
 function draw(){const svg=$('draw');svg.replaceChildren();svg.setAttribute('viewBox',`0 0 ${width} ${height}`);
-if($('showCandidates').checked)for(let c of candidates.slice(0,1200)){let t=c.type||c.kind;if(t==='line'&&c.points?.length===2){svg.append(el('line',{x1:c.points[0][0],y1:c.points[0][1],x2:c.points[1][0],y2:c.points[1][1],stroke:'#f6c15b','stroke-width':1,opacity:.5}))}else if(t==='circle'){svg.append(el('circle',{cx:c.x??c.cx,cy:c.y??c.cy,r:c.r,stroke:'#f6c15b',fill:'none',opacity:.4}))}}
+if($('showCandidates').checked)for(let c of candidates.slice(0,1200)){const sx=candidateScale[0],sy=candidateScale[1];if(c.type==='line'&&c.xyxy){let [x1,y1,x2,y2]=c.xyxy;svg.append(el('line',{x1:x1*sx,y1:y1*sy,x2:x2*sx,y2:y2*sy,stroke:'#f6c15b','stroke-width':1,opacity:.5}))}else if(c.type==='circle'){svg.append(el('circle',{cx:c.cx*sx,cy:c.cy*sy,r:c.r*(sx+sy)/2,stroke:'#f6c15b',fill:'none',opacity:.4}))}else if(c.type==='polygon'&&c.vertices){svg.append(el('polygon',{points:c.vertices.map(p=>[p[0]*sx,p[1]*sy].join(',')).join(' '),stroke:'#b78aff',fill:'none',opacity:.35}))}}
 for(let s of shapes){if(s.type==='line')svg.append(el('line',{x1:s.a[0],y1:s.a[1],x2:s.b[0],y2:s.b[1],stroke:'#b4ff9c','stroke-width':2}));if(s.type==='circle')svg.append(el('circle',{cx:s.a[0],cy:s.a[1],r:Math.hypot(s.b[0]-s.a[0],s.b[1]-s.a[1]),stroke:'#b4ff9c','stroke-width':2,fill:'none'}))}
 for(let [key,color] of [['reference','#37e9fa'],['model','#ff77ce']])if($(key==='reference'?'showReference':'showModel').checked){points[key].forEach(([x,y],i)=>{svg.append(el('circle',{cx:x,cy:y,r:5,stroke:'#07101c','stroke-width':1.5,fill:color}));const text=el('text',{x:x+7,y:y-7,fill:color,'font-size':13});text.textContent=String(i+1);svg.append(text)})}
 renderStats()}
@@ -38,7 +38,7 @@ $('log').textContent=JSON.stringify(report,null,2);
 $('records').innerHTML='<table><tr><th>#</th><th>Эталон</th><th>Модель</th></tr>'+Array.from({length:Math.max(a.length,b.length)},(_,i)=>'<tr><td>'+(i+1)+'</td><td>'+(a[i]?.join(', ')||'—')+'</td><td>'+(b[i]?.join(', ')||'—')+'</td></tr>').join('')+'</table>'}
 $('draw').addEventListener('pointerdown',e=>{if(!$('source').naturalWidth)return;let p=pixel(e),mode=$('mode').value;saveHistory();if(mode==='reference'||mode==='model')points[mode].push(p);else if(mode==='erase'){let all=['reference','model'].flatMap(k=>points[k].map((v,i)=>({k,i,d:Math.hypot(v[0]-p[0],v[1]-p[1])}))).sort((a,b)=>a.d-b.d);if(all.length&&all[0].d<20)points[all[0].k].splice(all[0].i,1)}else if(pending){shapes.push({type:mode,a:pending,b:p});pending=null}else pending=p;draw()});
 $('image').onchange=async e=>{let f=e.target.files[0];if(!f)return;const url=URL.createObjectURL(f);$('source').onload=()=>{width=$('source').naturalWidth;height=$('source').naturalHeight;draw()};$('source').src=url};
-$('candidates').onchange=async e=>{const file=e.target.files[0];if(!file)return;const data=JSON.parse(await file.text());candidates=Array.isArray(data)?data:(data.primitives||data.candidates||[]);draw()};
+$('candidates').onchange=async e=>{const file=e.target.files[0];if(!file)return;const data=JSON.parse(await file.text());const geometry=data.geometry||data.primitives||data.candidates||{};candidates=Array.isArray(geometry)?geometry:[...(geometry.lines||[]).map(x=>({...x,type:'line'})),...(geometry.circles||[]).map(x=>({...x,type:'circle'})),...(geometry.polygons||[]).map(x=>({...x,type:'polygon'}))];candidateScale=data.analysis_size?[width/data.analysis_size[0],height/data.analysis_size[1]]:[1,1];draw()};
 $('load').onclick=()=>$('review').click();
 $('review').onchange=async e=>{const f=e.target.files[0];if(!f)return;const data=JSON.parse(await f.text());if(data.schema!=='keum.manual-review.v1')return alert('Неверная схема');points=data.points||{reference:[],model:[]};shapes=data.shapes||[];$('imageId').value=data.image_id;$('conceptId').value=data.concept_id;$('status').value=data.status;$('reviewer').value=data.reviewer||'';$('notes').value=data.notes||'';draw()};
 $('undo').onclick=()=>{if(!history.length)return;({points,shapes}=JSON.parse(history.pop()));draw()};

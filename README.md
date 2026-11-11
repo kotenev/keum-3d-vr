@@ -53,3 +53,14 @@ mkdocs build --strict
 ```
 
 После настройки GitHub Pages на ветку `gh-pages` сайт можно открыть по адресу https://kotenev.github.io/keum-3d-vr/ . Формулы написаны в LaTeX, а отдельная глава содержит нативные примеры MathML. Документация отличает реализованные алгоритмы от математических спецификаций и эзотерических утверждений.
+
+
+## KEUM 3.1 — индивидуальные конструкции и проверка точности
+
+Добавлены [19 специализированных геометрических представлений](mkdocs/implementation/source-aware-models.md), [количественные метрики](concept_engine/fidelity.py) (RMSE, Chamfer, топология), [реестр происхождения](concept_engine/provenance.py) всех 412 понятий и автоматические тесты. Исходные изображения пока не размечены метрологически; специализированная геометрия является интерпретацией, а не точной копией.
+
+```bash
+python3 -m unittest discover -s concept_engine -p 'test_*.py'
+python3 concept_engine/export_all.py --output vector_engine/graph_exports
+python3 concept_engine/provenance.py --output build/provenance_412.json
+```

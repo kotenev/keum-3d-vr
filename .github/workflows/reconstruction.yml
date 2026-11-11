@@ -1,0 +1,35 @@
+name: KEUM image reconstruction QA
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reconstruction/**'
+      - '.github/workflows/reconstruction.yml'
+  pull_request:
+    paths:
+      - 'reconstruction/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install -r reconstruction/requirements.txt
+      - run: python3 -m unittest discover -s reconstruction -p 'test_*.py' -v
+      - name: Check published QA manifest
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('reconstruction/results/manifest.json')
+          data=json.loads(p.read_text())
+          assert data['count']==49
+          assert data['verified_count']==0
+          assert len({x['sha256'] for x in data['records']})==49
+          print('49 source digests and QA records verified')
+          PY

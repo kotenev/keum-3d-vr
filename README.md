@@ -77,3 +77,14 @@ python3 reconstruction/pipeline.py --sources /path/to/49/images --output build/r
 ```
 
 Подробности: [MkDocs — реконструкция 49 изображений](mkdocs/implementation/image-reconstruction.md).
+
+
+## KEUM 3.3 — ручная проверка 49 схем и привязка 412 понятий
+
+Запустите `python3 serve.py` и откройте [инструмент разметки](reconstruction/manual_workbench.html) по адресу `http://localhost:8000/reconstruction/manual_workbench.html`. Загрузите локально оригинальный JPG и соответствующий `candidates.json`, поставьте контрольные точки и экспортируйте JSON проверки.
+
+- [Связи всех 412 понятий с исходными изображениями](reconstruction/results/concept_image_links_412.json) — **77 конкретных подсказок**, **335 неразрешённых**, **0 подтверждённых**.
+- [Валидатор ручных проверок](reconstruction/validate_reviews.py) — контроль источника, геометрических точек, статуса, RMSE/Chamfer.
+- [MkDocs — методика](mkdocs/implementation/image-reconstruction.md).
+
+Оригинальные 49 изображения и полный набор кандидатов OpenCV остаются локальными материалами и не размещены публично. Отметки `verified` могут появляться только после реальной экспертной проверки.

@@ -12,6 +12,7 @@ import json
 import math
 from pathlib import Path
 from xml.etree import ElementTree as ET
+from specializations import specialize
 
 BASE=Path(__file__).resolve().parents[1]
 CATEGORIES={
@@ -85,7 +86,7 @@ def instance(item,t=0.0):
             add(f"n{i}",point(r,a,p["amplitude"]*math.sin(a*2)),"curve")
             if i:link(f"n{i-1}",f"n{i}","curve")
     else:raise AssertionError(kind)
-    return {
+    return specialize({
       "schema":"keum.concept.v1",
       "id":item["id"],"name":item["name"],"category":item["category"],
       "family":kind,"source":item.get("source"),
@@ -93,7 +94,7 @@ def instance(item,t=0.0):
       "time":t,"parameters":p,"nodes":nodes,"edges":edges,
       "invariants":{"node_count":len(nodes),"edge_count":len(edges),
                     "finite_coordinates":True}
-    }
+    })
 
 def validate(model):
     ids={n["id"] for n in model["nodes"]}

@@ -64,3 +64,16 @@ python3 -m unittest discover -s concept_engine -p 'test_*.py'
 python3 concept_engine/export_all.py --output vector_engine/graph_exports
 python3 concept_engine/provenance.py --output build/provenance_412.json
 ```
+
+
+## KEUM 3.2 — реконструкция 49 исходных схем
+
+Добавлен [OpenCV-пайплайн](reconstruction/pipeline.py) извлечения линий, окружностей и контуров, [интерфейс ручной проверки](reconstruction/review.html), [QA-отчёт 49 изображений](reconstruction/results/QA_REPORT.md) и [манифест с SHA-256](reconstruction/results/manifest.json). Обработаны 49 оригинальных JPG; полученные SVG являются **непроверенными кандидатами**, а не геометрически точными реконструкциями.
+
+```bash
+python3 -m pip install -r reconstruction/requirements.txt
+python3 -m unittest discover -s reconstruction -p 'test_*.py'
+python3 reconstruction/pipeline.py --sources /path/to/49/images --output build/reconstruction
+```
+
+Подробности: [MkDocs — реконструкция 49 изображений](mkdocs/implementation/image-reconstruction.md).

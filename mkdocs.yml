@@ -65,6 +65,7 @@ nav:
       - SVG и glTF: implementation/rendering.md
       - Исполняемый движок 412 концепций: implementation/concept-runtime.md
       - Индивидуальные модели и проверка точности: implementation/source-aware-models.md
+      - Реконструкция 49 изображений: implementation/image-reconstruction.md
       - Тестирование: implementation/testing.md
       - Прослеживаемость: implementation/traceability.md
   - Энциклопедия 412 понятий:

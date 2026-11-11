@@ -54,14 +54,40 @@ export function createConcaveEarth(scene,{radius=27,starRadius=12,starCount=850,
     equator.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(curve),new THREE.LineBasicMaterial({color:0xb6a4ff,transparent:true,opacity:.23,depthWrite:false})));
   }
   const core=new THREE.Mesh(new THREE.SphereGeometry(.65,24,16),new THREE.MeshBasicMaterial({color:0xffdca4,transparent:true,opacity:.25,depthWrite:false}));sky.add(core);
+  // Sun and Moon: symbolic local luminaries, both strictly INSIDE the concave shell.
+  // Their orbital radii are less than the star-globe radius, with a tilted lunar path.
+  const luminaries=new THREE.Group();luminaries.name='Sun and Moon';earth.add(luminaries);
+  const sunRadius=1.25,moonRadius=.78,sunOrbit=starRadius*.57,moonOrbit=starRadius*.79;
+  const sun=new THREE.Group();sun.name='Sun';luminaries.add(sun);
+  const sunBody=new THREE.Mesh(new THREE.SphereGeometry(sunRadius,40,28),new THREE.MeshBasicMaterial({color:0xffd36a}));sun.add(sunBody);
+  const corona=new THREE.Mesh(new THREE.SphereGeometry(sunRadius*1.5,32,24),new THREE.MeshBasicMaterial({color:0xffae3b,transparent:true,opacity:.17,depthWrite:false}));sun.add(corona);
+  const sunlight=new THREE.PointLight(0xffd79a,15,starRadius*2,1.5);sun.add(sunlight);
+  const moon=new THREE.Group();moon.name='Moon';luminaries.add(moon);
+  const moonBody=new THREE.Mesh(new THREE.SphereGeometry(moonRadius,32,24),new THREE.MeshStandardMaterial({color:0xcbd2db,roughness:.95,metalness:0,emissive:0x202a40,emissiveIntensity:.12}));moon.add(moonBody);
+  // Explicit illumination: a terminator becomes visible as Sun and Moon move.
+  const moonFill=new THREE.AmbientLight(0x63718a,.16);moon.add(moonFill);
+  function orbitLine(r,tilt,color){
+    const pts=[];for(let k=0;k<=192;k++){const a=k*Math.PI*2/192;pts.push(new THREE.Vector3(r*Math.cos(a),r*Math.sin(a)*Math.sin(tilt),r*Math.sin(a)*Math.cos(tilt)));}
+    const obj=new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),new THREE.LineBasicMaterial({color,transparent:true,opacity:.32,depthWrite:false}));luminaries.add(obj);return obj;
+  }
+  const sunPath=orbitLine(sunOrbit,.08,0xffc66b),moonPath=orbitLine(moonOrbit,.34,0xb2c8e7);
+  let sunPhase=.4,moonPhase=2.5,sunSpeed=.035,moonSpeed=.065;
+  function positionLuminaries(){
+    sun.position.set(sunOrbit*Math.cos(sunPhase),sunOrbit*Math.sin(sunPhase)*Math.sin(.08),sunOrbit*Math.sin(sunPhase)*Math.cos(.08));
+    moon.position.set(moonOrbit*Math.cos(moonPhase),moonOrbit*Math.sin(moonPhase)*Math.sin(.34),moonOrbit*Math.sin(moonPhase)*Math.cos(.34));
+  }
+  positionLuminaries();
   let enabled=true,rotationSpeed=.012;
   return {
-    earth,shell,sky,radius,starRadius,
+    earth,shell,sky,sun,moon,luminaries,radius,starRadius,
     get visible(){return enabled;},
     setVisible(v){enabled=!!v;earth.visible=enabled;},
     setShellOpacity(v){surface.material.opacity=THREE.MathUtils.clamp(v,0,.85);},
     setStarRotationSpeed(v){rotationSpeed=Number(v)||0;},
-    update(dt){if(enabled)sky.rotation.y+=rotationSpeed*dt;},
-    dispose(){scene.remove(earth);tex.dispose();surface.geometry.dispose();surface.material.dispose();wire.geometry.dispose();wire.material.dispose();boundary.geometry.dispose();boundary.material.dispose();geom.dispose();points.material.dispose();constellations.geometry.dispose();constellations.material.dispose();}
+    setLuminariesVisible(v){luminaries.visible=!!v;},
+    setSunSpeed(v){sunSpeed=THREE.MathUtils.clamp(Number(v)||0,0,.2);},
+    setMoonSpeed(v){moonSpeed=THREE.MathUtils.clamp(Number(v)||0,0,.2);},
+    update(dt){if(enabled){sky.rotation.y+=rotationSpeed*dt;sunPhase+=sunSpeed*dt;moonPhase+=moonSpeed*dt;positionLuminaries();}},
+    dispose(){scene.remove(earth);tex.dispose();surface.geometry.dispose();surface.material.dispose();wire.geometry.dispose();wire.material.dispose();boundary.geometry.dispose();boundary.material.dispose();geom.dispose();points.material.dispose();constellations.geometry.dispose();constellations.material.dispose();sunBody.geometry.dispose();sunBody.material.dispose();corona.geometry.dispose();corona.material.dispose();moonBody.geometry.dispose();moonBody.material.dispose();sunPath.geometry.dispose();sunPath.material.dispose();moonPath.geometry.dispose();moonPath.material.dispose();}
   };
 }

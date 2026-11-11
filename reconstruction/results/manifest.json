@@ -1,0 +1,1287 @@
+{
+  "schema": "keum.reconstruction.v1",
+  "count": 49,
+  "verified_count": 0,
+  "records": [
+    {
+      "image_id": 1,
+      "source_filename": "65782.jpg",
+      "sha256": "949489c61b17c3695d2ee88251a51e7114e193c9b0f5ad494f6d7ca66016eea7",
+      "original_size": [
+        1081,
+        1536
+      ],
+      "analysis_size": [
+        598,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7625,
+        "recall": 0.8542,
+        "f1": 0.8057,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 2,
+      "source_filename": "65783.jpg",
+      "sha256": "a3421a34164ca9b244c0df9a99dfd2e1a3e866f1305eb2c2ab6779368184e1d3",
+      "original_size": [
+        1196,
+        1536
+      ],
+      "analysis_size": [
+        662,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7757,
+        "recall": 0.8571,
+        "f1": 0.8144,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 3,
+      "source_filename": "65784.jpg",
+      "sha256": "8c873b9e0bdc3356d22db69fa08d438e49d9cf00984dbecbbe88b52f0036db94",
+      "original_size": [
+        1536,
+        1123
+      ],
+      "analysis_size": [
+        850,
+        621
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8256,
+        "recall": 0.8129,
+        "f1": 0.8192,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 4,
+      "source_filename": "65785.jpg",
+      "sha256": "df0e1db9f356668fef464253c100625739f3f74eb13dd8ba2349bdf2443ede68",
+      "original_size": [
+        1203,
+        1536
+      ],
+      "analysis_size": [
+        666,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.6734,
+        "recall": 0.9151,
+        "f1": 0.7759,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 5,
+      "source_filename": "65786.jpg",
+      "sha256": "ccaf1ca8bc78344e7fd02c4ba83fdad0669a45971b1e673f18c97519d9fbea81",
+      "original_size": [
+        1086,
+        1536
+      ],
+      "analysis_size": [
+        601,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.6873,
+        "recall": 0.9046,
+        "f1": 0.7811,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 6,
+      "source_filename": "65787.jpg",
+      "sha256": "42700595c45ab12134c61e5ac81e0a2fad1a2f4754648855c6e5296187f43183",
+      "original_size": [
+        1188,
+        1536
+      ],
+      "analysis_size": [
+        657,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8729,
+        "recall": 0.8678,
+        "f1": 0.8703,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 7,
+      "source_filename": "65788.jpg",
+      "sha256": "4595c20df1ce2b473452ca85deccb835728fa5c3fa2c5946183526945ba6023f",
+      "original_size": [
+        1197,
+        1536
+      ],
+      "analysis_size": [
+        662,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8262,
+        "recall": 0.815,
+        "f1": 0.8206,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 8,
+      "source_filename": "65789.jpg",
+      "sha256": "d85b00026321b10fdeb63553b5f591773a3931879e644100d1491bddca6c75fb",
+      "original_size": [
+        1143,
+        1536
+      ],
+      "analysis_size": [
+        633,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8122,
+        "recall": 0.7989,
+        "f1": 0.8055,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 9,
+      "source_filename": "65790.jpg",
+      "sha256": "954d3e2d8272a8ba727915cad0a41ce15f63d8064b0b1d9862b5a63ed709bebc",
+      "original_size": [
+        1196,
+        1536
+      ],
+      "analysis_size": [
+        662,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7238,
+        "recall": 0.8715,
+        "f1": 0.7908,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 10,
+      "source_filename": "65791.jpg",
+      "sha256": "cbad15d6c8247194b5ef4fd1f028cf29dc65ce4e295a125e8fa7912c633616be",
+      "original_size": [
+        1112,
+        1536
+      ],
+      "analysis_size": [
+        615,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8571,
+        "recall": 0.7785,
+        "f1": 0.8159,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 11,
+      "source_filename": "65792.jpg",
+      "sha256": "c7281c62483aaf680b567d9469031373a303368d28f33ad58216abcc6390197f",
+      "original_size": [
+        1117,
+        1536
+      ],
+      "analysis_size": [
+        618,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8099,
+        "recall": 0.8636,
+        "f1": 0.8359,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 12,
+      "source_filename": "65793.jpg",
+      "sha256": "81eab7ec50f46c6b33ffb9196125e9800630ceaede123fb10236e59b6602ffc9",
+      "original_size": [
+        1228,
+        1536
+      ],
+      "analysis_size": [
+        680,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8531,
+        "recall": 0.8177,
+        "f1": 0.835,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 13,
+      "source_filename": "65794.jpg",
+      "sha256": "6cd104a664d254441cdd81f2008f4363a7909e90bc7cf085dc3273fad0412a80",
+      "original_size": [
+        1073,
+        1536
+      ],
+      "analysis_size": [
+        594,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7427,
+        "recall": 0.8885,
+        "f1": 0.8091,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 14,
+      "source_filename": "65795.jpg",
+      "sha256": "59ea77db0bd22a4bfdba0a1a54caa738c75265eaf2f028444054db7535ad7f15",
+      "original_size": [
+        1050,
+        1536
+      ],
+      "analysis_size": [
+        581,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8662,
+        "recall": 0.9001,
+        "f1": 0.8828,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 15,
+      "source_filename": "65796.jpg",
+      "sha256": "3fadbeb3f8d375b1672e3a6e139d40134e6bd5724b1dd1f002ff89c448537015",
+      "original_size": [
+        1182,
+        1536
+      ],
+      "analysis_size": [
+        654,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8201,
+        "recall": 0.8581,
+        "f1": 0.8387,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 16,
+      "source_filename": "65797.jpg",
+      "sha256": "831d004a02142ad6173328bda17f5faa9ed3bd471d1ee7f59fb80e26b4c41f56",
+      "original_size": [
+        1226,
+        1536
+      ],
+      "analysis_size": [
+        678,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7686,
+        "recall": 0.8589,
+        "f1": 0.8112,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 17,
+      "source_filename": "65798.jpg",
+      "sha256": "1159b0e1c9fd75b1f6e3c959a8ec7f69fd0b98f0aef48e15d9681130bb19eeac",
+      "original_size": [
+        1181,
+        1536
+      ],
+      "analysis_size": [
+        654,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.6923,
+        "recall": 0.8973,
+        "f1": 0.7816,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 18,
+      "source_filename": "65799.jpg",
+      "sha256": "670ad9b57725df007962a19f739e23eda3b5d174236554c58f55ab14e249b599",
+      "original_size": [
+        1174,
+        1536
+      ],
+      "analysis_size": [
+        650,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8215,
+        "recall": 0.879,
+        "f1": 0.8493,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 19,
+      "source_filename": "65800.jpg",
+      "sha256": "ad5fe494075ad85eb00fc3f8f170783fedfd66ba4db5492b77441b431bfd3785",
+      "original_size": [
+        1273,
+        1536
+      ],
+      "analysis_size": [
+        704,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8887,
+        "recall": 0.8942,
+        "f1": 0.8914,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 20,
+      "source_filename": "65801.jpg",
+      "sha256": "b5d0c19cc4f99b4ceb6cfa2fcc5ed4b69293d0a563feabe9b7e4953caef60824",
+      "original_size": [
+        1161,
+        1536
+      ],
+      "analysis_size": [
+        642,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8908,
+        "recall": 0.799,
+        "f1": 0.8424,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 21,
+      "source_filename": "65802.jpg",
+      "sha256": "a9ae7e2afaf99a18d7da69881fd8ee63e750b55a40b3894dd26f55eddd9f9507",
+      "original_size": [
+        1188,
+        1536
+      ],
+      "analysis_size": [
+        657,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7192,
+        "recall": 0.8857,
+        "f1": 0.7938,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 22,
+      "source_filename": "65803.jpg",
+      "sha256": "fe6ffd391326097410b3e93b62bae3d247e448f6d1d7ff41c118fe728723a41f",
+      "original_size": [
+        1188,
+        1536
+      ],
+      "analysis_size": [
+        657,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8174,
+        "recall": 0.9025,
+        "f1": 0.8579,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 23,
+      "source_filename": "65804.jpg",
+      "sha256": "64d5c841c430cd13aa8406d06a1df2db8c643ebe609a550e5879f13e19278e9f",
+      "original_size": [
+        1188,
+        1536
+      ],
+      "analysis_size": [
+        657,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.6722,
+        "recall": 0.8758,
+        "f1": 0.7606,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 24,
+      "source_filename": "65805.jpg",
+      "sha256": "ae19fea1d6e401c8d0385d065bf118f790ca0d98dd43ec82714457ef27f34d37",
+      "original_size": [
+        994,
+        1536
+      ],
+      "analysis_size": [
+        550,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8762,
+        "recall": 0.8312,
+        "f1": 0.8531,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 25,
+      "source_filename": "65806.jpg",
+      "sha256": "702d834c064e386ede511be1d13269179f35f3fade6082fa49f9248693075fd6",
+      "original_size": [
+        1086,
+        1536
+      ],
+      "analysis_size": [
+        601,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7248,
+        "recall": 0.8772,
+        "f1": 0.7937,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 26,
+      "source_filename": "65807.jpg",
+      "sha256": "9331d1c6de21e7e074d85e3efce402828c30c921d1cb2cc92232abb3251e69b7",
+      "original_size": [
+        1168,
+        1536
+      ],
+      "analysis_size": [
+        646,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8094,
+        "recall": 0.8788,
+        "f1": 0.8427,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 27,
+      "source_filename": "65808.jpg",
+      "sha256": "ac1995ab4109dfc106381941a9d10c5dc08bc7bffbf5198df25ab08f1f1860be",
+      "original_size": [
+        1116,
+        1536
+      ],
+      "analysis_size": [
+        618,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7332,
+        "recall": 0.854,
+        "f1": 0.789,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 28,
+      "source_filename": "65809.jpg",
+      "sha256": "affb4b9cf1249225d958cc9e28335cb2fd15185bc39c820e0550648a1bbff3f9",
+      "original_size": [
+        1306,
+        1536
+      ],
+      "analysis_size": [
+        723,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.6997,
+        "recall": 0.8791,
+        "f1": 0.7792,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 29,
+      "source_filename": "65810.jpg",
+      "sha256": "f537ee7d863fa3af2798bcea3baa84430d5d84588c62a167ba5eb5505a250898",
+      "original_size": [
+        1109,
+        1536
+      ],
+      "analysis_size": [
+        614,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8698,
+        "recall": 0.791,
+        "f1": 0.8285,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 30,
+      "source_filename": "65811.jpg",
+      "sha256": "840fd7d0bf3b4eb16e3d22ddfc42827c020328639df2bc8763a9c94247d35865",
+      "original_size": [
+        1050,
+        1536
+      ],
+      "analysis_size": [
+        581,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8487,
+        "recall": 0.8809,
+        "f1": 0.8645,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 31,
+      "source_filename": "65812.jpg",
+      "sha256": "32810db145162f76f541a8be81dfbddb9bafdfe7b3fb8cedb13ceb40469e771d",
+      "original_size": [
+        1160,
+        1536
+      ],
+      "analysis_size": [
+        642,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8427,
+        "recall": 0.8546,
+        "f1": 0.8486,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 32,
+      "source_filename": "65813.jpg",
+      "sha256": "fba62fa412bd50d5fa6fed3cfe9a9cf92a58127709c9c8833e3598c057c0ff1e",
+      "original_size": [
+        1075,
+        1536
+      ],
+      "analysis_size": [
+        595,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.802,
+        "recall": 0.854,
+        "f1": 0.8272,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 33,
+      "source_filename": "65814.jpg",
+      "sha256": "50592c930d59dadb48df90ae7944de200a5d8e651a5d655fb79650e9c740cb85",
+      "original_size": [
+        1186,
+        1536
+      ],
+      "analysis_size": [
+        656,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8229,
+        "recall": 0.8626,
+        "f1": 0.8423,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 34,
+      "source_filename": "65815.jpg",
+      "sha256": "326319f94b5a6c7fbd629e1df8f04e348abfb6d81f27ce777964fa0b2da9a612",
+      "original_size": [
+        1292,
+        1536
+      ],
+      "analysis_size": [
+        715,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7482,
+        "recall": 0.8908,
+        "f1": 0.8133,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 35,
+      "source_filename": "65816.jpg",
+      "sha256": "935592b309fe2df2f98bb35dcd7d253cfed21c7b4084a2b187808e816779ebf1",
+      "original_size": [
+        1186,
+        1536
+      ],
+      "analysis_size": [
+        656,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8131,
+        "recall": 0.8727,
+        "f1": 0.8419,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 36,
+      "source_filename": "65817.jpg",
+      "sha256": "50c475eb3f555903a273dd76d66637f393525770b5ae524569296b153b86b7fd",
+      "original_size": [
+        709,
+        1536
+      ],
+      "analysis_size": [
+        392,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7716,
+        "recall": 0.925,
+        "f1": 0.8413,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 37,
+      "source_filename": "65818.jpg",
+      "sha256": "7db9823b434d3692bfd141269ac6b9578251538e951857cb62572ef6efb1c2d8",
+      "original_size": [
+        1069,
+        1536
+      ],
+      "analysis_size": [
+        592,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7695,
+        "recall": 0.8791,
+        "f1": 0.8206,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 38,
+      "source_filename": "65819.jpg",
+      "sha256": "1b38636e6f519f6988cbb9cfbd75954099a77a3c72a17d73cd14d8fd2cc9226e",
+      "original_size": [
+        1256,
+        1536
+      ],
+      "analysis_size": [
+        695,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8429,
+        "recall": 0.8404,
+        "f1": 0.8416,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 39,
+      "source_filename": "65820.jpg",
+      "sha256": "95b7502101041154da1f4c2e7ef10fa076f324c42a64a479d7c970e376fe91b9",
+      "original_size": [
+        1186,
+        1536
+      ],
+      "analysis_size": [
+        656,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7557,
+        "recall": 0.8541,
+        "f1": 0.8019,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 40,
+      "source_filename": "65821.jpg",
+      "sha256": "07c3aa96996ad43d6f799772fae603226a016b374cb4b502bbabdc00b2d92da5",
+      "original_size": [
+        1186,
+        1536
+      ],
+      "analysis_size": [
+        656,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7401,
+        "recall": 0.862,
+        "f1": 0.7964,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 41,
+      "source_filename": "65822.jpg",
+      "sha256": "f5fb1b80c9eaabcb2ca0db171d67d79d7ac3c6acf6dba91b753751bbc01223e1",
+      "original_size": [
+        1254,
+        1536
+      ],
+      "analysis_size": [
+        694,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8475,
+        "recall": 0.8438,
+        "f1": 0.8457,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 42,
+      "source_filename": "65823.jpg",
+      "sha256": "3cae4f4c3c8e01447ff9d105f939e6fbe83acfacbff5526dcaea6d739722c2f9",
+      "original_size": [
+        1173,
+        1536
+      ],
+      "analysis_size": [
+        649,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7783,
+        "recall": 0.9027,
+        "f1": 0.8359,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 43,
+      "source_filename": "65824.jpg",
+      "sha256": "a7f086c9b6beed5d37ee7022631c05fc5527196ce4a2ba74ef9bce49fda1d05f",
+      "original_size": [
+        1185,
+        1536
+      ],
+      "analysis_size": [
+        656,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.805,
+        "recall": 0.8847,
+        "f1": 0.843,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 44,
+      "source_filename": "65825.jpg",
+      "sha256": "7ef57969a521c2e9bb948de6d583c981943074975a401227f5a294a5682627b1",
+      "original_size": [
+        1188,
+        1536
+      ],
+      "analysis_size": [
+        657,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8363,
+        "recall": 0.8667,
+        "f1": 0.8512,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 45,
+      "source_filename": "65826.jpg",
+      "sha256": "090a62a5616e1d7ee1e8995063412ae3a19d42145e1b6e82500b29be0a0af643",
+      "original_size": [
+        1186,
+        1536
+      ],
+      "analysis_size": [
+        656,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8432,
+        "recall": 0.8169,
+        "f1": 0.8298,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 46,
+      "source_filename": "65827.jpg",
+      "sha256": "9bab3f723060f8e5cbd73bd70043ea29ea444a6efd5a86533459e88be8578e43",
+      "original_size": [
+        1090,
+        1536
+      ],
+      "analysis_size": [
+        603,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8513,
+        "recall": 0.8183,
+        "f1": 0.8345,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 47,
+      "source_filename": "65828.jpg",
+      "sha256": "88a75fe25b5d9197058adc5a87482ac29461b9280d4717083553e185bdaa96ab",
+      "original_size": [
+        1230,
+        1536
+      ],
+      "analysis_size": [
+        681,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7521,
+        "recall": 0.8058,
+        "f1": 0.778,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 48,
+      "source_filename": "65829.jpg",
+      "sha256": "a3421a34164ca9b244c0df9a99dfd2e1a3e866f1305eb2c2ab6779368184e1d3",
+      "original_size": [
+        1196,
+        1536
+      ],
+      "analysis_size": [
+        662,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.7757,
+        "recall": 0.8571,
+        "f1": 0.8144,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    },
+    {
+      "image_id": 49,
+      "source_filename": "65830.jpg",
+      "sha256": "29eec12e8ff00ec73039938808bb4203e513b1b76efbb853fa9d7f5f1187a4fc",
+      "original_size": [
+        1077,
+        1536
+      ],
+      "analysis_size": [
+        596,
+        850
+      ],
+      "status": "unverified-candidates",
+      "counts": {
+        "lines": 140,
+        "circles": 50,
+        "polygons": 60
+      },
+      "edge_metrics": {
+        "precision": 0.8216,
+        "recall": 0.8254,
+        "f1": 0.8235,
+        "tolerance_px": 3,
+        "meaning": "low-level edge overlap only"
+      }
+    }
+  ],
+  "limitations": [
+    "automated candidate extraction",
+    "not exact 49-diagram reconstruction",
+    "no OCR",
+    "no primary-source interpretation"
+  ]
+}

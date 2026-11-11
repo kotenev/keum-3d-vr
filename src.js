@@ -46,6 +46,9 @@ const presets={earth:[],all:['kathara','merkaba','lotus','density','grid','flow'
 document.querySelector('#earth-toggle').onchange=e=>concaveEarth.setVisible(e.target.checked);
 document.querySelector('#earth-opacity').oninput=e=>concaveEarth.setShellOpacity(+e.target.value);
 document.querySelector('#star-speed').oninput=e=>concaveEarth.setStarRotationSpeed(+e.target.value);
+document.querySelector('#luminaries-toggle').onchange=e=>concaveEarth.setLuminariesVisible(e.target.checked);
+document.querySelector('#sun-speed').oninput=e=>concaveEarth.setSunSpeed(+e.target.value);
+document.querySelector('#moon-speed').oninput=e=>concaveEarth.setMoonSpeed(+e.target.value);
 document.querySelector('#earth-camera').onclick=()=>{earthView=!earthView;camera.position.set(earthView?0:20,earthView?0:13,earthView?23:24);controls.target.set(0,0,0);controls.update();document.querySelector('#earth-camera').textContent=earthView?'Внешний обзор':'Внутри Земли';};
 document.querySelector('#pause').onclick=e=>{state.paused=!state.paused;e.target.textContent=state.paused?'▶ Пуск':'⏸ Пауза'};document.querySelector('#axes').onclick=()=>axes.visible=!axes.visible;document.querySelector('#reset').onclick=()=>{camera.position.set(20,13,24);controls.target.set(0,0,0);controls.update();state.phase=0};
 let catalog=[];fetch('./data/catalog.json').then(r=>r.json()).then(data=>{catalog=data;renderCatalog('');document.querySelector('#stats').textContent=`${data.length} понятий · 7 слоёв · WebXR`}).catch(()=>document.querySelector('#stats').textContent='Каталог: требуется локальный сервер');

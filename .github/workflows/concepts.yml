@@ -25,6 +25,8 @@ jobs:
           python-version: '3.12'
       - name: Test all 412 instances
         run: python3 -m unittest discover -s concept_engine -p 'test_*.py' -v
+      - name: Generate 412-entry provenance ledger
+        run: python3 concept_engine/provenance.py --output build/provenance_412.json
       - name: Export all 412 SVG, JSON, glTF
         run: python3 concept_engine/export_all.py --output build/concepts
       - name: Validate manifest and all exported artifacts
@@ -35,6 +37,8 @@ jobs:
           p=Path("build/concepts")
           data=json.loads((p/"manifest.json").read_text())
           assert len(data)==412
+          provenance=json.loads(Path('build/provenance_412.json').read_text())
+          assert provenance['concept_count']==412
           assert len(list(p.glob("keum-*.svg")))==412
           assert len(list(p.glob("keum-*.json")))==412
           assert len(list(p.glob("keum-*.gltf")))==412

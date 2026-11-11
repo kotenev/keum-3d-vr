@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KEUM Geometry Verification Workbench</title>
+<style>
+:root{color-scheme:dark}body{margin:0;background:#0b1424;color:#e8f1ff;font:14px system-ui}header{padding:12px 18px;background:#152641;display:flex;gap:14px;align-items:center;flex-wrap:wrap}button,select,input,textarea{font:inherit;color:inherit;background:#1c3250;border:1px solid #476586;border-radius:6px;padding:6px}button{cursor:pointer}button:hover{background:#2c5175}main{display:grid;grid-template-columns:minmax(420px,1fr) 360px;height:calc(100vh - 80px)}#viewport{overflow:auto;background:#07101c;display:flex;align-items:flex-start;justify-content:center;padding:16px}#stage{position:relative;display:inline-block}#source{max-width:min(100%,1000px);height:auto;display:block}#draw{position:absolute;inset:0;width:100%;height:100%;touch-action:none;cursor:crosshair}aside{overflow:auto;padding:16px;border-left:1px solid #345}label{display:block;margin:10px 0 4px}small,.muted{color:#9fb4cc}#log{white-space:pre-wrap;font-size:12px;max-height:180px;overflow:auto}#records{max-height:180px;overflow:auto}table{width:100%;border-collapse:collapse;font-size:12px}td,th{border-bottom:1px solid #345;padding:5px}input[type=number]{width:88px}input[type=text]{width:100%}textarea{width:100%;min-height:55px}#draw circle{cursor:pointer}@media(max-width:850px){main{grid-template-columns:1fr;height:auto}aside{border-left:0}}</style>
+</head><body>
+<header><b>KEUM · Verification Workbench</b><label>Оригинал <input type="file" id="image" accept="image/*"></label><label>JSON кандидатов <input type="file" id="candidates" accept=".json,application/json"></label><button id="load">Импорт разметки</button><input type="file" id="review" accept=".json" hidden><span class="muted">Ручная проверка ≠ доказательство физической теории</span></header>
+<main><div id="viewport"><div id="stage"><img id="source" alt="Загрузите оригинал"><svg id="draw" xmlns="http://www.w3.org/2000/svg"></svg></div></div>
+<aside><h3>Параметры</h3>
+<label>ID изображения (1–49)</label><input id="imageId" type="number" min="1" max="49" value="1">
+<label>ID концепции (1–412)</label><input id="conceptId" type="number" min="1" max="412" value="21">
+<label>Режим разметки</label><select id="mode"><option value="reference">Эталонная точка</option><option value="model">Точка модели</option><option value="line">Линия (2 клика)</option><option value="circle">Окружность (центр + радиус)</option><option value="erase">Удалить ближайшую точку</option></select>
+<label>Показать слои</label><label><input id="showCandidates" type="checkbox" checked> Кандидаты OpenCV</label><label><input id="showReference" type="checkbox" checked> Контрольные точки оригинала</label><label><input id="showModel" type="checkbox" checked> Контрольные точки модели</label>
+<label>Статус проверки</label><select id="status"><option value="draft">Черновик</option><option value="reviewed">Разметка проверена</option><option value="verified">Геометрия проверена</option></select>
+<label>Эксперт</label><input id="reviewer" type="text" placeholder="Имя / псевдоним">
+<label>Примечания</label><textarea id="notes" placeholder="Основание соответствия, подписи, неоднозначности"></textarea>
+<p><button id="undo">Отменить</button><button id="clear">Очистить точки</button><button id="export">Экспорт JSON</button></p>
+<h3>Контрольные точки</h3><div id="records"></div><h3>Метрики</h3><div id="log"></div>
+<p class="muted">Пары reference/model сопоставляются по порядку. Для verified обязательны совпадающие непустые наборы точек, имя эксперта и комментарий. Статус относится только к геометрической разметке, не к эзотерическим утверждениям.</p>
+</aside></main>
+<script>
+const $=id=>document.getElementById(id);
+let width=1000,height=1000,points={reference:[],model:[]},shapes=[],candidates=[],pending=null,history=[];
+const NS='http://www.w3.org/2000/svg';
+function el(name,attrs={}){let e=document.createElementNS(NS,name);for(let [k,v] of Object.entries(attrs))e.setAttribute(k,String(v));return e}
+function saveHistory(){history.push(JSON.stringify({points,shapes}));if(history.length>100)history.shift()}
+function pixel(e){let r=$('draw').getBoundingClientRect();return [+(Math.max(0,Math.min(width,(e.clientX-r.left)/r.width*width))).toFixed(2),+(Math.max(0,Math.min(height,(e.clientY-r.top)/r.height*height))).toFixed(2)]}
+function draw(){const svg=$('draw');svg.replaceChildren();svg.setAttribute('viewBox',`0 0 ${width} ${height}`);
+if($('showCandidates').checked)for(let c of candidates.slice(0,1200)){let t=c.type||c.kind;if(t==='line'&&c.points?.length===2){svg.append(el('line',{x1:c.points[0][0],y1:c.points[0][1],x2:c.points[1][0],y2:c.points[1][1],stroke:'#f6c15b','stroke-width':1,opacity:.5}))}else if(t==='circle'){svg.append(el('circle',{cx:c.x??c.cx,cy:c.y??c.cy,r:c.r,stroke:'#f6c15b',fill:'none',opacity:.4}))}}
+for(let s of shapes){if(s.type==='line')svg.append(el('line',{x1:s.a[0],y1:s.a[1],x2:s.b[0],y2:s.b[1],stroke:'#b4ff9c','stroke-width':2}));if(s.type==='circle')svg.append(el('circle',{cx:s.a[0],cy:s.a[1],r:Math.hypot(s.b[0]-s.a[0],s.b[1]-s.a[1]),stroke:'#b4ff9c','stroke-width':2,fill:'none'}))}
+for(let [key,color] of [['reference','#37e9fa'],['model','#ff77ce']])if($(key==='reference'?'showReference':'showModel').checked){points[key].forEach(([x,y],i)=>{svg.append(el('circle',{cx:x,cy:y,r:5,stroke:'#07101c','stroke-width':1.5,fill:color}));const text=el('text',{x:x+7,y:y-7,fill:color,'font-size':13});text.textContent=String(i+1);svg.append(text)})}
+renderStats()}
+function renderStats(){let a=points.reference,b=points.model,report={reference_points:a.length,model_points:b.length,shapes:shapes.length};
+if(a.length&&a.length===b.length){let sum=0;for(let i=0;i<a.length;i++)sum+=(a[i][0]-b[i][0])**2+(a[i][1]-b[i][1])**2;report.rmse_px=Math.sqrt(sum/a.length);
+let dist=(p,q)=>Math.min(...q.map(z=>(p[0]-z[0])**2+(p[1]-z[1])**2));report.chamfer_px2=a.reduce((s,p)=>s+dist(p,b),0)/a.length+b.reduce((s,p)=>s+dist(p,a),0)/b.length;}
+else report.metric_status='unavailable: need matched point pairs';
+$('log').textContent=JSON.stringify(report,null,2);
+$('records').innerHTML='<table><tr><th>#</th><th>Эталон</th><th>Модель</th></tr>'+Array.from({length:Math.max(a.length,b.length)},(_,i)=>'<tr><td>'+(i+1)+'</td><td>'+(a[i]?.join(', ')||'—')+'</td><td>'+(b[i]?.join(', ')||'—')+'</td></tr>').join('')+'</table>'}
+$('draw').addEventListener('pointerdown',e=>{if(!$('source').naturalWidth)return;let p=pixel(e),mode=$('mode').value;saveHistory();if(mode==='reference'||mode==='model')points[mode].push(p);else if(mode==='erase'){let all=['reference','model'].flatMap(k=>points[k].map((v,i)=>({k,i,d:Math.hypot(v[0]-p[0],v[1]-p[1])}))).sort((a,b)=>a.d-b.d);if(all.length&&all[0].d<20)points[all[0].k].splice(all[0].i,1)}else if(pending){shapes.push({type:mode,a:pending,b:p});pending=null}else pending=p;draw()});
+$('image').onchange=async e=>{let f=e.target.files[0];if(!f)return;const url=URL.createObjectURL(f);$('source').onload=()=>{width=$('source').naturalWidth;height=$('source').naturalHeight;draw()};$('source').src=url};
+$('candidates').onchange=async e=>{const file=e.target.files[0];if(!file)return;const data=JSON.parse(await file.text());candidates=Array.isArray(data)?data:(data.primitives||data.candidates||[]);draw()};
+$('load').onclick=()=>$('review').click();
+$('review').onchange=async e=>{const f=e.target.files[0];if(!f)return;const data=JSON.parse(await f.text());if(data.schema!=='keum.manual-review.v1')return alert('Неверная схема');points=data.points||{reference:[],model:[]};shapes=data.shapes||[];$('imageId').value=data.image_id;$('conceptId').value=data.concept_id;$('status').value=data.status;$('reviewer').value=data.reviewer||'';$('notes').value=data.notes||'';draw()};
+$('undo').onclick=()=>{if(!history.length)return;({points,shapes}=JSON.parse(history.pop()));draw()};
+$('clear').onclick=()=>{saveHistory();points={reference:[],model:[]};shapes=[];pending=null;draw()};
+for(let k of ['showCandidates','showReference','showModel'])$(k).onchange=draw;
+$('export').onclick=()=>{let status=$('status').value,reviewer=$('reviewer').value.trim(),notes=$('notes').value.trim();
+if(status==='verified'&&(!reviewer||!notes||!points.reference.length||points.reference.length!==points.model.length))return alert('Для verified необходимы эксперт, комментарий и сопоставленные пары точек');
+const doc={schema:'keum.manual-review.v1',image_id:+$('imageId').value,concept_id:+$('conceptId').value,status,reviewer,notes,source_image_file:$('image').files[0]?.name||null,coordinate_system:'source-image-pixels',image_size:[width,height],points,shapes,claim:'geometric annotation only; no scientific validation'};
+const blob=new Blob([JSON.stringify(doc,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`keum-review-${String(doc.image_id).padStart(2,'0')}-${doc.concept_id}.json`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
+draw();
+</script></body></html>

@@ -63,6 +63,7 @@ nav:
       - Hova, DNA, Fire Codes: models/hova-dna.md
   - Реализация:
       - SVG и glTF: implementation/rendering.md
+      - Исполняемый движок 412 концепций: implementation/concept-runtime.md
       - Тестирование: implementation/testing.md
       - Прослеживаемость: implementation/traceability.md
   - Энциклопедия 412 понятий:

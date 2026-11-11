@@ -1,0 +1,47 @@
+name: KEUM concept engine validation
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'concept_engine/**'
+      - 'data/catalog.json'
+      - 'vector_engine/graph_engine.py'
+      - '.github/workflows/concepts.yml'
+  pull_request:
+    paths:
+      - 'concept_engine/**'
+      - 'data/catalog.json'
+      - 'vector_engine/graph_engine.py'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test-and-export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test all 412 instances
+        run: python3 -m unittest discover -s concept_engine -p 'test_*.py' -v
+      - name: Export all 412 SVG, JSON, glTF
+        run: python3 concept_engine/export_all.py --output build/concepts
+      - name: Validate manifest and all exported artifacts
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path("build/concepts")
+          data=json.loads((p/"manifest.json").read_text())
+          assert len(data)==412
+          assert len(list(p.glob("keum-*.svg")))==412
+          assert len(list(p.glob("keum-*.json")))==412
+          assert len(list(p.glob("keum-*.gltf")))==412
+          print("validated 412 x 3 exports")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: keum-412-models
+          path: build/concepts/
+          retention-days: 30

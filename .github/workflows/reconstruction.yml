@@ -21,6 +21,17 @@ jobs:
           python-version: '3.12'
       - run: python3 -m pip install -r reconstruction/requirements.txt
       - run: python3 -m unittest discover -s reconstruction -p 'test_*.py' -v
+      - name: Validate 412-concept traceability index
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path('reconstruction/results/concept_image_links_412.json').read_text())
+          assert data['concept_count']==412
+          assert len(data['records'])==412
+          assert len({r['concept_id'] for r in data['records']})==412
+          assert data['verified_links']==0
+          PY
       - name: Check published QA manifest
         run: |
           python3 - <<'PY'

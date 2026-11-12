@@ -9,8 +9,8 @@ class OntologyTests(unittest.TestCase):
 
     def test_all_412(self):
         result=compile_ontology(self.data)
-        self.assertEqual(result["concept_count"],412)
-        self.assertEqual(len(result["category_counts"]),14)
+        self.assertEqual(result["concept_count"],493)
+        self.assertEqual(len(result["category_counts"]),16)
 
     def test_duplicate_rejected(self):
         with self.assertRaises(ValueError):

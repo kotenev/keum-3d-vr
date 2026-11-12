@@ -66,6 +66,7 @@ nav:
       - Исполняемый движок 412 концепций: implementation/concept-runtime.md
       - Индивидуальные модели и проверка точности: implementation/source-aware-models.md
       - Реконструкция 49 изображений: implementation/image-reconstruction.md
+      - Дополнительные 10 изображений: implementation/additional-ten-images.md
       - Тестирование: implementation/testing.md
       - Прослеживаемость: implementation/traceability.md
   - Энциклопедия 412 понятий:

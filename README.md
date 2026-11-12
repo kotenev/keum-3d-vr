@@ -88,3 +88,14 @@ python3 reconstruction/pipeline.py --sources /path/to/49/images --output build/r
 - [MkDocs — методика](mkdocs/implementation/image-reconstruction.md).
 
 Оригинальные 49 изображения и полный набор кандидатов OpenCV остаются локальными материалами и не размещены публично. Отметки `verified` могут появляться только после реальной экспертной проверки.
+
+
+## KEUM 3.4 — ещё 10 оригинальных JPG (59 файлов, 58 уникальных)
+
+В каталог [`reconstruction/sources/additional_10/`](reconstruction/sources/additional_10/) добавлены оригиналы `66261.jpg`, `66264.jpg`, `66267.jpg`, `66270.jpg`, `66273.jpg`, `66276.jpg`, `66279.jpg`, `66282.jpg`, `66285.jpg`, `66288.jpg` без изменения байтов. Сводный [манифест 59 позиций](reconstruction/results/corpus_59.json) содержит SHA-256 и размеры; дубликат старых № 2/48 сохранён как исторический факт.
+
+[Галерея в MkDocs](mkdocs/implementation/additional-ten-images.md). Новые схемы пока не прошли геометрическую и семантическую проверку.
+
+```bash
+python3 reconstruction/process_additional.py --output build/reconstruction_50_59
+```

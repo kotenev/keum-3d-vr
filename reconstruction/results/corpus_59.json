@@ -24,343 +24,539 @@
       "filename": "65782.jpg",
       "sha256": "949489c61b17c3695d2ee88251a51e7114e193c9b0f5ad494f6d7ca66016eea7",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1081,
+        1536
+      ]
     },
     {
       "image_id": 2,
       "filename": "65783.jpg",
       "sha256": "a3421a34164ca9b244c0df9a99dfd2e1a3e866f1305eb2c2ab6779368184e1d3",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1196,
+        1536
+      ]
     },
     {
       "image_id": 3,
       "filename": "65784.jpg",
       "sha256": "8c873b9e0bdc3356d22db69fa08d438e49d9cf00984dbecbbe88b52f0036db94",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1536,
+        1123
+      ]
     },
     {
       "image_id": 4,
       "filename": "65785.jpg",
       "sha256": "df0e1db9f356668fef464253c100625739f3f74eb13dd8ba2349bdf2443ede68",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1203,
+        1536
+      ]
     },
     {
       "image_id": 5,
       "filename": "65786.jpg",
       "sha256": "ccaf1ca8bc78344e7fd02c4ba83fdad0669a45971b1e673f18c97519d9fbea81",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1086,
+        1536
+      ]
     },
     {
       "image_id": 6,
       "filename": "65787.jpg",
       "sha256": "42700595c45ab12134c61e5ac81e0a2fad1a2f4754648855c6e5296187f43183",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1188,
+        1536
+      ]
     },
     {
       "image_id": 7,
       "filename": "65788.jpg",
       "sha256": "4595c20df1ce2b473452ca85deccb835728fa5c3fa2c5946183526945ba6023f",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1197,
+        1536
+      ]
     },
     {
       "image_id": 8,
       "filename": "65789.jpg",
       "sha256": "d85b00026321b10fdeb63553b5f591773a3931879e644100d1491bddca6c75fb",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1143,
+        1536
+      ]
     },
     {
       "image_id": 9,
       "filename": "65790.jpg",
       "sha256": "954d3e2d8272a8ba727915cad0a41ce15f63d8064b0b1d9862b5a63ed709bebc",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1196,
+        1536
+      ]
     },
     {
       "image_id": 10,
       "filename": "65791.jpg",
       "sha256": "cbad15d6c8247194b5ef4fd1f028cf29dc65ce4e295a125e8fa7912c633616be",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1112,
+        1536
+      ]
     },
     {
       "image_id": 11,
       "filename": "65792.jpg",
       "sha256": "c7281c62483aaf680b567d9469031373a303368d28f33ad58216abcc6390197f",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1117,
+        1536
+      ]
     },
     {
       "image_id": 12,
       "filename": "65793.jpg",
       "sha256": "81eab7ec50f46c6b33ffb9196125e9800630ceaede123fb10236e59b6602ffc9",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1228,
+        1536
+      ]
     },
     {
       "image_id": 13,
       "filename": "65794.jpg",
       "sha256": "6cd104a664d254441cdd81f2008f4363a7909e90bc7cf085dc3273fad0412a80",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1073,
+        1536
+      ]
     },
     {
       "image_id": 14,
       "filename": "65795.jpg",
       "sha256": "59ea77db0bd22a4bfdba0a1a54caa738c75265eaf2f028444054db7535ad7f15",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1050,
+        1536
+      ]
     },
     {
       "image_id": 15,
       "filename": "65796.jpg",
       "sha256": "3fadbeb3f8d375b1672e3a6e139d40134e6bd5724b1dd1f002ff89c448537015",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1182,
+        1536
+      ]
     },
     {
       "image_id": 16,
       "filename": "65797.jpg",
       "sha256": "831d004a02142ad6173328bda17f5faa9ed3bd471d1ee7f59fb80e26b4c41f56",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1226,
+        1536
+      ]
     },
     {
       "image_id": 17,
       "filename": "65798.jpg",
       "sha256": "1159b0e1c9fd75b1f6e3c959a8ec7f69fd0b98f0aef48e15d9681130bb19eeac",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1181,
+        1536
+      ]
     },
     {
       "image_id": 18,
       "filename": "65799.jpg",
       "sha256": "670ad9b57725df007962a19f739e23eda3b5d174236554c58f55ab14e249b599",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1174,
+        1536
+      ]
     },
     {
       "image_id": 19,
       "filename": "65800.jpg",
       "sha256": "ad5fe494075ad85eb00fc3f8f170783fedfd66ba4db5492b77441b431bfd3785",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1273,
+        1536
+      ]
     },
     {
       "image_id": 20,
       "filename": "65801.jpg",
       "sha256": "b5d0c19cc4f99b4ceb6cfa2fcc5ed4b69293d0a563feabe9b7e4953caef60824",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1161,
+        1536
+      ]
     },
     {
       "image_id": 21,
       "filename": "65802.jpg",
       "sha256": "a9ae7e2afaf99a18d7da69881fd8ee63e750b55a40b3894dd26f55eddd9f9507",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1188,
+        1536
+      ]
     },
     {
       "image_id": 22,
       "filename": "65803.jpg",
       "sha256": "fe6ffd391326097410b3e93b62bae3d247e448f6d1d7ff41c118fe728723a41f",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1188,
+        1536
+      ]
     },
     {
       "image_id": 23,
       "filename": "65804.jpg",
       "sha256": "64d5c841c430cd13aa8406d06a1df2db8c643ebe609a550e5879f13e19278e9f",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1188,
+        1536
+      ]
     },
     {
       "image_id": 24,
       "filename": "65805.jpg",
       "sha256": "ae19fea1d6e401c8d0385d065bf118f790ca0d98dd43ec82714457ef27f34d37",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        994,
+        1536
+      ]
     },
     {
       "image_id": 25,
       "filename": "65806.jpg",
       "sha256": "702d834c064e386ede511be1d13269179f35f3fade6082fa49f9248693075fd6",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1086,
+        1536
+      ]
     },
     {
       "image_id": 26,
       "filename": "65807.jpg",
       "sha256": "9331d1c6de21e7e074d85e3efce402828c30c921d1cb2cc92232abb3251e69b7",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1168,
+        1536
+      ]
     },
     {
       "image_id": 27,
       "filename": "65808.jpg",
       "sha256": "ac1995ab4109dfc106381941a9d10c5dc08bc7bffbf5198df25ab08f1f1860be",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1116,
+        1536
+      ]
     },
     {
       "image_id": 28,
       "filename": "65809.jpg",
       "sha256": "affb4b9cf1249225d958cc9e28335cb2fd15185bc39c820e0550648a1bbff3f9",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1306,
+        1536
+      ]
     },
     {
       "image_id": 29,
       "filename": "65810.jpg",
       "sha256": "f537ee7d863fa3af2798bcea3baa84430d5d84588c62a167ba5eb5505a250898",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1109,
+        1536
+      ]
     },
     {
       "image_id": 30,
       "filename": "65811.jpg",
       "sha256": "840fd7d0bf3b4eb16e3d22ddfc42827c020328639df2bc8763a9c94247d35865",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1050,
+        1536
+      ]
     },
     {
       "image_id": 31,
       "filename": "65812.jpg",
       "sha256": "32810db145162f76f541a8be81dfbddb9bafdfe7b3fb8cedb13ceb40469e771d",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1160,
+        1536
+      ]
     },
     {
       "image_id": 32,
       "filename": "65813.jpg",
       "sha256": "fba62fa412bd50d5fa6fed3cfe9a9cf92a58127709c9c8833e3598c057c0ff1e",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1075,
+        1536
+      ]
     },
     {
       "image_id": 33,
       "filename": "65814.jpg",
       "sha256": "50592c930d59dadb48df90ae7944de200a5d8e651a5d655fb79650e9c740cb85",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1186,
+        1536
+      ]
     },
     {
       "image_id": 34,
       "filename": "65815.jpg",
       "sha256": "326319f94b5a6c7fbd629e1df8f04e348abfb6d81f27ce777964fa0b2da9a612",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1292,
+        1536
+      ]
     },
     {
       "image_id": 35,
       "filename": "65816.jpg",
       "sha256": "935592b309fe2df2f98bb35dcd7d253cfed21c7b4084a2b187808e816779ebf1",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1186,
+        1536
+      ]
     },
     {
       "image_id": 36,
       "filename": "65817.jpg",
       "sha256": "50c475eb3f555903a273dd76d66637f393525770b5ae524569296b153b86b7fd",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        709,
+        1536
+      ]
     },
     {
       "image_id": 37,
       "filename": "65818.jpg",
       "sha256": "7db9823b434d3692bfd141269ac6b9578251538e951857cb62572ef6efb1c2d8",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1069,
+        1536
+      ]
     },
     {
       "image_id": 38,
       "filename": "65819.jpg",
       "sha256": "1b38636e6f519f6988cbb9cfbd75954099a77a3c72a17d73cd14d8fd2cc9226e",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1256,
+        1536
+      ]
     },
     {
       "image_id": 39,
       "filename": "65820.jpg",
       "sha256": "95b7502101041154da1f4c2e7ef10fa076f324c42a64a479d7c970e376fe91b9",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1186,
+        1536
+      ]
     },
     {
       "image_id": 40,
       "filename": "65821.jpg",
       "sha256": "07c3aa96996ad43d6f799772fae603226a016b374cb4b502bbabdc00b2d92da5",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1186,
+        1536
+      ]
     },
     {
       "image_id": 41,
       "filename": "65822.jpg",
       "sha256": "f5fb1b80c9eaabcb2ca0db171d67d79d7ac3c6acf6dba91b753751bbc01223e1",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1254,
+        1536
+      ]
     },
     {
       "image_id": 42,
       "filename": "65823.jpg",
       "sha256": "3cae4f4c3c8e01447ff9d105f939e6fbe83acfacbff5526dcaea6d739722c2f9",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1173,
+        1536
+      ]
     },
     {
       "image_id": 43,
       "filename": "65824.jpg",
       "sha256": "a7f086c9b6beed5d37ee7022631c05fc5527196ce4a2ba74ef9bce49fda1d05f",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1185,
+        1536
+      ]
     },
     {
       "image_id": 44,
       "filename": "65825.jpg",
       "sha256": "7ef57969a521c2e9bb948de6d583c981943074975a401227f5a294a5682627b1",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1188,
+        1536
+      ]
     },
     {
       "image_id": 45,
       "filename": "65826.jpg",
       "sha256": "090a62a5616e1d7ee1e8995063412ae3a19d42145e1b6e82500b29be0a0af643",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1186,
+        1536
+      ]
     },
     {
       "image_id": 46,
       "filename": "65827.jpg",
       "sha256": "9bab3f723060f8e5cbd73bd70043ea29ea444a6efd5a86533459e88be8578e43",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1090,
+        1536
+      ]
     },
     {
       "image_id": 47,
       "filename": "65828.jpg",
       "sha256": "88a75fe25b5d9197058adc5a87482ac29461b9280d4717083553e185bdaa96ab",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1230,
+        1536
+      ]
     },
     {
       "image_id": 48,
       "filename": "65829.jpg",
       "sha256": "a3421a34164ca9b244c0df9a99dfd2e1a3e866f1305eb2c2ab6779368184e1d3",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1196,
+        1536
+      ]
     },
     {
       "image_id": 49,
       "filename": "65830.jpg",
       "sha256": "29eec12e8ff00ec73039938808bb4203e513b1b76efbb853fa9d7f5f1187a4fc",
       "origin": "original_49_slots",
-      "status": "unverified-candidates"
+      "status": "unverified-candidates",
+      "original_size": [
+        1077,
+        1536
+      ]
     },
     {
       "image_id": 50,
@@ -370,7 +566,11 @@
       "repository_path": "reconstruction/sources/additional_10/66261.jpg",
       "description": "Схемы алхимических соответствий, четыре элемента и символика Spirit/Soul/Body",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1078,
+        1536
+      ]
     },
     {
       "image_id": 51,
@@ -380,7 +580,11 @@
       "repository_path": "reconstruction/sources/additional_10/66264.jpg",
       "description": "The Chariot of Fire Living Light Vehicle — PCM LotE’, Rod/Staff и двенадцать колёс",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1334,
+        1536
+      ]
     },
     {
       "image_id": 52,
@@ -390,7 +594,11 @@
       "repository_path": "reconstruction/sources/additional_10/66267.jpg",
       "description": "Primary Amoraea Radiation Chambers — Tri-polar 45-Charge",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1041,
+        1536
+      ]
     },
     {
       "image_id": 53,
@@ -400,7 +608,11 @@
       "repository_path": "reconstruction/sources/additional_10/66270.jpg",
       "description": "Transcendent Phase / Ecka-Veca Crystal Body — Reuche Pillars and Lotus Arcs",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1257,
+        1536
+      ]
     },
     {
       "image_id": 54,
@@ -410,7 +622,11 @@
       "repository_path": "reconstruction/sources/additional_10/66273.jpg",
       "description": "Aquafereion NaVaho EcoushaTA Passage Activation Code",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1260,
+        1536
+      ]
     },
     {
       "image_id": 55,
@@ -420,7 +636,11 @@
       "repository_path": "reconstruction/sources/additional_10/66276.jpg",
       "description": "Схематическое сопоставление зрения, электроцепей, мозга и тела",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1227,
+        1536
+      ]
     },
     {
       "image_id": 56,
@@ -430,7 +650,11 @@
       "repository_path": "reconstruction/sources/additional_10/66279.jpg",
       "description": "Авторская иллюстрация человеческой анатомии, спиралей и символов",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1536,
+        1529
+      ]
     },
     {
       "image_id": 57,
@@ -440,7 +664,11 @@
       "repository_path": "reconstruction/sources/additional_10/66282.jpg",
       "description": "Occult Anatomy — Temple of Solomon / Castle of Camelot",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1317,
+        1536
+      ]
     },
     {
       "image_id": 58,
@@ -450,7 +678,11 @@
       "repository_path": "reconstruction/sources/additional_10/66285.jpg",
       "description": "Map of the Human Soul — Zoran Minov",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1536,
+        1349
+      ]
     },
     {
       "image_id": 59,
@@ -460,7 +692,11 @@
       "repository_path": "reconstruction/sources/additional_10/66288.jpg",
       "description": "Многослойная неоновая геометрия над ладонями",
       "source_status": "user-provided; unverified semantic classification",
-      "status": "pending-geometric-review"
+      "status": "pending-geometric-review",
+      "original_size": [
+        1198,
+        1536
+      ]
     }
   ]
 }

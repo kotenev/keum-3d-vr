@@ -1,0 +1,949 @@
+{
+  "schema": "keum.source-audit.v1",
+  "images_inspected": 49,
+  "unique_images": 48,
+  "exact_duplicates": [
+    {
+      "image": 48,
+      "duplicate_of": 2
+    }
+  ],
+  "total_trace_contours": 117106,
+  "total_trace_vertices": 2567750,
+  "geometrically_verified": 0,
+  "semantically_verified": 0,
+  "scope": "Manual visual inspection of 49 contact-sheet thumbnails plus file hash, dimensions, existing SVG trace metadata; not a complete expert transcription of each original.",
+  "records": [
+    {
+      "image_id": 1,
+      "filename": "65782.jpg",
+      "sha256": "949489c61b17c3695d2ee88251a51e7114e193c9b0f5ad494f6d7ca66016eea7",
+      "dimensions": [
+        1081,
+        1536
+      ],
+      "visual_observation": "hand-drawn circular and axial construction",
+      "vector_svg": "svg/01_65782.svg",
+      "vector_contours": 1368,
+      "vector_vertices": 38435,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 2,
+      "filename": "65783.jpg",
+      "sha256": "a3421a34164ca9b244c0df9a99dfd2e1a3e866f1305eb2c2ab6779368184e1d3",
+      "dimensions": [
+        1196,
+        1536
+      ],
+      "visual_observation": "symmetric lotus-like curves",
+      "vector_svg": "svg/02_65783.svg",
+      "vector_contours": 1125,
+      "vector_vertices": 41537,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 3,
+      "filename": "65784.jpg",
+      "sha256": "8c873b9e0bdc3356d22db69fa08d438e49d9cf00984dbecbbe88b52f0036db94",
+      "dimensions": [
+        1536,
+        1123
+      ],
+      "visual_observation": "multi-panel geometric diagrams",
+      "vector_svg": "svg/03_65784.svg",
+      "vector_contours": 1910,
+      "vector_vertices": 58894,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 4,
+      "filename": "65785.jpg",
+      "sha256": "df0e1db9f356668fef464253c100625739f3f74eb13dd8ba2349bdf2443ede68",
+      "dimensions": [
+        1203,
+        1536
+      ],
+      "visual_observation": "radial wheel and circular grids",
+      "vector_svg": "svg/04_65785.svg",
+      "vector_contours": 1652,
+      "vector_vertices": 36645,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 5,
+      "filename": "65786.jpg",
+      "sha256": "ccaf1ca8bc78344e7fd02c4ba83fdad0669a45971b1e673f18c97519d9fbea81",
+      "dimensions": [
+        1086,
+        1536
+      ],
+      "visual_observation": "concentric circular chart",
+      "vector_svg": "svg/05_65786.svg",
+      "vector_contours": 852,
+      "vector_vertices": 26925,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 6,
+      "filename": "65787.jpg",
+      "sha256": "42700595c45ab12134c61e5ac81e0a2fad1a2f4754648855c6e5296187f43183",
+      "dimensions": [
+        1188,
+        1536
+      ],
+      "visual_observation": "multiple geometric diagrams",
+      "vector_svg": "svg/06_65787.svg",
+      "vector_contours": 4491,
+      "vector_vertices": 86084,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 7,
+      "filename": "65788.jpg",
+      "sha256": "4595c20df1ce2b473452ca85deccb835728fa5c3fa2c5946183526945ba6023f",
+      "dimensions": [
+        1197,
+        1536
+      ],
+      "visual_observation": "vertical axial graph panels",
+      "vector_svg": "svg/07_65788.svg",
+      "vector_contours": 1915,
+      "vector_vertices": 47127,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 8,
+      "filename": "65789.jpg",
+      "sha256": "d85b00026321b10fdeb63553b5f591773a3931879e644100d1491bddca6c75fb",
+      "dimensions": [
+        1143,
+        1536
+      ],
+      "visual_observation": "multiple comparative grids",
+      "vector_svg": "svg/08_65789.svg",
+      "vector_contours": 1708,
+      "vector_vertices": 46055,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 9,
+      "filename": "65790.jpg",
+      "sha256": "954d3e2d8272a8ba727915cad0a41ce15f63d8064b0b1d9862b5a63ed709bebc",
+      "dimensions": [
+        1196,
+        1536
+      ],
+      "visual_observation": "three tall node networks",
+      "vector_svg": "svg/09_65790.svg",
+      "vector_contours": 1366,
+      "vector_vertices": 39972,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 10,
+      "filename": "65791.jpg",
+      "sha256": "cbad15d6c8247194b5ef4fd1f028cf29dc65ce4e295a125e8fa7912c633616be",
+      "dimensions": [
+        1112,
+        1536
+      ],
+      "visual_observation": "stars and vehicle diagram",
+      "vector_svg": "svg/10_65791.svg",
+      "vector_contours": 2581,
+      "vector_vertices": 62130,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 11,
+      "filename": "65792.jpg",
+      "sha256": "c7281c62483aaf680b567d9469031373a303368d28f33ad58216abcc6390197f",
+      "dimensions": [
+        1117,
+        1536
+      ],
+      "visual_observation": "three layered circular structures",
+      "vector_svg": "svg/11_65792.svg",
+      "vector_contours": 1564,
+      "vector_vertices": 40246,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 12,
+      "filename": "65793.jpg",
+      "sha256": "81eab7ec50f46c6b33ffb9196125e9800630ceaede123fb10236e59b6602ffc9",
+      "dimensions": [
+        1228,
+        1536
+      ],
+      "visual_observation": "nested angular grid",
+      "vector_svg": "svg/12_65793.svg",
+      "vector_contours": 2134,
+      "vector_vertices": 50535,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 13,
+      "filename": "65794.jpg",
+      "sha256": "6cd104a664d254441cdd81f2008f4363a7909e90bc7cf085dc3273fad0412a80",
+      "dimensions": [
+        1073,
+        1536
+      ],
+      "visual_observation": "human body and circular diagram",
+      "vector_svg": "svg/13_65794.svg",
+      "vector_contours": 1035,
+      "vector_vertices": 27629,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 14,
+      "filename": "65795.jpg",
+      "sha256": "59ea77db0bd22a4bfdba0a1a54caa738c75265eaf2f028444054db7535ad7f15",
+      "dimensions": [
+        1050,
+        1536
+      ],
+      "visual_observation": "vertical human-centered grid",
+      "vector_svg": "svg/14_65795.svg",
+      "vector_contours": 2105,
+      "vector_vertices": 55402,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 15,
+      "filename": "65796.jpg",
+      "sha256": "3fadbeb3f8d375b1672e3a6e139d40134e6bd5724b1dd1f002ff89c448537015",
+      "dimensions": [
+        1182,
+        1536
+      ],
+      "visual_observation": "vertical geometric lattice",
+      "vector_svg": "svg/15_65796.svg",
+      "vector_contours": 1771,
+      "vector_vertices": 45892,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 16,
+      "filename": "65797.jpg",
+      "sha256": "831d004a02142ad6173328bda17f5faa9ed3bd471d1ee7f59fb80e26b4c41f56",
+      "dimensions": [
+        1226,
+        1536
+      ],
+      "visual_observation": "dense diamond lattice",
+      "vector_svg": "svg/16_65797.svg",
+      "vector_contours": 1278,
+      "vector_vertices": 40457,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 17,
+      "filename": "65798.jpg",
+      "sha256": "1159b0e1c9fd75b1f6e3c959a8ec7f69fd0b98f0aef48e15d9681130bb19eeac",
+      "dimensions": [
+        1181,
+        1536
+      ],
+      "visual_observation": "human body and field diagram",
+      "vector_svg": "svg/17_65798.svg",
+      "vector_contours": 1033,
+      "vector_vertices": 29772,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 18,
+      "filename": "65799.jpg",
+      "sha256": "670ad9b57725df007962a19f739e23eda3b5d174236554c58f55ab14e249b599",
+      "dimensions": [
+        1174,
+        1536
+      ],
+      "visual_observation": "axial diagram with explanatory text",
+      "vector_svg": "svg/18_65799.svg",
+      "vector_contours": 2344,
+      "vector_vertices": 61330,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 19,
+      "filename": "65800.jpg",
+      "sha256": "ad5fe494075ad85eb00fc3f8f170783fedfd66ba4db5492b77441b431bfd3785",
+      "dimensions": [
+        1273,
+        1536
+      ],
+      "visual_observation": "radial multi-axis diagram",
+      "vector_svg": "svg/19_65800.svg",
+      "vector_contours": 5128,
+      "vector_vertices": 81538,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 20,
+      "filename": "65801.jpg",
+      "sha256": "b5d0c19cc4f99b4ceb6cfa2fcc5ed4b69293d0a563feabe9b7e4953caef60824",
+      "dimensions": [
+        1161,
+        1536
+      ],
+      "visual_observation": "dense geometric cube network",
+      "vector_svg": "svg/20_65801.svg",
+      "vector_contours": 2592,
+      "vector_vertices": 69158,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 21,
+      "filename": "65802.jpg",
+      "sha256": "a9ae7e2afaf99a18d7da69881fd8ee63e750b55a40b3894dd26f55eddd9f9507",
+      "dimensions": [
+        1188,
+        1536
+      ],
+      "visual_observation": "text-dominant explanatory page",
+      "vector_svg": "svg/21_65802.svg",
+      "vector_contours": 1541,
+      "vector_vertices": 31843,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 22,
+      "filename": "65803.jpg",
+      "sha256": "fe6ffd391326097410b3e93b62bae3d247e448f6d1d7ff41c118fe728723a41f",
+      "dimensions": [
+        1188,
+        1536
+      ],
+      "visual_observation": "multi-panel density and crystal grids",
+      "vector_svg": "svg/22_65803.svg",
+      "vector_contours": 3735,
+      "vector_vertices": 61753,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 23,
+      "filename": "65804.jpg",
+      "sha256": "64d5c841c430cd13aa8406d06a1df2db8c643ebe609a550e5879f13e19278e9f",
+      "dimensions": [
+        1188,
+        1536
+      ],
+      "visual_observation": "stacked geometric grids",
+      "vector_svg": "svg/23_65804.svg",
+      "vector_contours": 1484,
+      "vector_vertices": 31758,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 24,
+      "filename": "65805.jpg",
+      "sha256": "ae19fea1d6e401c8d0385d065bf118f790ca0d98dd43ec82714457ef27f34d37",
+      "dimensions": [
+        994,
+        1536
+      ],
+      "visual_observation": "concentric ring diagram and text",
+      "vector_svg": "svg/24_65805.svg",
+      "vector_contours": 3254,
+      "vector_vertices": 63119,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 25,
+      "filename": "65806.jpg",
+      "sha256": "702d834c064e386ede511be1d13269179f35f3fade6082fa49f9248693075fd6",
+      "dimensions": [
+        1086,
+        1536
+      ],
+      "visual_observation": "hand-drawn circular field",
+      "vector_svg": "svg/25_65806.svg",
+      "vector_contours": 1461,
+      "vector_vertices": 39339,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 26,
+      "filename": "65807.jpg",
+      "sha256": "9331d1c6de21e7e074d85e3efce402828c30c921d1cb2cc92232abb3251e69b7",
+      "dimensions": [
+        1168,
+        1536
+      ],
+      "visual_observation": "radial grid with explanatory text",
+      "vector_svg": "svg/26_65807.svg",
+      "vector_contours": 2980,
+      "vector_vertices": 60051,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 27,
+      "filename": "65808.jpg",
+      "sha256": "ac1995ab4109dfc106381941a9d10c5dc08bc7bffbf5198df25ab08f1f1860be",
+      "dimensions": [
+        1116,
+        1536
+      ],
+      "visual_observation": "circular vertical axis diagram",
+      "vector_svg": "svg/27_65808.svg",
+      "vector_contours": 1565,
+      "vector_vertices": 34686,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 28,
+      "filename": "65809.jpg",
+      "sha256": "affb4b9cf1249225d958cc9e28335cb2fd15185bc39c820e0550648a1bbff3f9",
+      "dimensions": [
+        1306,
+        1536
+      ],
+      "visual_observation": "multi-panel alignments and shields",
+      "vector_svg": "svg/28_65809.svg",
+      "vector_contours": 2544,
+      "vector_vertices": 49729,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 29,
+      "filename": "65810.jpg",
+      "sha256": "f537ee7d863fa3af2798bcea3baa84430d5d84588c62a167ba5eb5505a250898",
+      "dimensions": [
+        1109,
+        1536
+      ],
+      "visual_observation": "hand-drawn circular shield",
+      "vector_svg": "svg/29_65810.svg",
+      "vector_contours": 3044,
+      "vector_vertices": 66382,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 30,
+      "filename": "65811.jpg",
+      "sha256": "840fd7d0bf3b4eb16e3d22ddfc42827c020328639df2bc8763a9c94247d35865",
+      "dimensions": [
+        1050,
+        1536
+      ],
+      "visual_observation": "vertical templates and numeric axes",
+      "vector_svg": "svg/30_65811.svg",
+      "vector_contours": 2856,
+      "vector_vertices": 60670,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 31,
+      "filename": "65812.jpg",
+      "sha256": "32810db145162f76f541a8be81dfbddb9bafdfe7b3fb8cedb13ceb40469e771d",
+      "dimensions": [
+        1160,
+        1536
+      ],
+      "visual_observation": "illustrated geometric construction panels",
+      "vector_svg": "svg/31_65812.svg",
+      "vector_contours": 5114,
+      "vector_vertices": 85706,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 32,
+      "filename": "65813.jpg",
+      "sha256": "fba62fa412bd50d5fa6fed3cfe9a9cf92a58127709c9c8833e3598c057c0ff1e",
+      "dimensions": [
+        1075,
+        1536
+      ],
+      "visual_observation": "human figure with grid",
+      "vector_svg": "svg/32_65813.svg",
+      "vector_contours": 3903,
+      "vector_vertices": 66172,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 33,
+      "filename": "65814.jpg",
+      "sha256": "50592c930d59dadb48df90ae7944de200a5d8e651a5d655fb79650e9c740cb85",
+      "dimensions": [
+        1186,
+        1536
+      ],
+      "visual_observation": "vertical multi-grid illustration",
+      "vector_svg": "svg/33_65814.svg",
+      "vector_contours": 3857,
+      "vector_vertices": 67923,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 34,
+      "filename": "65815.jpg",
+      "sha256": "326319f94b5a6c7fbd629e1df8f04e348abfb6d81f27ce777964fa0b2da9a612",
+      "dimensions": [
+        1292,
+        1536
+      ],
+      "visual_observation": "multi-panel geometric examples",
+      "vector_svg": "svg/34_65815.svg",
+      "vector_contours": 3651,
+      "vector_vertices": 59175,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 35,
+      "filename": "65816.jpg",
+      "sha256": "935592b309fe2df2f98bb35dcd7d253cfed21c7b4084a2b187808e816779ebf1",
+      "dimensions": [
+        1186,
+        1536
+      ],
+      "visual_observation": "circular shield with inset diagrams",
+      "vector_svg": "svg/35_65816.svg",
+      "vector_contours": 3512,
+      "vector_vertices": 63613,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 36,
+      "filename": "65817.jpg",
+      "sha256": "50c475eb3f555903a273dd76d66637f393525770b5ae524569296b153b86b7fd",
+      "dimensions": [
+        709,
+        1536
+      ],
+      "visual_observation": "hand-drawn geometric field",
+      "vector_svg": "svg/36_65817.svg",
+      "vector_contours": 1444,
+      "vector_vertices": 32104,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 37,
+      "filename": "65818.jpg",
+      "sha256": "7db9823b434d3692bfd141269ac6b9578251538e951857cb62572ef6efb1c2d8",
+      "dimensions": [
+        1069,
+        1536
+      ],
+      "visual_observation": "symmetric vertical grid and annotations",
+      "vector_svg": "svg/37_65818.svg",
+      "vector_contours": 2120,
+      "vector_vertices": 41723,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 38,
+      "filename": "65819.jpg",
+      "sha256": "1b38636e6f519f6988cbb9cfbd75954099a77a3c72a17d73cd14d8fd2cc9226e",
+      "dimensions": [
+        1256,
+        1536
+      ],
+      "visual_observation": "hand-drawn paired geometries",
+      "vector_svg": "svg/38_65819.svg",
+      "vector_contours": 3042,
+      "vector_vertices": 65930,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 39,
+      "filename": "65820.jpg",
+      "sha256": "95b7502101041154da1f4c2e7ef10fa076f324c42a64a479d7c970e376fe91b9",
+      "dimensions": [
+        1186,
+        1536
+      ],
+      "visual_observation": "multiple paired diagrams",
+      "vector_svg": "svg/39_65820.svg",
+      "vector_contours": 1953,
+      "vector_vertices": 49030,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 40,
+      "filename": "65821.jpg",
+      "sha256": "07c3aa96996ad43d6f799772fae603226a016b374cb4b502bbabdc00b2d92da5",
+      "dimensions": [
+        1186,
+        1536
+      ],
+      "visual_observation": "radial wheels and axial figures",
+      "vector_svg": "svg/40_65821.svg",
+      "vector_contours": 2390,
+      "vector_vertices": 51183,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 41,
+      "filename": "65822.jpg",
+      "sha256": "f5fb1b80c9eaabcb2ca0db171d67d79d7ac3c6acf6dba91b753751bbc01223e1",
+      "dimensions": [
+        1254,
+        1536
+      ],
+      "visual_observation": "geometric spheres and lattices",
+      "vector_svg": "svg/41_65822.svg",
+      "vector_contours": 3983,
+      "vector_vertices": 75975,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 42,
+      "filename": "65823.jpg",
+      "sha256": "3cae4f4c3c8e01447ff9d105f939e6fbe83acfacbff5526dcaea6d739722c2f9",
+      "dimensions": [
+        1173,
+        1536
+      ],
+      "visual_observation": "two polyhedral mesh diagrams",
+      "vector_svg": "svg/42_65823.svg",
+      "vector_contours": 2937,
+      "vector_vertices": 53649,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 43,
+      "filename": "65824.jpg",
+      "sha256": "a7f086c9b6beed5d37ee7022631c05fc5527196ce4a2ba74ef9bce49fda1d05f",
+      "dimensions": [
+        1185,
+        1536
+      ],
+      "visual_observation": "diamond lattice and sphere",
+      "vector_svg": "svg/43_65824.svg",
+      "vector_contours": 2219,
+      "vector_vertices": 47301,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 44,
+      "filename": "65825.jpg",
+      "sha256": "7ef57969a521c2e9bb948de6d583c981943074975a401227f5a294a5682627b1",
+      "dimensions": [
+        1188,
+        1536
+      ],
+      "visual_observation": "multiple radial geometric wheels",
+      "vector_svg": "svg/44_65825.svg",
+      "vector_contours": 3662,
+      "vector_vertices": 74762,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 45,
+      "filename": "65826.jpg",
+      "sha256": "090a62a5616e1d7ee1e8995063412ae3a19d42145e1b6e82500b29be0a0af643",
+      "dimensions": [
+        1186,
+        1536
+      ],
+      "visual_observation": "several field circles and text",
+      "vector_svg": "svg/45_65826.svg",
+      "vector_contours": 2521,
+      "vector_vertices": 64547,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 46,
+      "filename": "65827.jpg",
+      "sha256": "9bab3f723060f8e5cbd73bd70043ea29ea444a6efd5a86533459e88be8578e43",
+      "dimensions": [
+        1090,
+        1536
+      ],
+      "visual_observation": "dense multi-panel circular geometries",
+      "vector_svg": "svg/46_65827.svg",
+      "vector_contours": 2095,
+      "vector_vertices": 56087,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 47,
+      "filename": "65828.jpg",
+      "sha256": "88a75fe25b5d9197058adc5a87482ac29461b9280d4717083553e185bdaa96ab",
+      "dimensions": [
+        1230,
+        1536
+      ],
+      "visual_observation": "complex node graph and human figure",
+      "vector_svg": "svg/47_65828.svg",
+      "vector_contours": 1551,
+      "vector_vertices": 40153,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 48,
+      "filename": "65829.jpg",
+      "sha256": "a3421a34164ca9b244c0df9a99dfd2e1a3e866f1305eb2c2ab6779368184e1d3",
+      "dimensions": [
+        1196,
+        1536
+      ],
+      "visual_observation": "symmetric lotus-like curves (duplicate of image 2)",
+      "vector_svg": "svg/48_65829.svg",
+      "vector_contours": 1125,
+      "vector_vertices": 41537,
+      "exact_duplicate_of": 2,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    },
+    {
+      "image_id": 49,
+      "filename": "65830.jpg",
+      "sha256": "29eec12e8ff00ec73039938808bb4203e513b1b76efbb853fa9d7f5f1187a4fc",
+      "dimensions": [
+        1077,
+        1536
+      ],
+      "visual_observation": "multi-panel density and merkaba structures",
+      "vector_svg": "svg/49_65830.svg",
+      "vector_contours": 1611,
+      "vector_vertices": 46087,
+      "exact_duplicate_of": null,
+      "image_review": "visually inspected at contact-sheet level",
+      "label_transcription": "not verified",
+      "geometry": "raster contour tracing, not verified parametric construction",
+      "concept_mapping": "not verified",
+      "source_status": "original available locally"
+    }
+  ]
+}

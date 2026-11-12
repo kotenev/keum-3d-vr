@@ -69,7 +69,7 @@ nav:
       - Дополнительные 10 изображений: implementation/additional-ten-images.md
       - Тестирование: implementation/testing.md
       - Прослеживаемость: implementation/traceability.md
-  - Энциклопедия 412 понятий:
+  - Энциклопедия KEUM:
       - Космология: encyclopedia/cosmology.md
       - Сакральная геометрия: encyclopedia/geometry.md
       - Меркаба и поля: encyclopedia/merkaba.md
@@ -84,5 +84,6 @@ nav:
       - Проекции и голография: encyclopedia/projection.md
       - Матрицы излучения: encyclopedia/radiation.md
       - Коды и Christos: encyclopedia/christos.md
+      - 10 новых изображений и 81 концепция: encyclopedia/additional-ten-images.md
   - Источники: bibliography.md
   - Глоссарий: glossary.md

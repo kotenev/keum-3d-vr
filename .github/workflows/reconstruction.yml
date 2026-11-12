@@ -32,6 +32,22 @@ jobs:
           assert len({r['concept_id'] for r in data['records']})==412
           assert data['verified_links']==0
           PY
+      - name: Check all 59 image slots and 10 original hashes
+        run: |
+          python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          data=json.loads(Path('reconstruction/results/corpus_59.json').read_text())
+          assert data['file_slots']==59
+          assert data['unique_sha256']==58
+          assert data['added']==10
+          for x in data['records']:
+              if x['image_id']>=50:
+                  p=Path(x['repository_path'])
+                  assert p.is_file(),p
+                  assert hashlib.sha256(p.read_bytes()).hexdigest()==x['sha256'],p
+          print('10 new originals verified against SHA-256')
+          PY
       - name: Check published QA manifest
         run: |
           python3 - <<'PY'

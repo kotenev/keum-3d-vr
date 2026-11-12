@@ -1,312 +1,463 @@
-# Научная и эзотерическая библиография KEUM
+# Научная, фундаментальная и эзотерическая библиография KEUM
 
-Этот справочник связывает **493 записи** с **32 источниками**. Роль источника фиксируется отдельно от истинности утверждения: эзотерическая книга документирует учение, научная публикация обосновывает метод или даёт критический контекст, но не подтверждает метафизические выводы.
+**49 источников · 493 концепции.** Это тематический справочник, а не подтверждение всех 493 утверждений.
 
-!!! warning "Уровень проверки"
-    Источники с пометкой `bibliographic-search` представлены ссылками на библиографический поиск, **не проверенным экземпляром или страницей книги**. Для каждой концепции `primary_source_verified=false` и `scientific_evidence_for_claim=false` до индивидуальной проверки. Некоторые источники научно обоснованы лишь как математический аппарат для визуализации.
+!!! warning "Методологическая граница"
+    Эзотерический первоисточник подтверждает наличие *описания* у автора, но не истинность заявленного физического механизма. Научный учебник подтверждает математический аппарат, а не эзотерическую интерпретацию. Ссылки типа `bibliographic-search` — поисковые указатели WorldCat, а не проверенные страницы конкретных изданий.
 
-## Научные труды, математика и стандарты
+## Научные труды, математика и технические стандарты
 
 <a id="math-chung"></a>
-### MATH-CHUNG: Spectral Graph Theory
+### MATH-CHUNG — Spectral Graph Theory
 
-**Автор:** Fan R. K. Chung · **Год:** 1997 · **Тип:** `scientific` · **Проверка:** `verified-landing`.
+**Fan R. K. Chung**, 1997. Тип: `scientific`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://cseweb.ucsd.edu/~fan/research/spectral_graph.html)
+[Источник или библиографический указатель](https://cseweb.ucsd.edu/~fan/research/spectral_graph.html)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="math-nist"></a>
-### MATH-NIST: Digital Library of Mathematical Functions
+### MATH-NIST — Digital Library of Mathematical Functions
 
-**Автор:** NIST · **Год:** 2010– · **Тип:** `scientific` · **Проверка:** `verified-landing`.
+**NIST**, 2010–. Тип: `scientific`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://dlmf.nist.gov/)
+[Источник или библиографический указатель](https://dlmf.nist.gov/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="math-kuramoto"></a>
-### MATH-KURAMOTO: The Kuramoto model: A simple paradigm for synchronization phenomena
+### MATH-KURAMOTO — The Kuramoto model: A simple paradigm for synchronization phenomena
 
-**Автор:** Acebrón et al. · **Год:** 2005 · **Тип:** `peer-reviewed` · **Проверка:** `verified-article`.
+**Acebrón et al.**, 2005. Тип: `peer-reviewed`; статус: `verified-article`.
 
-[Открыть источник / библиографический поиск](https://doi.org/10.1103/RevModPhys.77.137)
+[Источник или библиографический указатель](https://doi.org/10.1103/RevModPhys.77.137)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="math-strogatz"></a>
-### MATH-STROGATZ: Nonlinear Dynamics and Chaos
+### MATH-STROGATZ — Nonlinear Dynamics and Chaos
 
-**Автор:** Steven H. Strogatz · **Год:** 2015 · **Тип:** `textbook` · **Проверка:** `bibliographic-search`.
+**Steven H. Strogatz**, 2015. Тип: `textbook`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Steven+Strogatz+Nonlinear+Dynamics+and+Chaos)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Steven+Strogatz+Nonlinear+Dynamics+and+Chaos)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="math-newman"></a>
-### MATH-NEWMAN: Networks: An Introduction
+### MATH-NEWMAN — Networks: An Introduction
 
-**Автор:** M. E. J. Newman · **Год:** 2010 · **Тип:** `textbook` · **Проверка:** `bibliographic-search`.
+**M. E. J. Newman**, 2010. Тип: `textbook`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Mark+Newman+Networks+An+Introduction)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Mark+Newman+Networks+An+Introduction)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="astro-noaa"></a>
-### ASTRO-NOAA: Solar Calculator
+### ASTRO-NOAA — Solar Calculator
 
-**Автор:** NOAA Global Monitoring Laboratory · **Год:** n.d. · **Тип:** `scientific-tool` · **Проверка:** `verified-landing`.
+**NOAA Global Monitoring Laboratory**, n.d.. Тип: `scientific-tool`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://gml.noaa.gov/grad/solcalc/)
+[Источник или библиографический указатель](https://gml.noaa.gov/grad/solcalc/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="astro-meeus"></a>
-### ASTRO-MEEUS: Astronomical Algorithms
+### ASTRO-MEEUS — Astronomical Algorithms
 
-**Автор:** Jean Meeus · **Год:** 1998 · **Тип:** `textbook` · **Проверка:** `bibliographic-search`.
+**Jean Meeus**, 1998. Тип: `textbook`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Jean+Meeus+Astronomical+Algorithms)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Jean+Meeus+Astronomical+Algorithms)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="bio-nhgri"></a>
-### BIO-NHGRI: Deoxyribonucleic Acid (DNA) Fact Sheet
+### BIO-NHGRI — Deoxyribonucleic Acid (DNA) Fact Sheet
 
-**Автор:** National Human Genome Research Institute · **Год:** n.d. · **Тип:** `scientific-reference` · **Проверка:** `verified-landing`.
+**National Human Genome Research Institute**, n.d.. Тип: `scientific-reference`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)
+[Источник или библиографический указатель](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="bio-ncbi"></a>
-### BIO-NCBI: Biochemistry, DNA Structure
+### BIO-NCBI — Biochemistry, DNA Structure
 
-**Автор:** Ghannam, Wang & Jan · **Год:** 2023 · **Тип:** `medical-reference` · **Проверка:** `verified-landing`.
+**Ghannam, Wang & Jan**, 2023. Тип: `medical-reference`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://www.ncbi.nlm.nih.gov/books/NBK538241/)
+[Источник или библиографический указатель](https://www.ncbi.nlm.nih.gov/books/NBK538241/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="tech-svg"></a>
-### TECH-SVG: Scalable Vector Graphics (SVG) 2
+### TECH-SVG — Scalable Vector Graphics (SVG) 2
 
-**Автор:** W3C · **Год:** n.d. · **Тип:** `standard` · **Проверка:** `verified-landing`.
+**W3C**, n.d.. Тип: `standard`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://www.w3.org/TR/SVG2/)
+[Источник или библиографический указатель](https://www.w3.org/TR/SVG2/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="tech-gltf"></a>
-### TECH-GLTF: glTF 2.0 Specification
+### TECH-GLTF — glTF 2.0 Specification
 
-**Автор:** Khronos Group · **Год:** 2.0 · **Тип:** `standard` · **Проверка:** `verified-landing`.
+**Khronos Group**, 2.0. Тип: `standard`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+[Источник или библиографический указатель](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="tech-mathml"></a>
-### TECH-MATHML: MathML Core
+### TECH-MATHML — MathML Core
 
-**Автор:** W3C · **Год:** n.d. · **Тип:** `standard` · **Проверка:** `verified-landing`.
+**W3C**, n.d.. Тип: `standard`; статус: `verified-landing`.
 
-[Открыть источник / библиографический поиск](https://www.w3.org/TR/mathml-core/)
+[Источник или библиографический указатель](https://www.w3.org/TR/mathml-core/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="psy-maslow"></a>
-### PSY-MASLOW: A Theory of Human Motivation
+### PSY-MASLOW — A Theory of Human Motivation
 
-**Автор:** Abraham H. Maslow · **Год:** 1943 · **Тип:** `peer-reviewed` · **Проверка:** `doi-pointer`.
+**Abraham H. Maslow**, 1943. Тип: `peer-reviewed`; статус: `doi-pointer`.
 
-[Открыть источник / библиографический поиск](https://doi.org/10.1037/h0054346)
+[Источник или библиографический указатель](https://doi.org/10.1037/h0054346)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="psy-deci-ryan"></a>
-### PSY-DECI-RYAN: The 'What' and 'Why' of Goal Pursuits
+### PSY-DECI-RYAN — The 'What' and 'Why' of Goal Pursuits
 
-**Автор:** Edward L. Deci and Richard M. Ryan · **Год:** 2000 · **Тип:** `peer-reviewed` · **Проверка:** `doi-pointer`.
+**Edward L. Deci and Richard M. Ryan**, 2000. Тип: `peer-reviewed`; статус: `doi-pointer`.
 
-[Открыть источник / библиографический поиск](https://doi.org/10.1207/S15327965PLI1104_01)
+[Источник или библиографический указатель](https://doi.org/10.1207/S15327965PLI1104_01)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="cv-canny"></a>
-### CV-CANNY: A Computational Approach to Edge Detection
+### CV-CANNY — A Computational Approach to Edge Detection
 
-**Автор:** John Canny · **Год:** 1986 · **Тип:** `peer-reviewed` · **Проверка:** `doi-pointer`.
+**John Canny**, 1986. Тип: `peer-reviewed`; статус: `doi-pointer`.
 
-[Открыть источник / библиографический поиск](https://doi.org/10.1109/TPAMI.1986.4767851)
+[Источник или библиографический указатель](https://doi.org/10.1109/TPAMI.1986.4767851)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="astro-iau"></a>
-### ASTRO-IAU: Astronomical coordinate and reference systems (overview)
+### ASTRO-IAU — Astronomical coordinate and reference systems (overview)
 
-**Автор:** International Astronomical Union · **Год:** n.d. · **Тип:** `scientific-reference` · **Проверка:** `institution-homepage`.
+**International Astronomical Union**, n.d.. Тип: `scientific-reference`; статус: `institution-homepage`.
 
-[Открыть источник / библиографический поиск](https://www.iau.org/)
+[Источник или библиографический указатель](https://www.iau.org/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
-## Исторические и религиоведческие исследования
+<a id="math-euclid"></a>
+### MATH-EUCLID — Elements
+
+**Euclid**, classical. Тип: `mathematics-classic`; статус: `text-collection`.
+
+[Источник или библиографический указатель](https://mathcs.clarku.edu/~djoyce/elements/elements.html)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="math-coxeter"></a>
+### MATH-COXETER — Regular Polytopes
+
+**H. S. M. Coxeter**, 1973. Тип: `textbook`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Coxeter+Regular+Polytopes)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="math-mandelbrot"></a>
+### MATH-MANDELBROT — The Fractal Geometry of Nature
+
+**Benoit B. Mandelbrot**, 1982. Тип: `textbook`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Mandelbrot+Fractal+Geometry+of+Nature)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="math-arnold"></a>
+### MATH-ARNOLD — Mathematical Methods of Classical Mechanics
+
+**V. I. Arnold**, 1978. Тип: `textbook`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Arnold+Mathematical+Methods+of+Classical+Mechanics)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="astro-ptolemy"></a>
+### ASTRO-PTOLEMY — Almagest
+
+**Claudius Ptolemy**, 2nd century. Тип: `historical-astronomy`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Ptolemy+Almagest)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="astro-kepler"></a>
+### ASTRO-KEPLER — Harmonices Mundi
+
+**Johannes Kepler**, 1619. Тип: `historical-astronomy`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Kepler+Harmonices+Mundi)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="phys-newton"></a>
+### PHYS-NEWTON — Philosophiæ Naturalis Principia Mathematica
+
+**Isaac Newton**, 1687. Тип: `physics-classic`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Newton+Principia+Mathematica)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="phys-maxwell"></a>
+### PHYS-MAXWELL — A Treatise on Electricity and Magnetism
+
+**James Clerk Maxwell**, 1873. Тип: `physics-classic`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Maxwell+Treatise+Electricity+Magnetism)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="phys-einstein"></a>
+### PHYS-EINSTEIN — Relativity: The Special and General Theory
+
+**Albert Einstein**, 1916. Тип: `physics-classic`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Einstein+Relativity+Special+General+Theory)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+## Академические исследования религии, истории и психологии
 
 <a id="hist-scholem"></a>
-### HIST-SCHOLEM: Major Trends in Jewish Mysticism
+### HIST-SCHOLEM — Major Trends in Jewish Mysticism
 
-**Автор:** Gershom Scholem · **Год:** 1941 · **Тип:** `academic-history` · **Проверка:** `bibliographic-search`.
+**Gershom Scholem**, 1941. Тип: `academic-history`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Gershom+Scholem+Major+Trends+in+Jewish+Mysticism)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Gershom+Scholem+Major+Trends+in+Jewish+Mysticism)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="hist-idel"></a>
-### HIST-IDEL: Kabbalah: New Perspectives
+### HIST-IDEL — Kabbalah: New Perspectives
 
-**Автор:** Moshe Idel · **Год:** 1988 · **Тип:** `academic-history` · **Проверка:** `bibliographic-search`.
+**Moshe Idel**, 1988. Тип: `academic-history`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Moshe+Idel+Kabbalah+New+Perspectives)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Moshe+Idel+Kabbalah+New+Perspectives)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="hist-hanegraaff"></a>
-### HIST-HANEGRAAFF: New Age Religion and Western Culture
+### HIST-HANEGRAAFF — New Age Religion and Western Culture
 
-**Автор:** Wouter J. Hanegraaff · **Год:** 1996 · **Тип:** `academic-history` · **Проверка:** `bibliographic-search`.
+**Wouter J. Hanegraaff**, 1996. Тип: `academic-history`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Hanegraaff+New+Age+Religion+Western+Culture)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Hanegraaff+New+Age+Religion+Western+Culture)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="hist-garb"></a>
-### HIST-GARB: Jewish Mysticism (academic chapter)
+### HIST-GARB — Jewish Mysticism (academic chapter)
 
-**Автор:** Jonathan Garb · **Год:** 2025 · **Тип:** `academic-history` · **Проверка:** `verified-chapter`.
+**Jonathan Garb**, 2025. Тип: `academic-history`; статус: `verified-chapter`.
 
-[Открыть источник / библиографический поиск](https://content-webapi.tuni.fi/proxy/public/2025-01/prism-background-volume_0.pdf)
+[Источник или библиографический указатель](https://content-webapi.tuni.fi/proxy/public/2025-01/prism-background-volume_0.pdf)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-jung"></a>
-### ESOT-JUNG: Psychology and Alchemy
+### ESOT-JUNG — Psychology and Alchemy
 
-**Автор:** C. G. Jung · **Год:** 1944 · **Тип:** `historical-psychology` · **Проверка:** `bibliographic-search`.
+**C. G. Jung**, 1944. Тип: `historical-psychology`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Jung+Psychology+and+Alchemy)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Jung+Psychology+and+Alchemy)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+
+<a id="hist-eliade"></a>
+### HIST-ELIADE — The Sacred and the Profane
+
+**Mircea Eliade**, 1957. Тип: `religious-studies`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Mircea+Eliade+The+Sacred+and+the+Profane)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="esot-campbell"></a>
+### ESOT-CAMPBELL — The Hero with a Thousand Faces
+
+**Joseph Campbell**, 1949. Тип: `comparative-mythology`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Joseph+Campbell+Hero+with+a+Thousand+Faces)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="psy-jung-arch"></a>
+### PSY-JUNG-ARCH — The Archetypes and the Collective Unconscious
+
+**C. G. Jung**, 1959. Тип: `psychology-classic`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Jung+Archetypes+Collective+Unconscious)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="psy-rogers"></a>
+### PSY-ROGERS — On Becoming a Person
+
+**Carl R. Rogers**, 1961. Тип: `psychology-classic`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Carl+Rogers+On+Becoming+a+Person)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
 
 ## Эзотерические первоисточники
 
 <a id="esot-sefer"></a>
-### ESOT-SEFER: Sefer Yetzirah
+### ESOT-SEFER — Sefer Yetzirah
 
-**Автор:** Traditional · **Год:** ancient/medieval · **Тип:** `esoteric-primary` · **Проверка:** `verified-text-collection`.
+**Traditional**, ancient/medieval. Тип: `esoteric-primary`; статус: `verified-text-collection`.
 
-[Открыть источник / библиографический поиск](https://www.sefaria.org/Sefer_Yetzirah)
+[Источник или библиографический указатель](https://www.sefaria.org/Sefer_Yetzirah)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-zohar"></a>
-### ESOT-ZOHAR: Zohar
+### ESOT-ZOHAR — Zohar
 
-**Автор:** Traditional · **Год:** 13th century corpus · **Тип:** `esoteric-primary` · **Проверка:** `verified-text-collection`.
+**Traditional**, 13th century corpus. Тип: `esoteric-primary`; статус: `verified-text-collection`.
 
-[Открыть источник / библиографический поиск](https://www.sefaria.org/Zohar)
+[Источник или библиографический указатель](https://www.sefaria.org/Zohar)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-bahir"></a>
-### ESOT-BAHIR: Sefer HaBahir
+### ESOT-BAHIR — Sefer HaBahir
 
-**Автор:** Traditional · **Год:** medieval · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-pointer`.
+**Traditional**, medieval. Тип: `esoteric-primary`; статус: `bibliographic-pointer`.
 
-[Открыть источник / библиографический поиск](https://www.sefaria.org/Sefer_HaBahir)
+[Источник или библиографический указатель](https://www.sefaria.org/Sefer_HaBahir)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-russell"></a>
-### ESOT-RUSSELL: The Universal One
+### ESOT-RUSSELL — The Universal One
 
-**Автор:** Walter Russell · **Год:** 1926 · **Тип:** `esoteric-primary` · **Проверка:** `verified-digitized-book`.
+**Walter Russell**, 1926. Тип: `esoteric-primary`; статус: `verified-digitized-book`.
 
-[Открыть источник / библиографический поиск](https://www.loc.gov/item/27004508/)
+[Источник или библиографический указатель](https://www.loc.gov/item/27004508/)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-deane-i"></a>
-### ESOT-DEANE-I: Voyagers, Volume I: The Sleeping Abductees
+### ESOT-DEANE-I — Voyagers, Volume I: The Sleeping Abductees
 
-**Автор:** Ashayana Deane · **Год:** n.d. · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-search`.
+**Ashayana Deane**, n.d.. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Ashayana+Deane+Voyagers+Sleeping+Abductees)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Ashayana+Deane+Voyagers+Sleeping+Abductees)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-deane-ii"></a>
-### ESOT-DEANE-II: Voyagers, Volume II: The Secrets of Amenti
+### ESOT-DEANE-II — Voyagers, Volume II: The Secrets of Amenti
 
-**Автор:** Ashayana Deane · **Год:** n.d. · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-search`.
+**Ashayana Deane**, n.d.. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Ashayana+Deane+Secrets+of+Amenti)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Ashayana+Deane+Secrets+of+Amenti)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-kathara"></a>
-### ESOT-KATHARA: Kathara Bio-Spiritual Healing System (materials)
+### ESOT-KATHARA — Kathara Bio-Spiritual Healing System (materials)
 
-**Автор:** Ashayana Deane / MCEO · **Год:** n.d. · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-search`.
+**Ashayana Deane / MCEO**, n.d.. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Kathara+Bio-Spiritual+Healing+System)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Kathara+Bio-Spiritual+Healing+System)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-blavatsky"></a>
-### ESOT-BLAVATSKY: The Secret Doctrine
+### ESOT-BLAVATSKY — The Secret Doctrine
 
-**Автор:** H. P. Blavatsky · **Год:** 1888 · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-search`.
+**H. P. Blavatsky**, 1888. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=H.P.+Blavatsky+The+Secret+Doctrine)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=H.P.+Blavatsky+The+Secret+Doctrine)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-hermetica"></a>
-### ESOT-HERMETICA: Corpus Hermeticum
+### ESOT-HERMETICA — Corpus Hermeticum
 
-**Автор:** Hermetic corpus · **Год:** antiquity · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-search`.
+**Hermetic corpus**, antiquity. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Corpus+Hermeticum+Brian+Copenhaver)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Corpus+Hermeticum+Brian+Copenhaver)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="esot-agrippa"></a>
-### ESOT-AGRIPPA: Three Books of Occult Philosophy
+### ESOT-AGRIPPA — Three Books of Occult Philosophy
 
-**Автор:** Heinrich Cornelius Agrippa · **Год:** 1533 · **Тип:** `esoteric-primary` · **Проверка:** `bibliographic-search`.
+**Heinrich Cornelius Agrippa**, 1533. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-[Открыть источник / библиографический поиск](https://search.worldcat.org/search?q=Agrippa+Three+Books+of+Occult+Philosophy)
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Agrippa+Three+Books+of+Occult+Philosophy)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
 <a id="psy-minov"></a>
-### PSY-MINOV: Map of the Human Soul (diagram, 2012)
+### PSY-MINOV — Map of the Human Soul (diagram, 2012)
 
-**Автор:** Zoran Minov · **Год:** 2012 · **Тип:** `user-supplied-primary-image` · **Проверка:** `verified-user-image`.
+**Zoran Minov**, 2012. Тип: `user-supplied-primary-image`; статус: `verified-user-image`.
 
-[Открыть источник / библиографический поиск](https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/sources/additional_10/66285.jpg)
+[Источник или библиографический указатель](https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/sources/additional_10/66285.jpg)
 
-**Использование:** bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
 
-## Методологические ограничения
+<a id="esot-fortune"></a>
+### ESOT-FORTUNE — The Mystical Qabalah
 
-1. Первичный текст и научное подтверждение — разные виды доказательств.
-2. Книги по геометрии и динамике не доказывают эзотерические «поля», «энергетическую ДНК» или Concave Earth.
-3. Историческая Каббала, теософия и современные Freedom Teachings — разные традиции; параллели требуют источниковедческого анализа.
-4. Для строгой ссылки на конкретное утверждение нужны издание, страница, цитата и характер связи.
-5. Психологические авторские схемы не равнозначны валидированным психометрическим методикам.
+**Dion Fortune**, 1935. Тип: `esoteric-primary`; статус: `bibliographic-search`.
 
-## Реестр соответствий
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Dion+Fortune+The+Mystical+Qabalah)
 
-[Смотреть все 493 концепции с источниками](references-by-concept.md).
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="esot-regardie"></a>
+### ESOT-REGARDIE — The Golden Dawn
+
+**Israel Regardie**, 1937–1940. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Israel+Regardie+The+Golden+Dawn)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="esot-steiner"></a>
+### ESOT-STEINER — Occult Science: An Outline
+
+**Rudolf Steiner**, 1910. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Rudolf+Steiner+Occult+Science+Outline)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+<a id="esot-leadbeater"></a>
+### ESOT-LEADBEATER — The Chakras
+
+**C. W. Leadbeater**, 1927. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+
+[Источник или библиографический указатель](https://search.worldcat.org/search?q=Leadbeater+The+Chakras)
+
+*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+
+## Правила научной атрибуции
+
+- Для строгой ссылки на утверждение нужны точное издание, страница, цитата, тип связи и рецензент.
+- Сходство символов разных традиций не доказывает исторического заимствования.
+- Восход/закат и астрономические координаты проверяются научными эфемеридами; схема Concave Earth не является геофизическим объяснением.
+- Психологические карты не являются валидированными методиками без опубликованной проверки надёжности и валидности.
+- Математическая параметризация эзотерического рисунка не делает его физической теорией.
+
+[Указатель источников для всех 493 концепций](references-by-concept.md).

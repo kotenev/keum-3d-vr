@@ -12,11 +12,11 @@ class UniversalRuntimeTests(unittest.TestCase):
         cls.items=catalog()
 
     def test_412_unique(self):
-        self.assertEqual(len(self.items),412)
-        self.assertEqual(len(set(x["id"] for x in self.items)),412)
+        self.assertEqual(len(self.items),493)
+        self.assertEqual(len(set(x["id"] for x in self.items)),493)
 
     def test_all_14_families_have_instances(self):
-        self.assertEqual(len(set(x["category"] for x in self.items)),14)
+        self.assertEqual(len(set(x["category"] for x in self.items)),16)
         for item in self.items:
             model=instance(item,1.25)
             self.assertTrue(validate(model))

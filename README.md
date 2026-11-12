@@ -99,3 +99,23 @@ python3 reconstruction/pipeline.py --sources /path/to/49/images --output build/r
 ```bash
 python3 reconstruction/process_additional.py --output build/reconstruction_50_59
 ```
+
+
+## KEUM 3.4 — десять новых источников и 81 концепция
+
+Основной [каталог](data/catalog.json) расширен с 412 до **493** записей (16 категорий), сохранив ID 1–412. Новые ID **413–493** связаны с десятью загруженными изображениями `66261.jpg`–`66288.jpg`.
+
+- [10 оригинальных JPG](reconstruction/sources/additional_10/)
+- [Общий манифест: 59 позиций / 58 уникальных файлов](reconstruction/results/corpus_59.json)
+- [81 новая запись: формулы и статус научной проверки](data/new_concepts_mathematics.json)
+- [Связи 493 концепций с изображениями](reconstruction/results/concept_image_links_493.json)
+- [MkDocs: энциклопедия десяти новых изображений](mkdocs/encyclopedia/additional-ten-images.md)
+
+```bash
+python3 -m pip install -r reconstruction/requirements.txt
+python3 reconstruction/process_additional.py --output build/reconstruction_50_59
+python3 concept_engine/export_all.py --output build/concepts
+python3 -m unittest discover -s concept_engine -p 'test_*.py'
+```
+
+Новые формулы описывают геометрические или графовые структуры и не служат доказательством эзотерических физических утверждений. Новые изображения ещё не прошли полную ручную геометрическую проверку.

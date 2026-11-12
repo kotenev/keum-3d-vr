@@ -20,14 +20,16 @@ CLASS_RULES={
     "Спирали и вихри":"parametric-geometry",
     "Проекции и голография":"projection",
     "Матрицы излучения":"graph-dynamics",
-    "Коды и Christos":"symbolic-algebra"
+    "Коды и Christos":"symbolic-algebra",
+    "Алхимия и символические соответствия":"symbolic-algebra",
+    "Психологические модели":"ontology"
 }
 
 def compile_ontology(catalog):
     ids=[item["id"] for item in catalog]
     if len(ids)!=len(set(ids)):raise ValueError("duplicate concept IDs")
     if any(not isinstance(i,int) or i<1 for i in ids):raise ValueError("invalid IDs")
-    if len(catalog)!=412:raise ValueError(f"expected 412, got {len(catalog)}")
+    if len(catalog)<412:raise ValueError(f"expected at least 412, got {len(catalog)}")
     unknown=set(x["category"] for x in catalog)-set(CLASS_RULES)
     if unknown:raise ValueError(f"unknown categories: {unknown}")
     return {

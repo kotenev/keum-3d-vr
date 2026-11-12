@@ -7,7 +7,7 @@
 <header><b>KEUM · Verification Workbench</b><label>Оригинал <input type="file" id="image" accept="image/*"></label><label>JSON кандидатов <input type="file" id="candidates" accept=".json,application/json"></label><button id="load">Импорт разметки</button><input type="file" id="review" accept=".json" hidden><span class="muted">Ручная проверка ≠ доказательство физической теории</span></header>
 <main><div id="viewport"><div id="stage"><img id="source" alt="Загрузите оригинал"><svg id="draw" xmlns="http://www.w3.org/2000/svg"></svg></div></div>
 <aside><h3>Параметры</h3>
-<label>ID изображения (1–49)</label><input id="imageId" type="number" min="1" max="49" value="1">
+<label>ID изображения (1–59)</label><input id="imageId" type="number" min="1" max="59" value="1">
 <label>ID концепции (1–412)</label><input id="conceptId" type="number" min="1" max="412" value="21">
 <label>Режим разметки</label><select id="mode"><option value="reference">Эталонная точка</option><option value="model">Точка модели</option><option value="line">Линия (2 клика)</option><option value="circle">Окружность (центр + радиус)</option><option value="erase">Удалить ближайшую точку</option></select>
 <label>Показать слои</label><label><input id="showCandidates" type="checkbox" checked> Кандидаты OpenCV</label><label><input id="showReference" type="checkbox" checked> Контрольные точки оригинала</label><label><input id="showModel" type="checkbox" checked> Контрольные точки модели</label>

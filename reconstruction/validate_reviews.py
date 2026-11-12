@@ -5,7 +5,7 @@ import argparse,json,math
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-MANIFEST=ROOT/"reconstruction/results/manifest.json"
+MANIFEST=ROOT/"reconstruction/results/corpus_59.json"
 LINKS=ROOT/"reconstruction/results/concept_image_links_412.json"
 
 def rmse(a,b):
@@ -18,7 +18,7 @@ def chamfer(a,b):
 def verify(record,manifest,links):
     if record.get("schema")!="keum.manual-review.v1":raise ValueError("unknown review schema")
     image_id,concept_id=record.get("image_id"),record.get("concept_id")
-    if not isinstance(image_id,int) or not 1<=image_id<=49:raise ValueError("invalid image id")
+    if not isinstance(image_id,int) or not 1<=image_id<=59:raise ValueError("invalid image id")
     if not isinstance(concept_id,int) or not 1<=concept_id<=412:raise ValueError("invalid concept id")
     images={x["image_id"]:x for x in manifest["records"]}
     concepts={x["concept_id"]:x for x in links["records"]}
@@ -40,7 +40,7 @@ def verify(record,manifest,links):
       "schema":"keum.review-result.v1",
       "image_id":image_id,"concept_id":concept_id,"status":status,
       "source_sha256":images[image_id]["sha256"],
-      "catalog_link_status":concepts[concept_id]["link_status"],
+      "catalog_link_status":concepts[concept_id]["link_status"] if image_id<=49 else "new-image-unmapped",
       "point_count":len(a),
       "rmse_px":round(rmse(a,b),4) if a and len(a)==len(b) else None,
       "chamfer_px2":round(chamfer(a,b),4) if a and b else None,

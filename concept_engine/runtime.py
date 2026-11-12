@@ -22,14 +22,16 @@ CATEGORIES={
  "Тела Hova":"ontology","ДНК и коды":"symbolic-algebra",
  "Кристаллическое тело":"geometry","Пламена и Eukatharista":"state-machine",
  "Спирали и вихри":"parametric-geometry","Проекции и голография":"projection",
- "Матрицы излучения":"graph-dynamics","Коды и Christos":"symbolic-algebra"
+ "Матрицы излучения":"graph-dynamics","Коды и Christos":"symbolic-algebra",
+ "Алхимия и символические соответствия":"symbolic-algebra",
+ "Психологические модели":"ontology"
 }
 TWO_PI=2*math.pi
 
 def catalog(path=BASE/"data/catalog.json"):
     items=json.loads(Path(path).read_text(encoding="utf-8"))
-    if len(items)!=412 or len({x["id"] for x in items})!=412:
-        raise ValueError("catalog must contain exactly 412 unique IDs")
+    if len(items)<412 or len({x["id"] for x in items})!=len(items):
+        raise ValueError("catalog must contain at least 412 unique IDs")
     if {x["category"] for x in items}-CATEGORIES.keys():
         raise ValueError("unknown category")
     return sorted(items,key=lambda x:x["id"])

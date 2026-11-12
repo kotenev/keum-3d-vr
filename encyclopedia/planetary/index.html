@@ -1,0 +1,3367 @@
+
+<!doctype html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Формальная математическая и программная архитектура символической Kathara–Eckasha модели">
+      
+      
+      
+        <link rel="canonical" href="https://kotenev.github.io/keum-3d-vr/encyclopedia/planetary/">
+      
+      
+        <link rel="prev" href="../anatomy/">
+      
+      
+        <link rel="next" href="../hova/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Планетарные модели - KEUM — Mathematical & Architecture Reference</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="cyan">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Перейти к содержанию
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Верхний колонтитул">
+    <a href="../.." title="KEUM — Mathematical &amp; Architecture Reference" class="md-header__button md-logo" aria-label="KEUM — Mathematical & Architecture Reference" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            KEUM — Mathematical & Architecture Reference
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Планетарные модели
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Поиск" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Поиск">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Очистить" aria-label="Очистить" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Инициализация поиска
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/kotenev/keum-3d-vr" title="Перейти к репозиторию" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    kotenev/keum-3d-vr
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Вкладки" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Обзор
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../methodology/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Методология
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../architecture/system/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Архитектура
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../mathematics/foundations/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Математика
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../models/cosmology/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Семейства моделей
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../implementation/rendering/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Реализация
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../cosmology/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Энциклопедия KEUM
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../bibliography-expanded/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Литература и источники
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../glossary/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Глоссарий
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Навигация" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="KEUM — Mathematical &amp; Architecture Reference" class="md-nav__button md-logo" aria-label="KEUM — Mathematical & Architecture Reference" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    KEUM — Mathematical & Architecture Reference
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/kotenev/keum-3d-vr" title="Перейти к репозиторию" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    kotenev/keum-3d-vr
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Обзор
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Методология
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Архитектура
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Архитектура
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architecture/system/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Системный контекст
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architecture/components/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Компоненты и данные
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architecture/contracts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Контракты и форматы
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Математика
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Математика
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mathematics/foundations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Аксиомы и пространства
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mathematics/graphs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Графы и потоки
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mathematics/dynamics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Динамика и резонанс
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mathematics/geometry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Геометрия и проекции
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mathematics/numerics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Топология и численные методы
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mathematics/mathml/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TeX и MathML
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Семейства моделей
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Семейства моделей
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../models/cosmology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Космология и плотности
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../models/concave-earth/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Concave Earth и Звёздный глобус
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../models/concave-astronomy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Concave Earth Astronomy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../models/kathara-lotus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kathara, Lotus, Reuche
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../models/merkaba/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Merkaba, PCM и PKA
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../models/hova-dna/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hova, DNA, Fire Codes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Реализация
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Реализация
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/rendering/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    SVG и glTF
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/concept-runtime/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Исполняемый движок 412 концепций
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/source-aware-models/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Индивидуальные модели и проверка точности
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/image-reconstruction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Реконструкция 49 изображений
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/additional-ten-images/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Дополнительные 10 изображений
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/testing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Тестирование
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../implementation/traceability/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Прослеживаемость
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Энциклопедия KEUM
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Энциклопедия KEUM
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cosmology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Космология
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../geometry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Сакральная геометрия
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../merkaba/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Меркаба и поля
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cycles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Дыхание и циклы
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../anatomy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Энергетическая анатомия
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Планетарные модели
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Планетарные модели
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Содержание">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Предметная область
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Указатель понятий
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Подробные карточки
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Подробные карточки">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#91-halls-of-amenti" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        91. Halls of Amenti
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#92-star-gate-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        92. Star Gate System
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#93-planetary-shields" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        93. Planetary Shields
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#94-earth-d-2-elemental-clock" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        94. Earth D-2 Elemental Clock
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#95-earth-celestial-pole" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        95. Earth Celestial Pole
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#96-false-south-celestial-pole" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        96. False South Celestial Pole
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#97-ecliptic-plane" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        97. Ecliptic Plane
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#98-solar-northsouth-axis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        98. Solar North–South Axis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#99-earth-elemental-grid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        99. Earth Elemental Grid
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#100-arps-angular-rotation-of-particle-spin" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        100. ARPS — Angular Rotation of Particle Spin
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#101-star-gate-signal-sites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        101. Star Gate Signal Sites
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#102-inner-and-parallel-earth-relationships" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        102. Inner and Parallel Earth Relationships
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#229-universal-radial-body" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        229. Universal Radial Body
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#230-galactic-eckasha-map" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        230. Galactic Eckasha Map
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#231-veca-codes-and-radial-body-merger" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        231. Veca Codes and Radial Body Merger
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#232-density-radial-body" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        232. Density Radial Body
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#233-primal-light-sound-field-merger" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        233. Primal Light-Sound Field Merger
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#234-universal-radial-body-expansion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        234. Universal Radial Body Expansion
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#235-cosmic-clock-correspondence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        235. Cosmic Clock Correspondence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#236-planetary-orbital-alignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        236. Planetary Orbital Alignment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#237-galactic-density-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        237. Galactic Density Structure
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#238-eckasha-universal-radial-map" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        238. Eckasha Universal Radial Map
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#313-michael-mary-lines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        313. Michael-Mary Lines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#314-circular-projection-geometry" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        314. Circular Projection Geometry
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#315-rotational-angular-correspondence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        315. Rotational Angular Correspondence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#316-concentric-field-alignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        316. Concentric Field Alignment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#317-geometric-axis-intersection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        317. Geometric Axis Intersection
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#318-cosmic-clock-projection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        318. Cosmic Clock Projection
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hova/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Тела Hova
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dna-codes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ДНК и коды
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crystal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Кристаллическое тело
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../flames/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Пламена и Eukatharista
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vortices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Спирали и вихри
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../projection/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Проекции и голография
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../radiation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Матрицы излучения
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../christos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Коды и Christos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../additional-ten-images/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    10 новых изображений и 81 концепция
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Литература и источники
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Литература и источники
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bibliography-expanded/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Расширенная библиография
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../references-by-concept/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Указатель по 493 концепциям
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bibliography/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Библиография первой редакции
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Глоссарий
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Содержание">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Предметная область
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Указатель понятий
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Подробные карточки
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Подробные карточки">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#91-halls-of-amenti" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        91. Halls of Amenti
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#92-star-gate-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        92. Star Gate System
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#93-planetary-shields" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        93. Planetary Shields
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#94-earth-d-2-elemental-clock" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        94. Earth D-2 Elemental Clock
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#95-earth-celestial-pole" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        95. Earth Celestial Pole
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#96-false-south-celestial-pole" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        96. False South Celestial Pole
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#97-ecliptic-plane" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        97. Ecliptic Plane
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#98-solar-northsouth-axis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        98. Solar North–South Axis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#99-earth-elemental-grid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        99. Earth Elemental Grid
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#100-arps-angular-rotation-of-particle-spin" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        100. ARPS — Angular Rotation of Particle Spin
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#101-star-gate-signal-sites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        101. Star Gate Signal Sites
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#102-inner-and-parallel-earth-relationships" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        102. Inner and Parallel Earth Relationships
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#229-universal-radial-body" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        229. Universal Radial Body
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#230-galactic-eckasha-map" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        230. Galactic Eckasha Map
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#231-veca-codes-and-radial-body-merger" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        231. Veca Codes and Radial Body Merger
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#232-density-radial-body" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        232. Density Radial Body
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#233-primal-light-sound-field-merger" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        233. Primal Light-Sound Field Merger
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#234-universal-radial-body-expansion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        234. Universal Radial Body Expansion
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#235-cosmic-clock-correspondence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        235. Cosmic Clock Correspondence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#236-planetary-orbital-alignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        236. Planetary Orbital Alignment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#237-galactic-density-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        237. Galactic Density Structure
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#238-eckasha-universal-radial-map" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        238. Eckasha Universal Radial Map
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#313-michael-mary-lines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        313. Michael-Mary Lines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#314-circular-projection-geometry" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        314. Circular Projection Geometry
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#315-rotational-angular-correspondence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        315. Rotational Angular Correspondence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#316-concentric-field-alignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        316. Concentric Field Alignment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#317-geometric-axis-intersection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        317. Geometric Axis Intersection
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#318-cosmic-clock-projection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        318. Cosmic Clock Projection
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="_1">Планетарные модели<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<p><strong>Энциклопедические карточки:</strong> 28. <strong>ID:</strong> 91–318. Все понятия являются элементами рабочего реестра, а не автоматически самостоятельными научными теориями.</p>
+<h2 id="_2">Предметная область<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>Планетарные оси, условные часы, врата и пространственные соответствия. Для этой группы предлагается следующая математическая репрезентация: сферические координаты и циклические угловые метки.</p>
+<div class="arithmatex">\[p_j=r(\cos(2\pi j/N),\sin(2\pi j/N)).\]</div>
+<div class="admonition warning">
+<p class="admonition-title">Граница знания</p>
+<p>Формула выше — <strong>инструмент моделирования</strong>, а не исходный закон Keylontic Science. Большинство описаний каталога составлено по вторичному рабочему реестру, а не по полной текстовой сверке оригинальных страниц. Неподтверждённые механизмы не признаются научными фактами.</p>
+</div>
+<h2 id="_3">Указатель понятий<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">ID</th>
+<th>Оригинальный термин</th>
+<th>Источник в рабочем реестре</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">91</td>
+<td><a href="#term-91">Halls of Amenti</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">92</td>
+<td><a href="#term-92">Star Gate System</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">93</td>
+<td><a href="#term-93">Planetary Shields</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">94</td>
+<td><a href="#term-94">Earth D-2 Elemental Clock</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">95</td>
+<td><a href="#term-95">Earth Celestial Pole</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">96</td>
+<td><a href="#term-96">False South Celestial Pole</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">97</td>
+<td><a href="#term-97">Ecliptic Plane</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">98</td>
+<td><a href="#term-98">Solar North–South Axis</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">99</td>
+<td><a href="#term-99">Earth Elemental Grid</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">100</td>
+<td><a href="#term-100">ARPS — Angular Rotation of Particle Spin</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">101</td>
+<td><a href="#term-101">Star Gate Signal Sites</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">102</td>
+<td><a href="#term-102">Inner and Parallel Earth Relationships</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">229</td>
+<td><a href="#term-229">Universal Radial Body</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">230</td>
+<td><a href="#term-230">Galactic Eckasha Map</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">231</td>
+<td><a href="#term-231">Veca Codes and Radial Body Merger</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">232</td>
+<td><a href="#term-232">Density Radial Body</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">233</td>
+<td><a href="#term-233">Primal Light-Sound Field Merger</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">234</td>
+<td><a href="#term-234">Universal Radial Body Expansion</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">235</td>
+<td><a href="#term-235">Cosmic Clock Correspondence</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">236</td>
+<td><a href="#term-236">Planetary Orbital Alignment</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">237</td>
+<td><a href="#term-237">Galactic Density Structure</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">238</td>
+<td><a href="#term-238">Eckasha Universal Radial Map</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">313</td>
+<td><a href="#term-313">Michael-Mary Lines</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">314</td>
+<td><a href="#term-314">Circular Projection Geometry</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">315</td>
+<td><a href="#term-315">Rotational Angular Correspondence</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">316</td>
+<td><a href="#term-316">Concentric Field Alignment</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">317</td>
+<td><a href="#term-317">Geometric Axis Intersection</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+<tr>
+<td style="text-align: right;">318</td>
+<td><a href="#term-318">Cosmic Clock Projection</a></td>
+<td>1–40 (prior register; exact mapping see previous conversation)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">Подробные карточки<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p><a id="term-91"></a></p>
+<h3 id="91-halls-of-amenti">91. Halls of Amenti<a class="headerlink" href="#91-halls-of-amenti" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0091</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Halls of Amenti.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-92">Star Gate System</a> (№ 92); <a href="#term-93">Planetary Shields</a> (№ 93); <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-92"></a></p>
+<h3 id="92-star-gate-system">92. Star Gate System<a class="headerlink" href="#92-star-gate-system" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0092</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Star Gate System.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-101">Star Gate Signal Sites</a> (№ 101); <a href="#term-91">Halls of Amenti</a> (№ 91); <a href="#term-93">Planetary Shields</a> (№ 93). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-93"></a></p>
+<h3 id="93-planetary-shields">93. Planetary Shields<a class="headerlink" href="#93-planetary-shields" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0093</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Planetary Shields.</p>
+<p><strong>Терминологический разбор.</strong> Обозначает условную оболочку или защитный контур в терминологии учения; защитное физическое действие не установлено.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-236">Planetary Orbital Alignment</a> (№ 236); <a href="#term-92">Star Gate System</a> (№ 92); <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-94"></a></p>
+<h3 id="94-earth-d-2-elemental-clock">94. Earth D-2 Elemental Clock<a class="headerlink" href="#94-earth-d-2-elemental-clock" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0094</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Earth D-2 Elemental Clock.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-99">Earth Elemental Grid</a> (№ 99); <a href="#term-95">Earth Celestial Pole</a> (№ 95); <a href="#term-102">Inner and Parallel Earth Relationships</a> (№ 102). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-95"></a></p>
+<h3 id="95-earth-celestial-pole">95. Earth Celestial Pole<a class="headerlink" href="#95-earth-celestial-pole" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0095</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Earth Celestial Pole.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-96">False South Celestial Pole</a> (№ 96); <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94); <a href="#term-99">Earth Elemental Grid</a> (№ 99). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-96"></a></p>
+<h3 id="96-false-south-celestial-pole">96. False South Celestial Pole<a class="headerlink" href="#96-false-south-celestial-pole" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0096</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: False South Celestial Pole.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-95">Earth Celestial Pole</a> (№ 95); <a href="#term-98">Solar North–South Axis</a> (№ 98); <a href="#term-97">Ecliptic Plane</a> (№ 97). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-97"></a></p>
+<h3 id="97-ecliptic-plane">97. Ecliptic Plane<a class="headerlink" href="#97-ecliptic-plane" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0097</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Ecliptic Plane.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-93">Planetary Shields</a> (№ 93); <a href="#term-236">Planetary Orbital Alignment</a> (№ 236); <a href="#term-96">False South Celestial Pole</a> (№ 96). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-98"></a></p>
+<h3 id="98-solar-northsouth-axis">98. Solar North–South Axis<a class="headerlink" href="#98-solar-northsouth-axis" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0098</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Solar North–South Axis.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-96">False South Celestial Pole</a> (№ 96); <a href="#term-317">Geometric Axis Intersection</a> (№ 317); <a href="#term-97">Ecliptic Plane</a> (№ 97). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-99"></a></p>
+<h3 id="99-earth-elemental-grid">99. Earth Elemental Grid<a class="headerlink" href="#99-earth-elemental-grid" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0099</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Earth Elemental Grid.</p>
+<p><strong>Терминологический разбор.</strong> Предполагает сетевую или матричную организацию; точные вершины и связи должны определяться по первичной схеме.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94); <a href="#term-102">Inner and Parallel Earth Relationships</a> (№ 102); <a href="#term-95">Earth Celestial Pole</a> (№ 95). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-100"></a></p>
+<h3 id="100-arps-angular-rotation-of-particle-spin">100. ARPS — Angular Rotation of Particle Spin<a class="headerlink" href="#100-arps-angular-rotation-of-particle-spin" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0100</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: ARPS — Angular Rotation of Particle Spin.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-315">Rotational Angular Correspondence</a> (№ 315); <a href="#term-99">Earth Elemental Grid</a> (№ 99); <a href="#term-101">Star Gate Signal Sites</a> (№ 101). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-101"></a></p>
+<h3 id="101-star-gate-signal-sites">101. Star Gate Signal Sites<a class="headerlink" href="#101-star-gate-signal-sites" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0101</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Star Gate Signal Sites.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-92">Star Gate System</a> (№ 92); <a href="#term-100">ARPS — Angular Rotation of Particle Spin</a> (№ 100); <a href="#term-102">Inner and Parallel Earth Relationships</a> (№ 102). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-102"></a></p>
+<h3 id="102-inner-and-parallel-earth-relationships">102. Inner and Parallel Earth Relationships<a class="headerlink" href="#102-inner-and-parallel-earth-relationships" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0102</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Inner and Parallel Earth Relationships.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-99">Earth Elemental Grid</a> (№ 99); <a href="#term-95">Earth Celestial Pole</a> (№ 95); <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-229"></a></p>
+<h3 id="229-universal-radial-body">229. Universal Radial Body<a class="headerlink" href="#229-universal-radial-body" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0229</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Universal Radial Body.</p>
+<p><strong>Терминологический разбор.</strong> Описывает предполагаемый слой тела или идентичности в авторской антропологии; физиологическая реализация не установлена.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-234">Universal Radial Body Expansion</a> (№ 234); <a href="#term-231">Veca Codes and Radial Body Merger</a> (№ 231); <a href="#term-232">Density Radial Body</a> (№ 232). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-230"></a></p>
+<h3 id="230-galactic-eckasha-map">230. Galactic Eckasha Map<a class="headerlink" href="#230-galactic-eckasha-map" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0230</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Galactic Eckasha Map.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-237">Galactic Density Structure</a> (№ 237); <a href="#term-238">Eckasha Universal Radial Map</a> (№ 238); <a href="#term-229">Universal Radial Body</a> (№ 229). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-231"></a></p>
+<h3 id="231-veca-codes-and-radial-body-merger">231. Veca Codes and Radial Body Merger<a class="headerlink" href="#231-veca-codes-and-radial-body-merger" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0231</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Veca Codes and Radial Body Merger.</p>
+<p><strong>Терминологический разбор.</strong> Указывает на дискретные символы или правила кодирования; алфавит и операции должны задаваться явно. Описывает предполагаемый слой тела или идентичности в авторской антропологии; физиологическая реализация не установлена.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-232">Density Radial Body</a> (№ 232); <a href="#term-229">Universal Radial Body</a> (№ 229); <a href="#term-234">Universal Radial Body Expansion</a> (№ 234). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-232"></a></p>
+<h3 id="232-density-radial-body">232. Density Radial Body<a class="headerlink" href="#232-density-radial-body" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0232</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Density Radial Body.</p>
+<p><strong>Терминологический разбор.</strong> Содержит указание на символический уровень плотности или измерения, не на экспериментально обнаруженную пространственную размерность. Описывает предполагаемый слой тела или идентичности в авторской антропологии; физиологическая реализация не установлена.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-231">Veca Codes and Radial Body Merger</a> (№ 231); <a href="#term-234">Universal Radial Body Expansion</a> (№ 234); <a href="#term-229">Universal Radial Body</a> (№ 229). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-233"></a></p>
+<h3 id="233-primal-light-sound-field-merger">233. Primal Light-Sound Field Merger<a class="headerlink" href="#233-primal-light-sound-field-merger" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0233</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Primal Light-Sound Field Merger.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-231">Veca Codes and Radial Body Merger</a> (№ 231); <a href="#term-316">Concentric Field Alignment</a> (№ 316); <a href="#term-232">Density Radial Body</a> (№ 232). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-234"></a></p>
+<h3 id="234-universal-radial-body-expansion">234. Universal Radial Body Expansion<a class="headerlink" href="#234-universal-radial-body-expansion" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0234</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Universal Radial Body Expansion.</p>
+<p><strong>Терминологический разбор.</strong> Описывает предполагаемый слой тела или идентичности в авторской антропологии; физиологическая реализация не установлена.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-229">Universal Radial Body</a> (№ 229); <a href="#term-232">Density Radial Body</a> (№ 232); <a href="#term-231">Veca Codes and Radial Body Merger</a> (№ 231). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-235"></a></p>
+<h3 id="235-cosmic-clock-correspondence">235. Cosmic Clock Correspondence<a class="headerlink" href="#235-cosmic-clock-correspondence" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0235</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Cosmic Clock Correspondence.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-318">Cosmic Clock Projection</a> (№ 318); <a href="#term-315">Rotational Angular Correspondence</a> (№ 315); <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-236"></a></p>
+<h3 id="236-planetary-orbital-alignment">236. Planetary Orbital Alignment<a class="headerlink" href="#236-planetary-orbital-alignment" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0236</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Planetary Orbital Alignment.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-316">Concentric Field Alignment</a> (№ 316); <a href="#term-93">Planetary Shields</a> (№ 93); <a href="#term-235">Cosmic Clock Correspondence</a> (№ 235). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-237"></a></p>
+<h3 id="237-galactic-density-structure">237. Galactic Density Structure<a class="headerlink" href="#237-galactic-density-structure" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0237</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Galactic Density Structure.</p>
+<p><strong>Терминологический разбор.</strong> Содержит указание на символический уровень плотности или измерения, не на экспериментально обнаруженную пространственную размерность.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-232">Density Radial Body</a> (№ 232); <a href="#term-230">Galactic Eckasha Map</a> (№ 230); <a href="#term-236">Planetary Orbital Alignment</a> (№ 236). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-238"></a></p>
+<h3 id="238-eckasha-universal-radial-map">238. Eckasha Universal Radial Map<a class="headerlink" href="#238-eckasha-universal-radial-map" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0238</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Eckasha Universal Radial Map.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-234">Universal Radial Body Expansion</a> (№ 234); <a href="#term-229">Universal Radial Body</a> (№ 229); <a href="#term-232">Density Radial Body</a> (№ 232). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-313"></a></p>
+<h3 id="313-michael-mary-lines">313. Michael-Mary Lines<a class="headerlink" href="#313-michael-mary-lines" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0313</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Michael-Mary Lines.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-314">Circular Projection Geometry</a> (№ 314); <a href="#term-315">Rotational Angular Correspondence</a> (№ 315); <a href="#term-316">Concentric Field Alignment</a> (№ 316). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-314"></a></p>
+<h3 id="314-circular-projection-geometry">314. Circular Projection Geometry<a class="headerlink" href="#314-circular-projection-geometry" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0314</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Circular Projection Geometry.</p>
+<p><strong>Терминологический разбор.</strong> Относится к моделям проекции и визуального отображения; не доказано существование описываемого оптического механизма.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-318">Cosmic Clock Projection</a> (№ 318); <a href="#term-313">Michael-Mary Lines</a> (№ 313); <a href="#term-315">Rotational Angular Correspondence</a> (№ 315). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-315"></a></p>
+<h3 id="315-rotational-angular-correspondence">315. Rotational Angular Correspondence<a class="headerlink" href="#315-rotational-angular-correspondence" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0315</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Rotational Angular Correspondence.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-235">Cosmic Clock Correspondence</a> (№ 235); <a href="#term-100">ARPS — Angular Rotation of Particle Spin</a> (№ 100); <a href="#term-314">Circular Projection Geometry</a> (№ 314). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-316"></a></p>
+<h3 id="316-concentric-field-alignment">316. Concentric Field Alignment<a class="headerlink" href="#316-concentric-field-alignment" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0316</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Concentric Field Alignment.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-236">Planetary Orbital Alignment</a> (№ 236); <a href="#term-233">Primal Light-Sound Field Merger</a> (№ 233); <a href="#term-315">Rotational Angular Correspondence</a> (№ 315). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-317"></a></p>
+<h3 id="317-geometric-axis-intersection">317. Geometric Axis Intersection<a class="headerlink" href="#317-geometric-axis-intersection" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0317</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Geometric Axis Intersection.</p>
+<p><strong>Терминологический разбор.</strong> Термин относится к группе «Планетарные модели»; его индивидуальные свойства, параметры и роль в авторской схеме не могут быть достоверно выведены только из названия.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-98">Solar North–South Axis</a> (№ 98); <a href="#term-316">Concentric Field Alignment</a> (№ 316); <a href="#term-318">Cosmic Clock Projection</a> (№ 318). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+<p><a id="term-318"></a></p>
+<h3 id="318-cosmic-clock-projection">318. Cosmic Clock Projection<a class="headerlink" href="#318-cosmic-clock-projection" title="Permanent link">&para;</a></h3>
+<p><strong>Идентификатор:</strong> <code>KEUM-0318</code> · <strong>Категория:</strong> Планетарные модели · <strong>Происхождение:</strong> 1–40 (prior register; exact mapping see previous conversation).</p>
+<p><strong>Определение в рабочем реестре.</strong> Символические планетарные, звёздные и пространственные соответствия. Термин: Cosmic Clock Projection.</p>
+<p><strong>Терминологический разбор.</strong> Относится к моделям проекции и визуального отображения; не доказано существование описываемого оптического механизма.</p>
+<p><strong>Роль в системе.</strong> Понятие следует рассматривать как отдельную сущность онтологии Планетарные модели: оно может выступать названием структуры, процесса, состояния или отношения. Конкретный тип необходимо подтвердить первоисточником; модель не должна автоматически приписывать ему измеряемые физические свойства.</p>
+<p><strong>Математическая формализация (предложение KEUM).</strong> Сферические координаты и циклические угловые метки. Варианты параметров: идентификатор сущности, уровень/слой, множество узлов, связи, геометрическое вложение, состояние и временная зависимость. Формула раздела применима лишь после явного назначения параметров этой сущности.</p>
+<p><strong>Связи внутри реестра.</strong> <a href="#term-235">Cosmic Clock Correspondence</a> (№ 235); <a href="#term-314">Circular Projection Geometry</a> (№ 314); <a href="#term-94">Earth D-2 Elemental Clock</a> (№ 94). Это <strong>лексические/тематические кандидаты</strong>, а не доказанные авторские причинно-следственные связи.</p>
+<p><strong>Верификация.</strong> Найти страницу оригинала, проверить точное написание и определение, зафиксировать подписи и числовые параметры, построить геометрический граф, измерить ошибку относительно изображения. <strong>Статус:</strong> рабочая интерпретация; индивидуальная первичная верификация не завершена.</p>
+<p><strong>Научный статус.</strong> Эзотерическое или символическое понятие; самостоятельное эмпирическое подтверждение не представлено. Математическая моделируемость не подтверждает существование описываемого объекта.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.indexes", "content.code.copy", "search.highlight"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432 \u0431\u0443\u0444\u0435\u0440", "clipboard.copy": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u0443\u0444\u0435\u0440", "search.result.more.one": "\u0415\u0449\u0451 1 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.more.other": "\u0415\u0449\u0451 # \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.none": "\u0421\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e", "search.result.one": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e 1 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435", "search.result.other": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439: #", "search.result.placeholder": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u043f\u0435\u0447\u0430\u0442\u0430\u0442\u044c \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430", "search.result.term.missing": "\u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442", "select.version": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0432\u0435\u0440\u0441\u0438\u044e"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>

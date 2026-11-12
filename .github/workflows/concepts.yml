@@ -5,6 +5,7 @@ on:
     paths:
       - 'concept_engine/**'
       - 'data/catalog.json'
+      - 'data/references.json'
       - 'vector_engine/graph_engine.py'
       - '.github/workflows/concepts.yml'
   pull_request:
@@ -23,6 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Validate scientific and esoteric bibliography
+        run: python3 concept_engine/validate_bibliography.py
       - name: Test all 493 instances
         run: python3 -m unittest discover -s concept_engine -p 'test_*.py' -v
       - name: Generate 493-entry provenance ledger

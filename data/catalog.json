@@ -2882,5 +2882,815 @@
     "description": "Предполагаемые тонкие тела, энергетические центры и токи. Термин: Cross-Polar Line Current Configuration.",
     "source": "49",
     "category": "Энергетическая анатомия"
+  },
+  {
+    "id": 413,
+    "name": "Classical Four Elements",
+    "description": "Четыре классических элемента: Air, Water, Earth, Fire; символическая классификация, не химическая периодическая система.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "symbolic-taxonomy",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 414,
+    "name": "Elemental Pentagram",
+    "description": "Пятиконечная звезда, связывающая четыре элемента и Spirit.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 415,
+    "name": "Macrocosm–Microcosm Correspondence",
+    "description": "Сопоставление макрокосма и микрокосма через вложенные окружность, треугольник и квадрат.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "symbolic-correspondence",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 416,
+    "name": "Circle–Triangle–Square Construction",
+    "description": "Вложенная конструкция окружности, треугольника и квадрата; допускает точное евклидово описание.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 417,
+    "name": "Planetary Metal Correspondences",
+    "description": "Алхимические соответствия Sun–Gold, Moon–Silver, Mercury–Quicksilver, Venus–Copper, Mars–Iron, Jupiter–Tin, Saturn–Lead.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 418,
+    "name": "Spirit–Soul–Body Triad",
+    "description": "Триада Spirit, Soul, Body с обозначениями Wisdom, Will, Love.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "symbolic-taxonomy",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 419,
+    "name": "Atma–Buddhi–Manas",
+    "description": "Иерархия Atma, Buddhi и Manas в сравнительной эзотерической антропологии.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 420,
+    "name": "Antahkarana and Sutratma",
+    "description": "Понятия Antahkarana и Sutratma как символические связующие структуры.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 421,
+    "name": "Thirty-Three Degree Symbol",
+    "description": "Знак 33 degrees в нижней части композиции; значение требует контекстной сверки.",
+    "source": "66261.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "iconography",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 422,
+    "name": "Chariot of Fire Living Light Vehicle",
+    "description": "Авторская диаграмма «Chariot of Fire» с двенадцатью колёсами и наложением на геометрию Земли.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 423,
+    "name": "PCM LotE Transharmonic Density Vortices",
+    "description": "Обозначенные вихри плотности PCM LotE, связанные с Rod и Staff.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 424,
+    "name": "Rod and Staff Currents",
+    "description": "В диаграмме представлены осевые токи Rod и Staff; физический механизм не определён.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 425,
+    "name": "Twelve Wheels of the Chariot of Fire",
+    "description": "Система 12 колёс, составленная из трёх групп по четыре capstones.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "discrete-structure",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 426,
+    "name": "Lotum Capstones",
+    "description": "Четыре Lotum Capstones (PKA/PCM) из легенды диаграммы.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "discrete-structure",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 427,
+    "name": "Ecka Lota Capstones",
+    "description": "Четыре Ecka Lota Capstones.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "discrete-structure",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 428,
+    "name": "Parallel Ecka Lota Capstones",
+    "description": "Четыре Parallel Ecka Lota Capstones.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "discrete-structure",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 429,
+    "name": "Ecliptic and Equator Axes",
+    "description": "Обозначенные на схеме эклиптика и экватор, стандартные астрономические понятия, помещённые в авторскую геометрию.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "astronomical-coordinate",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 430,
+    "name": "Right Ascension and Declination",
+    "description": "Подписи right ascension и declination — стандартные экваториальные координаты небесных тел.",
+    "source": "66264.jpg",
+    "category": "Меркаба и поля",
+    "formal_type": "astronomical-coordinate",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 431,
+    "name": "Primary Amoraea Radiation Chambers",
+    "description": "Первичные камеры Amoraea Radiation Chambers, показанные как пересекающиеся осевые структуры.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 432,
+    "name": "Ecka-Le-eTOR-A Chambers",
+    "description": "Названные камеры Ecka-Le-eTOR-A; требуется сверка авторской терминологии.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 433,
+    "name": "Sha-LA-a Chambers",
+    "description": "Названные камеры Sha-LA-a и диагональные оси.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 434,
+    "name": "Tri-polar 45-Charge",
+    "description": "Авторская триполярная схема 45-Charge; численное значение заряда не имеет установленной физической единицы.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 435,
+    "name": "Bi-polar 45 Charge",
+    "description": "Авторское распределение 33 1/3 positive и 11 2/3 negative из подписи диаграммы.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 436,
+    "name": "Ecka-Lota Vertical Axis",
+    "description": "Вертикальная ось Ecka-Lota в многослойной конструкции.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 437,
+    "name": "PKA LotI Vertical Axis",
+    "description": "Вертикальная ось PKA LotI и две горизонтальные камеры.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 438,
+    "name": "PCM LotE Vertical Axis",
+    "description": "Вертикальная ось PCM LotE.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 439,
+    "name": "Four Diagonal Axes at 45 Degrees",
+    "description": "Четыре диагональные оси с обозначением 45°; могут моделироваться поворотами на π/4.",
+    "source": "66267.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 440,
+    "name": "Manifestation Transduction Sequence",
+    "description": "Авторская последовательность трансдукции проявления, показанная четырьмя стадиями.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 441,
+    "name": "Ecka-Veca Crystal Body Seed Atoms",
+    "description": "Seed Atoms как элементы модели Ecka-Veca Crystal Body.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 442,
+    "name": "Standing-Wave Flame Radiation Units",
+    "description": "Единицы Standing-Wave Flame Radiation в тексте диаграммы; связь с физическими стоячими волнами не установлена.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 443,
+    "name": "Ecka Base Shield Standing-Wave Disc",
+    "description": "Символический диск стоячей волны Ecka Base Shield.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 444,
+    "name": "Ecka-Lota and Le-eTOR-A Chamber Templates",
+    "description": "Шаблоны камер Ecka-Lota и Le-eTOR-A.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 445,
+    "name": "Twenty-Four Reuche Pillars",
+    "description": "24 Reuche Pillars, разделённые на два набора по 12.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "discrete-structure",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 446,
+    "name": "Two Twelve-Point Primary Lotus Arc Sets",
+    "description": "Два набора из 12 первичных дуг Lotus.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "discrete-structure",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 447,
+    "name": "Twenty-Four Petal Ecka-Lota Lotus Arc Set",
+    "description": "Набор из 24 лепестков, образованных двумя двенадцатичленными группами.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 448,
+    "name": "Seed Flame Charge Polarity",
+    "description": "Подписи tri-polar и bi-polar seed flames с условными знаками заряда.",
+    "source": "66270.jpg",
+    "category": "Кристаллическое тело",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 449,
+    "name": "Aquafereion NaVaho EcoushaTA Passage Activation Code",
+    "description": "Заголовок схемы о коде активации прохода Aquafereion NaVaho EcoushaTA.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 450,
+    "name": "Krystal Heart of Aquarion",
+    "description": "Символическая структура Krystal Heart of Aquarion.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 451,
+    "name": "EcoushaTA Ascension Code",
+    "description": "Авторский код EcoushaTA Ascension Code.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 452,
+    "name": "Aurora-3 Platform",
+    "description": "Уровень Aurora-3 Platform и обозначенные Ocean Cities.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 453,
+    "name": "Aurora-4 Platform",
+    "description": "Уровень Aurora-4 Platform.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 454,
+    "name": "Ecousha-3 Platform",
+    "description": "Уровень Ecousha-3 Platform.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 455,
+    "name": "Ecousha-4 Platform",
+    "description": "Уровень Ecousha-4 Platform.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 456,
+    "name": "Urtha Seed Krystal",
+    "description": "Символический Urtha Seed Krystal.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "source-claim",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 457,
+    "name": "Nested Krystal Heart Geometry",
+    "description": "Вложенные каплевидные/сердцевидные контуры вокруг центральной оси.",
+    "source": "66273.jpg",
+    "category": "Космология",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 458,
+    "name": "Eye–Sun Projection Diagram",
+    "description": "Схема глаза, направленных лучей и солнечного диска; физическая трактовка не задана.",
+    "source": "66276.jpg",
+    "category": "Проекции и голография",
+    "formal_type": "visual-metaphor",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 459,
+    "name": "Ray Projection and Perspective",
+    "description": "Пересекающиеся лучи и перспективная геометрия; математически описываются прямыми и проекцией.",
+    "source": "66276.jpg",
+    "category": "Проекции и голография",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 460,
+    "name": "Signal Flow Circuit Analogy",
+    "description": "Сеть стрелок, проводников и узлов как метафора прохождения сигнала.",
+    "source": "66276.jpg",
+    "category": "Проекции и голография",
+    "formal_type": "graph-model",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 461,
+    "name": "Three Parallel Brain Channels",
+    "description": "Три параллельные цепи, соединённые с изображениями мозга.",
+    "source": "66276.jpg",
+    "category": "Проекции и голография",
+    "formal_type": "visual-metaphor",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 462,
+    "name": "Feedback Loop Diagram",
+    "description": "Повторяющиеся стрелки обратной связи; допускают описание ориентированным графом.",
+    "source": "66276.jpg",
+    "category": "Проекции и голография",
+    "formal_type": "graph-model",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 463,
+    "name": "Human–Machine Signal Interface",
+    "description": "Сопоставление схематических тел, электронных блоков и мозга.",
+    "source": "66276.jpg",
+    "category": "Проекции и голография",
+    "formal_type": "visual-metaphor",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 464,
+    "name": "Anatomical Mandala Composition",
+    "description": "Составная художественная схема тела, спиралей и геометрических фигур.",
+    "source": "66279.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "iconography",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 465,
+    "name": "Central Triangle and Eye Symbol",
+    "description": "Центральный треугольник с изображением глаза.",
+    "source": "66279.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "iconography",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 466,
+    "name": "Nested Spiral Motifs",
+    "description": "Несколько спиральных элементов, допускающих параметризацию в полярных координатах.",
+    "source": "66279.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 467,
+    "name": "Radial Floral Symmetry",
+    "description": "Радиальные розетки и цветочные мотивы с циклической симметрией.",
+    "source": "66279.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 468,
+    "name": "Human Body and Geometry Overlay",
+    "description": "Наложение геометрических и анатомических изображений; не анатомический атлас.",
+    "source": "66279.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "visual-metaphor",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 469,
+    "name": "Sacred Geometry Axis Composition",
+    "description": "Центральная вертикальная ось и соединённые с ней символические структуры.",
+    "source": "66279.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 470,
+    "name": "Occult Anatomy Chart",
+    "description": "Составная диаграмма Occult Anatomy с человеческой фигурой, символами и подписями.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 471,
+    "name": "Temple of Solomon–Castle of Camelot Pairing",
+    "description": "Пара названий Temple of Solomon и Castle of Camelot в заголовке.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 472,
+    "name": "AUM Symbolism",
+    "description": "AUM как символический заголовок композиции.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 473,
+    "name": "Tree of Life Body Overlay",
+    "description": "Наложение сети окружностей и связей на человеческую фигуру.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 474,
+    "name": "Kabbalistic Sephirot Body Mapping",
+    "description": "Сопоставление каббалистических сфер с участками тела в авторской схеме.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 475,
+    "name": "Occult Anatomical Correspondences",
+    "description": "Множественные эзотерические соответствия органов и символов.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 476,
+    "name": "Body–Cosmos Correspondence",
+    "description": "Символическая аналогия тела и космоса.",
+    "source": "66282.jpg",
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-symbolism",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 477,
+    "name": "Map of the Human Soul (Zoran Minov)",
+    "description": "Диаграмма Map of the Human Soul, подписанная Zoran Minov (2012); авторская концептуальная карта.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 478,
+    "name": "Ladder of Imagination",
+    "description": "Лестница imagination: idea, memorization, identification, happiness.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 479,
+    "name": "Ladder of Emotions",
+    "description": "Лестница emotions: depression, negative emotionality, positive emotionality, happiness.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 480,
+    "name": "Ladder of Motivation",
+    "description": "Лестница motivation: low, high и ethical motivation.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 481,
+    "name": "Personal Identity Ladder",
+    "description": "Лестница selflessness, comparison, self-perception, self-continuity, self-knowledge, self-assessment, self-ideal.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 482,
+    "name": "Social Identity Ladder",
+    "description": "Лестница социальных идентичностей, ролей и принадлежности.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 483,
+    "name": "Pan Identity Ladder",
+    "description": "Авторская лестница pan identity, включая идеи infinite awareness и oneness.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 484,
+    "name": "Streams of Ideas and Events",
+    "description": "Диаграмма потоков идей и событий с отношениями self-assessment и self-knowledge.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "graph-model",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 485,
+    "name": "Needs for Pleasure, Safety and Meaning",
+    "description": "Три группы потребностей: pleasure, safety и meaning.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 486,
+    "name": "Self-Knowledge and Self-Assessment",
+    "description": "Процессы самопознания и самооценки в схеме автора.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 487,
+    "name": "Five Psychological Domains",
+    "description": "Нижняя ось Intellect, Imagination, Emotions, Motivation, Feelings.",
+    "source": "66285.jpg",
+    "category": "Психологические модели",
+    "formal_type": "authored-psychology",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 488,
+    "name": "Exploded Multilayer Toroidal Assembly",
+    "description": "Многоуровневая изометрическая композиция колец и тороидальных элементов.",
+    "source": "66288.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 489,
+    "name": "Coaxial Ring Stack",
+    "description": "Соосные кольцевые структуры с разными радиусами и высотами.",
+    "source": "66288.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 490,
+    "name": "Radial Spoke Networks",
+    "description": "Радиальные спицы и соединения между концентрическими кольцами.",
+    "source": "66288.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "graph-model",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 491,
+    "name": "Vertical Axis and Layer Coupling",
+    "description": "Центральная вертикальная ось и связи между ярусами.",
+    "source": "66288.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 492,
+    "name": "Bilateral Hands and Geometric Field",
+    "description": "Две ладони под геометрической конструкцией; художественная композиция.",
+    "source": "66288.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "iconography",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
+  },
+  {
+    "id": 493,
+    "name": "Rotational Layer Symmetry",
+    "description": "Приближённая вращательная симметрия многослойных окружностей.",
+    "source": "66288.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "geometry",
+    "source_status": "visual transcription or explicitly identified diagram feature; independent validation pending",
+    "empirical_status": "not established by this diagram"
   }
 ]

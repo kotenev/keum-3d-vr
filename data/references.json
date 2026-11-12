@@ -1,6 +1,6 @@
 {
   "schema": "keum.references.v1",
-  "count": 32,
+  "count": 49,
   "reference_policy": {
     "primary": "Primary source can document what an author claimed, not whether it is empirically true",
     "scientific": "Scientific source supports established method or comparative benchmark, not KEUM metaphysics",
@@ -359,6 +359,193 @@
       "verification": "institution-homepage",
       "domain": "astronomy",
       "scope": "bibliographic/methodological reference; does not automatically support a specific KEUM claim"
+    },
+    {
+      "id": "MATH-EUCLID",
+      "author": "Euclid",
+      "title": "Elements",
+      "year": "classical",
+      "source_type": "mathematics-classic",
+      "url": "https://mathcs.clarku.edu/~djoyce/elements/elements.html",
+      "verification": "text-collection",
+      "domain": "euclidean-geometry",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "MATH-COXETER",
+      "author": "H. S. M. Coxeter",
+      "title": "Regular Polytopes",
+      "year": "1973",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Coxeter+Regular+Polytopes",
+      "verification": "bibliographic-search",
+      "domain": "polytopes",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "MATH-MANDELBROT",
+      "author": "Benoit B. Mandelbrot",
+      "title": "The Fractal Geometry of Nature",
+      "year": "1982",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Mandelbrot+Fractal+Geometry+of+Nature",
+      "verification": "bibliographic-search",
+      "domain": "fractals",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "MATH-ARNOLD",
+      "author": "V. I. Arnold",
+      "title": "Mathematical Methods of Classical Mechanics",
+      "year": "1978",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Arnold+Mathematical+Methods+of+Classical+Mechanics",
+      "verification": "bibliographic-search",
+      "domain": "dynamical-systems",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ASTRO-PTOLEMY",
+      "author": "Claudius Ptolemy",
+      "title": "Almagest",
+      "year": "2nd century",
+      "source_type": "historical-astronomy",
+      "url": "https://search.worldcat.org/search?q=Ptolemy+Almagest",
+      "verification": "bibliographic-search",
+      "domain": "astronomy-history",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ASTRO-KEPLER",
+      "author": "Johannes Kepler",
+      "title": "Harmonices Mundi",
+      "year": "1619",
+      "source_type": "historical-astronomy",
+      "url": "https://search.worldcat.org/search?q=Kepler+Harmonices+Mundi",
+      "verification": "bibliographic-search",
+      "domain": "astronomy-history",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "PHYS-NEWTON",
+      "author": "Isaac Newton",
+      "title": "Philosophiæ Naturalis Principia Mathematica",
+      "year": "1687",
+      "source_type": "physics-classic",
+      "url": "https://search.worldcat.org/search?q=Newton+Principia+Mathematica",
+      "verification": "bibliographic-search",
+      "domain": "classical-physics",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "PHYS-MAXWELL",
+      "author": "James Clerk Maxwell",
+      "title": "A Treatise on Electricity and Magnetism",
+      "year": "1873",
+      "source_type": "physics-classic",
+      "url": "https://search.worldcat.org/search?q=Maxwell+Treatise+Electricity+Magnetism",
+      "verification": "bibliographic-search",
+      "domain": "electromagnetism",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "PHYS-EINSTEIN",
+      "author": "Albert Einstein",
+      "title": "Relativity: The Special and General Theory",
+      "year": "1916",
+      "source_type": "physics-classic",
+      "url": "https://search.worldcat.org/search?q=Einstein+Relativity+Special+General+Theory",
+      "verification": "bibliographic-search",
+      "domain": "relativity",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "HIST-ELIADE",
+      "author": "Mircea Eliade",
+      "title": "The Sacred and the Profane",
+      "year": "1957",
+      "source_type": "religious-studies",
+      "url": "https://search.worldcat.org/search?q=Mircea+Eliade+The+Sacred+and+the+Profane",
+      "verification": "bibliographic-search",
+      "domain": "religious-studies",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ESOT-FORTUNE",
+      "author": "Dion Fortune",
+      "title": "The Mystical Qabalah",
+      "year": "1935",
+      "source_type": "esoteric-primary",
+      "url": "https://search.worldcat.org/search?q=Dion+Fortune+The+Mystical+Qabalah",
+      "verification": "bibliographic-search",
+      "domain": "western-esotericism",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ESOT-REGARDIE",
+      "author": "Israel Regardie",
+      "title": "The Golden Dawn",
+      "year": "1937–1940",
+      "source_type": "esoteric-primary",
+      "url": "https://search.worldcat.org/search?q=Israel+Regardie+The+Golden+Dawn",
+      "verification": "bibliographic-search",
+      "domain": "ceremonial-magic",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ESOT-STEINER",
+      "author": "Rudolf Steiner",
+      "title": "Occult Science: An Outline",
+      "year": "1910",
+      "source_type": "esoteric-primary",
+      "url": "https://search.worldcat.org/search?q=Rudolf+Steiner+Occult+Science+Outline",
+      "verification": "bibliographic-search",
+      "domain": "anthroposophy",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ESOT-LEADBEATER",
+      "author": "C. W. Leadbeater",
+      "title": "The Chakras",
+      "year": "1927",
+      "source_type": "esoteric-primary",
+      "url": "https://search.worldcat.org/search?q=Leadbeater+The+Chakras",
+      "verification": "bibliographic-search",
+      "domain": "theosophy",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "ESOT-CAMPBELL",
+      "author": "Joseph Campbell",
+      "title": "The Hero with a Thousand Faces",
+      "year": "1949",
+      "source_type": "comparative-mythology",
+      "url": "https://search.worldcat.org/search?q=Joseph+Campbell+Hero+with+a+Thousand+Faces",
+      "verification": "bibliographic-search",
+      "domain": "mythology",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "PSY-JUNG-ARCH",
+      "author": "C. G. Jung",
+      "title": "The Archetypes and the Collective Unconscious",
+      "year": "1959",
+      "source_type": "psychology-classic",
+      "url": "https://search.worldcat.org/search?q=Jung+Archetypes+Collective+Unconscious",
+      "verification": "bibliographic-search",
+      "domain": "analytical-psychology",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "PSY-ROGERS",
+      "author": "Carl R. Rogers",
+      "title": "On Becoming a Person",
+      "year": "1961",
+      "source_type": "psychology-classic",
+      "url": "https://search.worldcat.org/search?q=Carl+Rogers+On+Becoming+a+Person",
+      "verification": "bibliographic-search",
+      "domain": "humanistic-psychology",
+      "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
     }
   ]
 }

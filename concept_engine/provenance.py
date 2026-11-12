@@ -31,7 +31,7 @@ def ledger(items):
 
 def main():
     p=argparse.ArgumentParser()
-    p.add_argument("--output",default="build/provenance_412.json")
+    p.add_argument("--output",default="build/provenance_493.json")
     a=p.parse_args()
     out=Path(a.output);out.parent.mkdir(parents=True,exist_ok=True)
     out.write_text(json.dumps(ledger(catalog()),ensure_ascii=False,indent=2),encoding="utf-8")

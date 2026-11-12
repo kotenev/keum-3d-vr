@@ -49,7 +49,7 @@ def compile_ontology(catalog):
 def main():
     p=argparse.ArgumentParser()
     p.add_argument("--catalog",default=str(BASE/"data/catalog.json"))
-    p.add_argument("--output",default="astronomy/ontology_412.json")
+    p.add_argument("--output",default="astronomy/ontology_493.json")
     a=p.parse_args()
     data=json.loads(Path(a.catalog).read_text(encoding="utf-8"))
     result=compile_ontology(data)

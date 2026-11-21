@@ -1,6 +1,6 @@
 # 569 концепций: научные и эзотерические источники
 
-**569 концепций, 16 категорий, 52 библиографических источника.** Тематические ссылки не равнозначны проверенным цитатам; для новых 76 карточек непосредственно указан первоисточник Бэббитта и видимая печатная страница.
+**569 концепций, 16 категорий, 52 библиографических источника.** Тематические ссылки не равнозначны проверенным цитатам. Для 31 изображения Бэббитта указан авторский первоисточник; для двух алхимических композиций атрибуция не установлена.
 
 ## Космология
 
@@ -627,13 +627,13 @@
 | 419 | Atma–Buddhi–Manas | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
 | 420 | Antahkarana and Sutratma | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
 | 421 | Thirty-Three Degree Symbol | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
-| 494 | Alchemical Key: four elemental axes | [BABB-PLC](bibliography-expanded.md#babb-plc) |
-| 495 | Zodiacal triplicities and four elements | [BABB-PLC](bibliography-expanded.md#babb-plc) |
-| 496 | Carbon–Earth and Oxygen–Water symbolic correspondences | [BABB-PLC](bibliography-expanded.md#babb-plc) |
-| 497 | Nitrogen–Air and Hydrogen–Fire symbolic correspondences | [BABB-PLC](bibliography-expanded.md#babb-plc) |
-| 498 | Alchemical Tree of Life composite iconography | [BABB-PLC](bibliography-expanded.md#babb-plc) |
-| 499 | Interlocking triangular seals | [BABB-PLC](bibliography-expanded.md#babb-plc) |
-| 500 | Rosicrucian seal ring and inscription | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 494 | Alchemical Key: four elemental axes | [IMG-ALCHEMICAL-KEY](bibliography-expanded.md#img-alchemical-key) |
+| 495 | Zodiacal triplicities and four elements | [IMG-ALCHEMICAL-KEY](bibliography-expanded.md#img-alchemical-key) |
+| 496 | Carbon–Earth and Oxygen–Water symbolic correspondences | [IMG-ALCHEMICAL-KEY](bibliography-expanded.md#img-alchemical-key) |
+| 497 | Nitrogen–Air and Hydrogen–Fire symbolic correspondences | [IMG-ALCHEMICAL-KEY](bibliography-expanded.md#img-alchemical-key) |
+| 498 | Alchemical Tree of Life composite iconography | [IMG-ALCHEMICAL-COLLAGE](bibliography-expanded.md#img-alchemical-collage) |
+| 499 | Interlocking triangular seals | [IMG-ALCHEMICAL-COLLAGE](bibliography-expanded.md#img-alchemical-collage) |
+| 500 | Rosicrucian seal ring and inscription | [IMG-ALCHEMICAL-COLLAGE](bibliography-expanded.md#img-alchemical-collage) |
 
 ## Психологические модели
 
@@ -651,6 +651,6 @@
 | 486 | Self-Knowledge and Self-Assessment | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 | 487 | Five Psychological Domains | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 
-## Источниковедческий статус
+## Статус проверки
 
-Индивидуальные библиографические ссылки требуют проверки точных страниц, изданий и характера связи. Для Бэббитта доступны 33 скана; ссылка на его труд подтверждает историческую принадлежность изображения, но не физическую достоверность концепции.
+Точные цитаты, издания и страницы требуют дальнейшей источниковедческой работы. Параметрические математические модели не доказывают авторские эзотерические гипотезы.

@@ -11146,7 +11146,7 @@
   {
     "id": 494,
     "name": "Alchemical Key: four elemental axes",
-    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Alchemical Key: four elemental axes. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Alchemical Key: four elemental axes. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
     "source": "1000001684.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11155,11 +11155,11 @@
     "empirical_status": "historical or esoteric claim; not verified",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-KEY"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
     }
@@ -11167,7 +11167,7 @@
   {
     "id": 495,
     "name": "Zodiacal triplicities and four elements",
-    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Zodiacal triplicities and four elements. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Zodiacal triplicities and four elements. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
     "source": "1000001684.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11176,11 +11176,11 @@
     "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-KEY"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
     }
@@ -11188,7 +11188,7 @@
   {
     "id": 496,
     "name": "Carbon–Earth and Oxygen–Water symbolic correspondences",
-    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Carbon–Earth and Oxygen–Water symbolic correspondences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Carbon–Earth and Oxygen–Water symbolic correspondences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
     "source": "1000001684.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11197,11 +11197,11 @@
     "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-KEY"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
     }
@@ -11209,7 +11209,7 @@
   {
     "id": 497,
     "name": "Nitrogen–Air and Hydrogen–Fire symbolic correspondences",
-    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Nitrogen–Air and Hydrogen–Fire symbolic correspondences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Nitrogen–Air and Hydrogen–Fire symbolic correspondences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
     "source": "1000001684.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11218,11 +11218,11 @@
     "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-KEY"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
     }
@@ -11230,7 +11230,7 @@
   {
     "id": 498,
     "name": "Alchemical Tree of Life composite iconography",
-    "description": "Источниковедческая карточка по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Alchemical Tree of Life composite iconography. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Alchemical Tree of Life composite iconography. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
     "source": "1000001685.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11239,11 +11239,11 @@
     "empirical_status": "historical or esoteric claim; not verified",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-COLLAGE"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001685.jpg"
     }
@@ -11251,7 +11251,7 @@
   {
     "id": 499,
     "name": "Interlocking triangular seals",
-    "description": "Источниковедческая карточка по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Interlocking triangular seals. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Interlocking triangular seals. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
     "source": "1000001685.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11260,11 +11260,11 @@
     "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-COLLAGE"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001685.jpg"
     }
@@ -11272,7 +11272,7 @@
   {
     "id": 500,
     "name": "Rosicrucian seal ring and inscription",
-    "description": "Источниковедческая карточка по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Rosicrucian seal ring and inscription. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "description": "Карточка изображения неизвестной атрибуции по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Rosicrucian seal ring and inscription. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
     "source": "1000001685.jpg",
     "source_page": null,
     "category": "Алхимия и символические соответствия",
@@ -11281,11 +11281,11 @@
     "empirical_status": "historical or esoteric claim; not verified",
     "bibliography": {
       "reference_ids": [
-        "BABB-PLC"
+        "IMG-ALCHEMICAL-COLLAGE"
       ],
       "relation": "direct visual source image; bibliography needs edition/page collation",
       "source_page": null,
-      "primary_source_verified": true,
+      "primary_source_verified": false,
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001685.jpg"
     }

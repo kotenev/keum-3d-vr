@@ -12,8 +12,8 @@ class UniversalRuntimeTests(unittest.TestCase):
         cls.items=catalog()
 
     def test_412_unique(self):
-        self.assertEqual(len(self.items),493)
-        self.assertEqual(len(set(x["id"] for x in self.items)),493)
+        self.assertEqual(len(self.items),569)
+        self.assertEqual(len(set(x["id"] for x in self.items)),569)
 
     def test_all_14_families_have_instances(self):
         self.assertEqual(len(set(x["category"] for x in self.items)),16)

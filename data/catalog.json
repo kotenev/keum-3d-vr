@@ -11142,5 +11142,1601 @@
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/additional_10/66288.jpg"
     }
+  },
+  {
+    "id": 494,
+    "name": "Alchemical Key: four elemental axes",
+    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Alchemical Key: four elemental axes. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001684.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
+    }
+  },
+  {
+    "id": 495,
+    "name": "Zodiacal triplicities and four elements",
+    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Zodiacal triplicities and four elements. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001684.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
+    }
+  },
+  {
+    "id": 496,
+    "name": "Carbon–Earth and Oxygen–Water symbolic correspondences",
+    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Carbon–Earth and Oxygen–Water symbolic correspondences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001684.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
+    }
+  },
+  {
+    "id": 497,
+    "name": "Nitrogen–Air and Hydrogen–Fire symbolic correspondences",
+    "description": "Источниковедческая карточка по иллюстрации 1000001684.jpg (цветная таблица или композиция без указанной страницы). Nitrogen–Air and Hydrogen–Fire symbolic correspondences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001684.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001684.jpg"
+    }
+  },
+  {
+    "id": 498,
+    "name": "Alchemical Tree of Life composite iconography",
+    "description": "Источниковедческая карточка по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Alchemical Tree of Life composite iconography. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001685.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001685.jpg"
+    }
+  },
+  {
+    "id": 499,
+    "name": "Interlocking triangular seals",
+    "description": "Источниковедческая карточка по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Interlocking triangular seals. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001685.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001685.jpg"
+    }
+  },
+  {
+    "id": 500,
+    "name": "Rosicrucian seal ring and inscription",
+    "description": "Источниковедческая карточка по иллюстрации 1000001685.jpg (цветная таблица или композиция без указанной страницы). Rosicrucian seal ring and inscription. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001685.jpg",
+    "source_page": null,
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001685.jpg"
+    }
+  },
+  {
+    "id": 501,
+    "name": "Babbitt: nested centers of unity in trees",
+    "description": "Источниковедческая карточка по иллюстрации 1000001686.jpg, печатная страница 6. Babbitt: nested centers of unity in trees. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001686.jpg",
+    "source_page": 6,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 6,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001686.jpg"
+    }
+  },
+  {
+    "id": 502,
+    "name": "Babbitt: nervous and vascular centers of unity",
+    "description": "Источниковедческая карточка по иллюстрации 1000001686.jpg, печатная страница 6. Babbitt: nervous and vascular centers of unity. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001686.jpg",
+    "source_page": 6,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 6,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001686.jpg"
+    }
+  },
+  {
+    "id": 503,
+    "name": "Crystalline forms illuminated by sunlight",
+    "description": "Источниковедческая карточка по иллюстрации 1000001686.jpg, печатная страница 6. Crystalline forms illuminated by sunlight. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001686.jpg",
+    "source_page": 6,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 6,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001686.jpg"
+    }
+  },
+  {
+    "id": 504,
+    "name": "Babbitt: etherio-atomic vortex model",
+    "description": "Источниковедческая карточка по иллюстрации 1000001687.jpg, печатная страница 102. Babbitt: etherio-atomic vortex model. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001687.jpg",
+    "source_page": 102,
+    "category": "Спирали и вихри",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 102,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001687.jpg"
+    }
+  },
+  {
+    "id": 505,
+    "name": "Babbitt: thermal and electrical spiral taxonomy",
+    "description": "Источниковедческая карточка по иллюстрации 1000001687.jpg, печатная страница 102. Babbitt: thermal and electrical spiral taxonomy. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001687.jpg",
+    "source_page": 102,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 102,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001687.jpg"
+    }
+  },
+  {
+    "id": 506,
+    "name": "Babbitt: positive and negative atomic poles",
+    "description": "Источниковедческая карточка по иллюстрации 1000001687.jpg, печатная страница 102. Babbitt: positive and negative atomic poles. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001687.jpg",
+    "source_page": 102,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 102,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001687.jpg"
+    }
+  },
+  {
+    "id": 507,
+    "name": "Babbitt Plate II: chromatic gradation wheel",
+    "description": "Источниковедческая карточка по иллюстрации 1000001688.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate II: chromatic gradation wheel. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001688.jpg",
+    "source_page": null,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001688.jpg"
+    }
+  },
+  {
+    "id": 508,
+    "name": "Babbitt Plate II: chromatic contrast petals",
+    "description": "Источниковедческая карточка по иллюстрации 1000001688.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate II: chromatic contrast petals. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001688.jpg",
+    "source_page": null,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001688.jpg"
+    }
+  },
+  {
+    "id": 509,
+    "name": "Babbitt Plate II: chromatic grays",
+    "description": "Источниковедческая карточка по иллюстрации 1000001688.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate II: chromatic grays. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001688.jpg",
+    "source_page": null,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001688.jpg"
+    }
+  },
+  {
+    "id": 510,
+    "name": "Babbitt: iris and ciliary processes anatomy",
+    "description": "Источниковедческая карточка по иллюстрации 1000001689.jpg, печатная страница 536. Babbitt: iris and ciliary processes anatomy. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001689.jpg",
+    "source_page": 536,
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 536,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001689.jpg"
+    }
+  },
+  {
+    "id": 511,
+    "name": "Babbitt: choroid and retinal anatomy",
+    "description": "Источниковедческая карточка по иллюстрации 1000001689.jpg, печатная страница 536. Babbitt: choroid and retinal anatomy. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001689.jpg",
+    "source_page": 536,
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 536,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001689.jpg"
+    }
+  },
+  {
+    "id": 512,
+    "name": "Babbitt: historical vital ether of vision",
+    "description": "Источниковедческая карточка по иллюстрации 1000001689.jpg, печатная страница 536. Babbitt: historical vital ether of vision. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001689.jpg",
+    "source_page": 536,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 536,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001689.jpg"
+    }
+  },
+  {
+    "id": 513,
+    "name": "Babbitt Plate III: odic lights and colors",
+    "description": "Источниковедческая карточка по иллюстрации 1000001691.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate III: odic lights and colors. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001691.jpg",
+    "source_page": null,
+    "category": "Матрицы излучения",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001691.jpg"
+    }
+  },
+  {
+    "id": 514,
+    "name": "Babbitt Plate III: historical magnetic color emissions",
+    "description": "Источниковедческая карточка по иллюстрации 1000001691.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate III: historical magnetic color emissions. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001691.jpg",
+    "source_page": null,
+    "category": "Матрицы излучения",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001691.jpg"
+    }
+  },
+  {
+    "id": 515,
+    "name": "Babbitt: law of unity in light and color",
+    "description": "Источниковедческая карточка по иллюстрации 1000001692.jpg, печатная страница 8. Babbitt: law of unity in light and color. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001692.jpg",
+    "source_page": 8,
+    "category": "Космология",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 8,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001692.jpg"
+    }
+  },
+  {
+    "id": 516,
+    "name": "Babbitt: solar family concentric diagram",
+    "description": "Источниковедческая карточка по иллюстрации 1000001692.jpg, печатная страница 8. Babbitt: solar family concentric diagram. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001692.jpg",
+    "source_page": 8,
+    "category": "Космология",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 8,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001692.jpg"
+    }
+  },
+  {
+    "id": 517,
+    "name": "Babbitt: historical gravitational unity",
+    "description": "Источниковедческая карточка по иллюстрации 1000001692.jpg, печатная страница 8. Babbitt: historical gravitational unity. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001692.jpg",
+    "source_page": 8,
+    "category": "Космология",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 8,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001692.jpg"
+    }
+  },
+  {
+    "id": 518,
+    "name": "Babbitt title: Principles of Light and Color",
+    "description": "Источниковедческая карточка по иллюстрации 1000001693.jpg (цветная таблица или композиция без указанной страницы). Babbitt title: Principles of Light and Color. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001693.jpg",
+    "source_page": null,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001693.jpg"
+    }
+  },
+  {
+    "id": 519,
+    "name": "Babbitt: chromochemistry and chromotherapy program",
+    "description": "Источниковедческая карточка по иллюстрации 1000001693.jpg (цветная таблица или композиция без указанной страницы). Babbitt: chromochemistry and chromotherapy program. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001693.jpg",
+    "source_page": null,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001693.jpg"
+    }
+  },
+  {
+    "id": 520,
+    "name": "Babbitt: propagation and reflection of liquid waves",
+    "description": "Источниковедческая карточка по иллюстрации 1000001694.jpg, печатная страница 410. Babbitt: propagation and reflection of liquid waves. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001694.jpg",
+    "source_page": 410,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 410,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001694.jpg"
+    }
+  },
+  {
+    "id": 521,
+    "name": "Babbitt: spiral color-channel hypothesis",
+    "description": "Источниковедческая карточка по иллюстрации 1000001694.jpg, печатная страница 410. Babbitt: spiral color-channel hypothesis. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001694.jpg",
+    "source_page": 410,
+    "category": "Спирали и вихри",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 410,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001694.jpg"
+    }
+  },
+  {
+    "id": 522,
+    "name": "Babbitt Plate I: solar spectrum and Fraunhofer lines",
+    "description": "Источниковедческая карточка по иллюстрации 1000001695.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate I: solar spectrum and Fraunhofer lines. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001695.jpg",
+    "source_page": null,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001695.jpg"
+    }
+  },
+  {
+    "id": 523,
+    "name": "Babbitt Plate I: chromatic and achromatic colors",
+    "description": "Источниковедческая карточка по иллюстрации 1000001695.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate I: chromatic and achromatic colors. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001695.jpg",
+    "source_page": null,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001695.jpg"
+    }
+  },
+  {
+    "id": 524,
+    "name": "Babbitt Plate I: historical color therapeutics",
+    "description": "Источниковедческая карточка по иллюстрации 1000001695.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate I: historical color therapeutics. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001695.jpg",
+    "source_page": null,
+    "category": "Матрицы излучения",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001695.jpg"
+    }
+  },
+  {
+    "id": 525,
+    "name": "Babbitt: Reichenbach odic color compass",
+    "description": "Источниковедческая карточка по иллюстрации 1000001696.jpg, печатная страница 479. Babbitt: Reichenbach odic color compass. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001696.jpg",
+    "source_page": 479,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 479,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001696.jpg"
+    }
+  },
+  {
+    "id": 526,
+    "name": "Babbitt: color correspondence with head directions",
+    "description": "Источниковедческая карточка по иллюстрации 1000001696.jpg, печатная страница 479. Babbitt: color correspondence with head directions. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001696.jpg",
+    "source_page": 479,
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 479,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001696.jpg"
+    }
+  },
+  {
+    "id": 527,
+    "name": "Babbitt: magnetic plate experiment compared with brain",
+    "description": "Источниковедческая карточка по иллюстрации 1000001697.jpg, печатная страница 497. Babbitt: magnetic plate experiment compared with brain. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001697.jpg",
+    "source_page": 497,
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 497,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001697.jpg"
+    }
+  },
+  {
+    "id": 528,
+    "name": "Babbitt: historical brain pole analogy",
+    "description": "Источниковедческая карточка по иллюстрации 1000001697.jpg, печатная страница 497. Babbitt: historical brain pole analogy. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001697.jpg",
+    "source_page": 497,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 497,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001697.jpg"
+    }
+  },
+  {
+    "id": 529,
+    "name": "Babbitt: chromo-mentalism and muscle-reading claims",
+    "description": "Источниковедческая карточка по иллюстрации 1000001698.jpg, печатная страница 504. Babbitt: chromo-mentalism and muscle-reading claims. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001698.jpg",
+    "source_page": 504,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 504,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001698.jpg"
+    }
+  },
+  {
+    "id": 530,
+    "name": "Babbitt: sagittal section of the brain",
+    "description": "Источниковедческая карточка по иллюстрации 1000001698.jpg, печатная страница 504. Babbitt: sagittal section of the brain. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001698.jpg",
+    "source_page": 504,
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 504,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001698.jpg"
+    }
+  },
+  {
+    "id": 531,
+    "name": "Babbitt: repeated Solar Family diagram variant",
+    "description": "Источниковедческая карточка по иллюстрации 1000001699.jpg, печатная страница 8. Babbitt: repeated Solar Family diagram variant. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001699.jpg",
+    "source_page": 8,
+    "category": "Космология",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 8,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001699.jpg"
+    }
+  },
+  {
+    "id": 532,
+    "name": "Babbitt: general machinery of the eye",
+    "description": "Источниковедческая карточка по иллюстрации 1000001700.jpg, печатная страница 534. Babbitt: general machinery of the eye. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001700.jpg",
+    "source_page": 534,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 534,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001700.jpg"
+    }
+  },
+  {
+    "id": 533,
+    "name": "Babbitt: cornea iris and pupil optical pathway",
+    "description": "Источниковедческая карточка по иллюстрации 1000001700.jpg, печатная страница 534. Babbitt: cornea iris and pupil optical pathway. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001700.jpg",
+    "source_page": 534,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 534,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001700.jpg"
+    }
+  },
+  {
+    "id": 534,
+    "name": "Babbitt: centers of unity in leaves and shells",
+    "description": "Источниковедческая карточка по иллюстрации 1000001701.jpg, печатная страница 4. Babbitt: centers of unity in leaves and shells. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001701.jpg",
+    "source_page": 4,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 4,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001701.jpg"
+    }
+  },
+  {
+    "id": 535,
+    "name": "Babbitt: ellipses and ovals in leaf contours",
+    "description": "Источниковедческая карточка по иллюстрации 1000001701.jpg, печатная страница 4. Babbitt: ellipses and ovals in leaf contours. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001701.jpg",
+    "source_page": 4,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 4,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001701.jpg"
+    }
+  },
+  {
+    "id": 536,
+    "name": "Babbitt: radial forms in echinus and starfish",
+    "description": "Источниковедческая карточка по иллюстрации 1000001701.jpg, печатная страница 4. Babbitt: radial forms in echinus and starfish. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001701.jpg",
+    "source_page": 4,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 4,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001701.jpg"
+    }
+  },
+  {
+    "id": 537,
+    "name": "Babbitt: retinal image inversion",
+    "description": "Источниковедческая карточка по иллюстрации 1000001702.jpg, печатная страница 543. Babbitt: retinal image inversion. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001702.jpg",
+    "source_page": 543,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 543,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001702.jpg"
+    }
+  },
+  {
+    "id": 538,
+    "name": "Babbitt: historical inner-light perception hypothesis",
+    "description": "Источниковедческая карточка по иллюстрации 1000001702.jpg, печатная страница 543. Babbitt: historical inner-light perception hypothesis. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001702.jpg",
+    "source_page": 543,
+    "category": "Проекции и голография",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 543,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001702.jpg"
+    }
+  },
+  {
+    "id": 539,
+    "name": "Babbitt: five leading brain poles hypothesis",
+    "description": "Источниковедческая карточка по иллюстрации 1000001703.jpg, печатная страница 495. Babbitt: five leading brain poles hypothesis. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001703.jpg",
+    "source_page": 495,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 495,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001703.jpg"
+    }
+  },
+  {
+    "id": 540,
+    "name": "Babbitt: brain interior radiations figure 192",
+    "description": "Источниковедческая карточка по иллюстрации 1000001703.jpg, печатная страница 495. Babbitt: brain interior radiations figure 192. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001703.jpg",
+    "source_page": 495,
+    "category": "Энергетическая анатомия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 495,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001703.jpg"
+    }
+  },
+  {
+    "id": 541,
+    "name": "Babbitt: polarizer and analyzer figure 179",
+    "description": "Источниковедческая карточка по иллюстрации 1000001704.jpg, печатная страница 407. Babbitt: polarizer and analyzer figure 179. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001704.jpg",
+    "source_page": 407,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 407,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001704.jpg"
+    }
+  },
+  {
+    "id": 542,
+    "name": "Babbitt: ordinary and extraordinary rays",
+    "description": "Источниковедческая карточка по иллюстрации 1000001704.jpg, печатная страница 407. Babbitt: ordinary and extraordinary rays. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001704.jpg",
+    "source_page": 407,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 407,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001704.jpg"
+    }
+  },
+  {
+    "id": 543,
+    "name": "Babbitt: solar spectrum figure 167",
+    "description": "Источниковедческая карточка по иллюстрации 1000001705.jpg, печатная страница 220. Babbitt: solar spectrum figure 167. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001705.jpg",
+    "source_page": 220,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 220,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001705.jpg"
+    }
+  },
+  {
+    "id": 544,
+    "name": "Babbitt: spectral chemistry and Fraunhofer lines",
+    "description": "Источниковедческая карточка по иллюстрации 1000001705.jpg, печатная страница 220. Babbitt: spectral chemistry and Fraunhofer lines. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001705.jpg",
+    "source_page": 220,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 220,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001705.jpg"
+    }
+  },
+  {
+    "id": 545,
+    "name": "Babbitt: double refraction in Iceland spar",
+    "description": "Источниковедческая карточка по иллюстрации 1000001706.jpg, печатная страница 406. Babbitt: double refraction in Iceland spar. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001706.jpg",
+    "source_page": 406,
+    "category": "Проекции и голография",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 406,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001706.jpg"
+    }
+  },
+  {
+    "id": 546,
+    "name": "Babbitt: ether-atomic explanation of birefringence",
+    "description": "Источниковедческая карточка по иллюстрации 1000001706.jpg, печатная страница 406. Babbitt: ether-atomic explanation of birefringence. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001706.jpg",
+    "source_page": 406,
+    "category": "Проекции и голография",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 406,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001706.jpg"
+    }
+  },
+  {
+    "id": 547,
+    "name": "Babbitt Plate IV: psychic lights and colors",
+    "description": "Источниковедческая карточка по иллюстрации 1000001707.jpg (цветная таблица или композиция без указанной страницы). Babbitt Plate IV: psychic lights and colors. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001707.jpg",
+    "source_page": null,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001707.jpg"
+    }
+  },
+  {
+    "id": 548,
+    "name": "Babbitt: historical cerebral color faculties",
+    "description": "Источниковедческая карточка по иллюстрации 1000001707.jpg (цветная таблица или композиция без указанной страницы). Babbitt: historical cerebral color faculties. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001707.jpg",
+    "source_page": null,
+    "category": "Энергетическая анатомия",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": null,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001707.jpg"
+    }
+  },
+  {
+    "id": 549,
+    "name": "Babbitt: solar spots and mottled photosphere",
+    "description": "Источниковедческая карточка по иллюстрации 1000001708.jpg, печатная страница 189. Babbitt: solar spots and mottled photosphere. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001708.jpg",
+    "source_page": 189,
+    "category": "Планетарные модели",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 189,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001708.jpg"
+    }
+  },
+  {
+    "id": 550,
+    "name": "Babbitt: historical comparative planetary sizes",
+    "description": "Источниковедческая карточка по иллюстрации 1000001708.jpg, печатная страница 189. Babbitt: historical comparative planetary sizes. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001708.jpg",
+    "source_page": 189,
+    "category": "Планетарные модели",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 189,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001708.jpg"
+    }
+  },
+  {
+    "id": 551,
+    "name": "Babbitt: solar corona and prominences",
+    "description": "Источниковедческая карточка по иллюстрации 1000001709.jpg, печатная страница 186. Babbitt: solar corona and prominences. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001709.jpg",
+    "source_page": 186,
+    "category": "Планетарные модели",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 186,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001709.jpg"
+    }
+  },
+  {
+    "id": 552,
+    "name": "Babbitt: historical eclipse observations",
+    "description": "Источниковедческая карточка по иллюстрации 1000001709.jpg, печатная страница 186. Babbitt: historical eclipse observations. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001709.jpg",
+    "source_page": 186,
+    "category": "Планетарные модели",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 186,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001709.jpg"
+    }
+  },
+  {
+    "id": 553,
+    "name": "Babbitt: Dulong–Petit atomic heat table",
+    "description": "Источниковедческая карточка по иллюстрации 1000001710.jpg, печатная страница 156. Babbitt: Dulong–Petit atomic heat table. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001710.jpg",
+    "source_page": 156,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 156,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001710.jpg"
+    }
+  },
+  {
+    "id": 554,
+    "name": "Babbitt: historical atomic weights and specific heats",
+    "description": "Источниковедческая карточка по иллюстрации 1000001710.jpg, печатная страница 156. Babbitt: historical atomic weights and specific heats. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001710.jpg",
+    "source_page": 156,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 156,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001710.jpg"
+    }
+  },
+  {
+    "id": 555,
+    "name": "Babbitt: diamagnetic transverse alignment",
+    "description": "Источниковедческая карточка по иллюстрации 1000001711.jpg, печатная страница 133. Babbitt: diamagnetic transverse alignment. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001711.jpg",
+    "source_page": 133,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 133,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001711.jpg"
+    }
+  },
+  {
+    "id": 556,
+    "name": "Babbitt: iron-filings magnetic field lines",
+    "description": "Источниковедческая карточка по иллюстрации 1000001711.jpg, печатная страница 133. Babbitt: iron-filings magnetic field lines. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001711.jpg",
+    "source_page": 133,
+    "category": "Матрицы излучения",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 133,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001711.jpg"
+    }
+  },
+  {
+    "id": 557,
+    "name": "Babbitt: compound sound vibrations",
+    "description": "Источниковедческая карточка по иллюстрации 1000001712.jpg, печатная страница 19. Babbitt: compound sound vibrations. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001712.jpg",
+    "source_page": 19,
+    "category": "Дыхание и циклы",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 19,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001712.jpg"
+    }
+  },
+  {
+    "id": 558,
+    "name": "Babbitt: concentric progressive rings",
+    "description": "Источниковедческая карточка по иллюстрации 1000001712.jpg, печатная страница 19. Babbitt: concentric progressive rings. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001712.jpg",
+    "source_page": 19,
+    "category": "Дыхание и циклы",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 19,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001712.jpg"
+    }
+  },
+  {
+    "id": 559,
+    "name": "Babbitt: ovoid gradation of form",
+    "description": "Источниковедческая карточка по иллюстрации 1000001712.jpg, печатная страница 19. Babbitt: ovoid gradation of form. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001712.jpg",
+    "source_page": 19,
+    "category": "Дыхание и циклы",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 19,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001712.jpg"
+    }
+  },
+  {
+    "id": 560,
+    "name": "Babbitt: Chladni nodal figures",
+    "description": "Источниковедческая карточка по иллюстрации 1000001713.jpg, печатная страница 7. Babbitt: Chladni nodal figures. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001713.jpg",
+    "source_page": 7,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 7,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001713.jpg"
+    }
+  },
+  {
+    "id": 561,
+    "name": "Babbitt: sixfold crystal symmetry",
+    "description": "Источниковедческая карточка по иллюстрации 1000001713.jpg, печатная страница 7. Babbitt: sixfold crystal symmetry. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001713.jpg",
+    "source_page": 7,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 7,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001713.jpg"
+    }
+  },
+  {
+    "id": 562,
+    "name": "Babbitt: philosophical Law of Unity",
+    "description": "Источниковедческая карточка по иллюстрации 1000001714.jpg, печатная страница 3. Babbitt: philosophical Law of Unity. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001714.jpg",
+    "source_page": 3,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 3,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001714.jpg"
+    }
+  },
+  {
+    "id": 563,
+    "name": "Babbitt: triangle hexagon and microzoa unity",
+    "description": "Источниковедческая карточка по иллюстрации 1000001714.jpg, печатная страница 3. Babbitt: triangle hexagon and microzoa unity. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001714.jpg",
+    "source_page": 3,
+    "category": "Сакральная геометрия",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 3,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001714.jpg"
+    }
+  },
+  {
+    "id": 564,
+    "name": "Babbitt: Hogarth line of beauty",
+    "description": "Источниковедческая карточка по иллюстрации 1000001715.jpg, печатная страница 18. Babbitt: Hogarth line of beauty. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001715.jpg",
+    "source_page": 18,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 18,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001715.jpg"
+    }
+  },
+  {
+    "id": 565,
+    "name": "Babbitt: line of grace spiral",
+    "description": "Источниковедческая карточка по иллюстрации 1000001715.jpg, печатная страница 18. Babbitt: line of grace spiral. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001715.jpg",
+    "source_page": 18,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 18,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001715.jpg"
+    }
+  },
+  {
+    "id": 566,
+    "name": "Babbitt: gradation of curvature",
+    "description": "Источниковедческая карточка по иллюстрации 1000001715.jpg, печатная страница 18. Babbitt: gradation of curvature. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001715.jpg",
+    "source_page": 18,
+    "category": "Спирали и вихри",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 18,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001715.jpg"
+    }
+  },
+  {
+    "id": 567,
+    "name": "Babbitt: solar atmosphere eclipse 1858 and 1860",
+    "description": "Источниковедческая карточка по иллюстрации 1000001716.jpg, печатная страница 185. Babbitt: solar atmosphere eclipse 1858 and 1860. Наблюдаемая схема или математически описываемый феномен; точность авторской интерпретации требует отдельной проверки.",
+    "source": "1000001716.jpg",
+    "source_page": 185,
+    "category": "Планетарные модели",
+    "formal_type": "geometric-or-scientific-comparison",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "methodologically comparable to established mathematics/physics; not a source-level proof",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 185,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001716.jpg"
+    }
+  },
+  {
+    "id": 568,
+    "name": "Babbitt: Sun–Earth solar ethers diagram",
+    "description": "Источниковедческая карточка по иллюстрации 1000001717.jpg, печатная страница 179. Babbitt: Sun–Earth solar ethers diagram. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001717.jpg",
+    "source_page": 179,
+    "category": "Космология",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 179,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001717.jpg"
+    }
+  },
+  {
+    "id": 569,
+    "name": "Babbitt: historical thermo-electricity polar currents",
+    "description": "Источниковедческая карточка по иллюстрации 1000001717.jpg, печатная страница 179. Babbitt: historical thermo-electricity polar currents. Авторское историческое утверждение либо символическая схема; научная достоверность не установлена.",
+    "source": "1000001717.jpg",
+    "source_page": 179,
+    "category": "Космология",
+    "formal_type": "historical-hypothesis",
+    "source_status": "visually identified from supplied source; exact transcription pending",
+    "empirical_status": "historical or esoteric claim; not verified",
+    "bibliography": {
+      "reference_ids": [
+        "BABB-PLC"
+      ],
+      "relation": "direct visual source image; bibliography needs edition/page collation",
+      "source_page": 179,
+      "primary_source_verified": true,
+      "scientific_evidence_for_claim": false,
+      "image_source": "reconstruction/sources/babbitt_33/1000001717.jpg"
+    }
   }
 ]

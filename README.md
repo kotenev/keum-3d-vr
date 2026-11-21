@@ -137,7 +137,7 @@ python3 concept_engine/validate_bibliography.py
 
 ## KEUM 3.6 — критическое издание Бэббитта
 
-Реестр расширен с **493 до 569 концепций** (новые ID 494–569) на основании 33 предоставленных изображений: страницы книги Edwin D. Babbitt *The Principles of Light and Color*, цветные таблицы и две дополнительные алхимические композиции. Добавлена [научно-критическая глава MkDocs](mkdocs/encyclopedia/babbitt-critical-edition.md) с привязкой к страницам и формулам TeX, [генератор четырёх SVG](reconstruction/babbitt_vector.py) и [тесты](reconstruction/test_babbitt_vector.py). Указаны исторические, эзотерические и современные физические объяснения отдельно. Точные исходные JPG пока не публикуются из-за неопределённости прав.
+Реестр расширен с **493 до 569 концепций** (новые ID 494–569) на основании 33 предоставленных изображений: 31 страница/таблица книги Edwin D. Babbitt и 2 алхимические композиции неизвестной атрибуции *The Principles of Light and Color*, цветные таблицы и две дополнительные алхимические композиции. Добавлена [научно-критическая глава MkDocs](mkdocs/encyclopedia/babbitt-critical-edition.md) с привязкой к страницам и формулам TeX, [генератор четырёх SVG](reconstruction/babbitt_vector.py) и [тесты](reconstruction/test_babbitt_vector.py). Указаны исторические, эзотерические и современные физические объяснения отдельно. Точные исходные JPG пока не публикуются из-за неопределённости прав.
 
 ```bash
 python3 reconstruction/babbitt_vector.py --output build/babbitt_svg

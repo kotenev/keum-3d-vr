@@ -58,6 +58,6 @@ jobs:
           data=json.loads(p.read_text())
           assert data['count']==49
           assert data['verified_count']==0
-          assert len({x['sha256'] for x in data['records']})==49
-          print('49 source digests and QA records verified')
+          assert len({x['sha256'] for x in data['records']})==48  # original slot 48 duplicates slot 2
+          print('49 source slots, 48 unique digests and QA records verified')
           PY

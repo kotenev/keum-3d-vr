@@ -1,6 +1,6 @@
 {
   "schema": "keum.references.v1",
-  "count": 49,
+  "count": 50,
   "reference_policy": {
     "primary": "Primary source can document what an author claimed, not whether it is empirically true",
     "scientific": "Scientific source supports established method or comparative benchmark, not KEUM metaphysics",
@@ -546,6 +546,17 @@
       "verification": "bibliographic-search",
       "domain": "humanistic-psychology",
       "scope": "historical, methodological or comparative reference; not direct verification of KEUM concept"
+    },
+    {
+      "id": "BABB-PLC",
+      "author": "Edwin D. Babbitt",
+      "title": "The Principles of Light and Color",
+      "year": "nineteenth century; supplied scan indicates second edition",
+      "source_type": "historical-esoteric-primary",
+      "url": "https://archive.org/search?query=Edwin+D+Babbitt+Principles+of+Light+and+Color",
+      "verification": "user-supplied-scanned-pages",
+      "domain": "color-optics-history",
+      "scope": "Primary evidence of Babbitt's historical claims and illustrations, not scientific verification."
     }
   ]
 }

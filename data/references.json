@@ -1,6 +1,6 @@
 {
   "schema": "keum.references.v1",
-  "count": 50,
+  "count": 52,
   "reference_policy": {
     "primary": "Primary source can document what an author claimed, not whether it is empirically true",
     "scientific": "Scientific source supports established method or comparative benchmark, not KEUM metaphysics",
@@ -557,6 +557,28 @@
       "verification": "user-supplied-scanned-pages",
       "domain": "color-optics-history",
       "scope": "Primary evidence of Babbitt's historical claims and illustrations, not scientific verification."
+    },
+    {
+      "id": "IMG-ALCHEMICAL-KEY",
+      "author": "Unverified",
+      "title": "The Alchemical Key — user-supplied image",
+      "year": "undetermined",
+      "source_type": "user-supplied-visual-primary",
+      "url": "https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/results/babbitt_33_manifest.json",
+      "verification": "user-image-visible; attribution unverified",
+      "domain": "alchemy-iconography",
+      "scope": "Visual source only; link points to source-image manifest, not published raster or historical edition"
+    },
+    {
+      "id": "IMG-ALCHEMICAL-COLLAGE",
+      "author": "Unverified",
+      "title": "Alchemical tree, seals and ring — user-supplied composite image",
+      "year": "undetermined",
+      "source_type": "user-supplied-visual-primary",
+      "url": "https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/results/babbitt_33_manifest.json",
+      "verification": "user-image-visible; attribution unverified",
+      "domain": "alchemy-iconography",
+      "scope": "Visual source only; link points to source-image manifest, not published raster or historical edition"
     }
   ]
 }

@@ -1,0 +1,304 @@
+{
+  "schema": "keum.babbitt.images.v1",
+  "count": 33,
+  "records": [
+    {
+      "filename": "1000001684.jpg",
+      "sha256": "f7a631d7c554dee752220e5c67a71a8f2c0896c909d0c4c10240cba9914f146c",
+      "width": 1147,
+      "height": 1536,
+      "size_bytes": 154915,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001685.jpg",
+      "sha256": "9b824aadf27306ae3f96dc2d21c873e160d63e4c1d725c91ba437a3ff7041405",
+      "width": 970,
+      "height": 1536,
+      "size_bytes": 301010,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001686.jpg",
+      "sha256": "6a520bbd7dc8e953efd51e2dd2f561525b24a49f100df919fc0540bf0c7ac3d4",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 328355,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001687.jpg",
+      "sha256": "9ca1309f0c234664d5427487349fe8d78b9d8eaa4977f8457fdf91273434ca72",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 370542,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001688.jpg",
+      "sha256": "265c0831fcca417cd5485ed0390e76cdf076256c82c2f013ba6439466c65c6e3",
+      "width": 1021,
+      "height": 1536,
+      "size_bytes": 171102,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001689.jpg",
+      "sha256": "46764e86f462761b72a325b859274223ad29d43d1f841da00fb7103300a77e3d",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 387746,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001691.jpg",
+      "sha256": "641266af896750091ca4024eccae035640827858f4fe299802bcfdaddfede25e",
+      "width": 911,
+      "height": 1536,
+      "size_bytes": 412370,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001692.jpg",
+      "sha256": "33c03dfd4bfdead03b786fefe9a3eddf4fca741ee58f00aa168b499a483a8611",
+      "width": 1056,
+      "height": 1536,
+      "size_bytes": 320522,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001693.jpg",
+      "sha256": "5bd6dc3f2c3b216715ae07a23038f903effc072df3e64e932a68f315c1a17bbe",
+      "width": 863,
+      "height": 1536,
+      "size_bytes": 202986,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001694.jpg",
+      "sha256": "ceb85a1eea1389473f4fecbf0b87eca4ef94c1657e8b13d0bb8f49328e0121ab",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 401875,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001695.jpg",
+      "sha256": "545488b7d5c6344b34f28d89a193b15d213ad75cf67cb0af4982df28905856e1",
+      "width": 1536,
+      "height": 1201,
+      "size_bytes": 309211,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001696.jpg",
+      "sha256": "38d2cf68ee4ed12ad8f2077fd659221c03c45f7906925beb78595dd27bcbc7e1",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 335547,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001697.jpg",
+      "sha256": "499f3bf6fd91e5d3c922fbacadebac280622f3c4815743a88452e31db3b7a896",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 368150,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001698.jpg",
+      "sha256": "862d349c0e9f3e7dad188060ea51ed0f35b155ef8b6a2624d7c60e8345ce9255",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 347404,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001699.jpg",
+      "sha256": "1b986faf762f224e3e77bf60a09671f4e3e708511cf380b4e1f3884e08307d59",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 364189,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001700.jpg",
+      "sha256": "5a6842404db03bdfa45dc56b63566aa92613f68c81b5bd4ab58b1b7a1f43098a",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 315888,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001701.jpg",
+      "sha256": "58ccc5460ec3e02daf81085201c753ed834ebb1cad7bc403901cee0986e4122f",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 328561,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001702.jpg",
+      "sha256": "a47b2412e9bb63b10318a792f49e887f9e48d2bf0949d3d2f011d34c00e5bcbc",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 330270,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001703.jpg",
+      "sha256": "3ef1dccac39150b8b6cfdb73b69a47d7f935f602c4c5fa4771892886f6e40339",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 393387,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001704.jpg",
+      "sha256": "aef23ebdc37e3daa3f470f317d1ea8efb275a3cb15dea8dd044b401b6bfb52a3",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 335553,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001705.jpg",
+      "sha256": "5cdbc8bd5de893daffb3d11993b66294b6a31fae13f7c4f069f67f0d66b8aa55",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 335823,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001706.jpg",
+      "sha256": "990d0981a17806a6017fc528d8588e85328e7361d785608a56dc77b92e1a2589",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 358332,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001707.jpg",
+      "sha256": "a27e906b9e85dcb5f36bba03912311e20db4e6ab90faaa6345bb5f688ebe27d1",
+      "width": 914,
+      "height": 1536,
+      "size_bytes": 348161,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001708.jpg",
+      "sha256": "1ba37353a3e3e2f468c6bb4018b926e66b9bc09e6a5797f9a3dbd2005cda6259",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 346269,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001709.jpg",
+      "sha256": "40adf9941fd882058a52f8efea0c4e662e0f0332310c82a55c4c10fa61d2f50d",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 407618,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001710.jpg",
+      "sha256": "a7557bd7a5e4fdb3b0cc0bde0890ff15098cf783b7c9e6fd22e93a9a93d2e4c5",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 240495,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001711.jpg",
+      "sha256": "7eb516f5edf592324a1cb3e90d7919d731d15b06433132b241daede4667994f7",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 361962,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001712.jpg",
+      "sha256": "0d803a6e1ee56299fe186f12e593c7d455c9cc755861fb26d90688f51996bc3f",
+      "width": 1041,
+      "height": 1536,
+      "size_bytes": 331101,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001713.jpg",
+      "sha256": "9ff9b866ec9640e1463c78a5fde71af22f08f786f40871699a619a7672c7075d",
+      "width": 1036,
+      "height": 1536,
+      "size_bytes": 305159,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001714.jpg",
+      "sha256": "810cecdf2b44dd567c681323f420f67c1966ae9aaa72e91d358706916eb85992",
+      "width": 1089,
+      "height": 1536,
+      "size_bytes": 280943,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001715.jpg",
+      "sha256": "5da554d24572f340c3780ca363db65195cd96bd85375ce30aa2c473e4f68c868",
+      "width": 942,
+      "height": 1536,
+      "size_bytes": 310665,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001716.jpg",
+      "sha256": "7494afdd2edc1fe9ae161d759b362861b6d7780e16ac5b321da6cfa74fd7a130",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 330817,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    },
+    {
+      "filename": "1000001717.jpg",
+      "sha256": "af426c47e57c0318dd30b5ab15fe6a1afb59efa5a938e7c1425db05fbca8b862",
+      "width": 890,
+      "height": 1536,
+      "size_bytes": 260889,
+      "source": "user-provided",
+      "verification": "visual classification only"
+    }
+  ],
+  "notes": "33 mounted images, not public domain determination; image 1692 and 1699 show same printed page but are not byte-identical"
+}

@@ -1,10 +1,10 @@
-# 493 концепции: научные и эзотерические источники
+# 569 концепций: научные и эзотерические источники
 
-**493 концепции, 16 категорий, 49 источников.** Все соответствия пока тематические: отдельные страницы и цитаты первоисточников требуют проверки.
+**569 концепций, 16 категорий, 50 библиографических источников.** Тематические ссылки не равнозначны проверенным цитатам; для новых 76 карточек непосредственно указан первоисточник Бэббитта и видимая печатная страница.
 
 ## Космология
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 1 | Keylontic Science | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton), [PHYS-EINSTEIN](bibliography-expanded.md#phys-einstein), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
 | 2 | Freedom Teachings | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton), [PHYS-EINSTEIN](bibliography-expanded.md#phys-einstein), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
@@ -73,10 +73,16 @@
 | 455 | Ecousha-4 Platform | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton), [PHYS-EINSTEIN](bibliography-expanded.md#phys-einstein), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
 | 456 | Urtha Seed Krystal | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton), [PHYS-EINSTEIN](bibliography-expanded.md#phys-einstein), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
 | 457 | Nested Krystal Heart Geometry | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton), [PHYS-EINSTEIN](bibliography-expanded.md#phys-einstein), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
+| 515 | Babbitt: law of unity in light and color | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 516 | Babbitt: solar family concentric diagram | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 517 | Babbitt: historical gravitational unity | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 531 | Babbitt: repeated Solar Family diagram variant | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 568 | Babbitt: Sun–Earth solar ethers diagram | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 569 | Babbitt: historical thermo-electricity polar currents | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Сакральная геометрия
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 21 | Kathara Grid | [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-SCHOLEM](bibliography-expanded.md#hist-scholem), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-CHUNG](bibliography-expanded.md#math-chung), [MATH-NEWMAN](bibliography-expanded.md#math-newman), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune) |
 | 22 | Kathara Signets | [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-SCHOLEM](bibliography-expanded.md#hist-scholem), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune) |
@@ -110,10 +116,20 @@
 | 491 | Vertical Axis and Layer Coupling | [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-SCHOLEM](bibliography-expanded.md#hist-scholem), [TECH-SVG](bibliography-expanded.md#tech-svg), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune) |
 | 492 | Bilateral Hands and Geometric Field | [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-SCHOLEM](bibliography-expanded.md#hist-scholem), [TECH-SVG](bibliography-expanded.md#tech-svg), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune) |
 | 493 | Rotational Layer Symmetry | [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-SCHOLEM](bibliography-expanded.md#hist-scholem), [TECH-SVG](bibliography-expanded.md#tech-svg), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune) |
+| 501 | Babbitt: nested centers of unity in trees | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 502 | Babbitt: nervous and vascular centers of unity | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 503 | Crystalline forms illuminated by sunlight | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 534 | Babbitt: centers of unity in leaves and shells | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 535 | Babbitt: ellipses and ovals in leaf contours | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 536 | Babbitt: radial forms in echinus and starfish | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 560 | Babbitt: Chladni nodal figures | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 561 | Babbitt: sixfold crystal symmetry | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 562 | Babbitt: philosophical Law of Unity | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 563 | Babbitt: triangle hexagon and microzoa unity | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Меркаба и поля
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 41 | Merkaba | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-ARNOLD](bibliography-expanded.md#math-arnold), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie) |
 | 42 | Christiac Merkaba | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-ARNOLD](bibliography-expanded.md#math-arnold), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie) |
@@ -168,7 +184,7 @@
 
 ## Дыхание и циклы
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 61 | Monadic Breathing | [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 62 | 24 ManA Breaths | [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
@@ -185,10 +201,13 @@
 | 73 | Universal Veca Octaves | [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 74 | Dimensional Harmonics | [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 75 | Frequency Bands | [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
+| 557 | Babbitt: compound sound vibrations | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 558 | Babbitt: concentric progressive rings | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 559 | Babbitt: ovoid gradation of form | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Энергетическая анатомия
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 76 | AzurA | [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch) |
 | 77 | Chakra 10 | [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch) |
@@ -249,10 +268,23 @@
 | 474 | Kabbalistic Sephirot Body Mapping | [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [ESOT-ZOHAR](bibliography-expanded.md#esot-zohar), [HIST-IDEL](bibliography-expanded.md#hist-idel), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch) |
 | 475 | Occult Anatomical Correspondences | [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch) |
 | 476 | Body–Cosmos Correspondence | [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch) |
+| 510 | Babbitt: iris and ciliary processes anatomy | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 511 | Babbitt: choroid and retinal anatomy | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 512 | Babbitt: historical vital ether of vision | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 525 | Babbitt: Reichenbach odic color compass | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 526 | Babbitt: color correspondence with head directions | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 527 | Babbitt: magnetic plate experiment compared with brain | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 528 | Babbitt: historical brain pole analogy | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 529 | Babbitt: chromo-mentalism and muscle-reading claims | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 530 | Babbitt: sagittal section of the brain | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 539 | Babbitt: five leading brain poles hypothesis | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 540 | Babbitt: brain interior radiations figure 192 | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 547 | Babbitt Plate IV: psychic lights and colors | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 548 | Babbitt: historical cerebral color faculties | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Планетарные модели
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 91 | Halls of Amenti | [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-MEEUS](bibliography-expanded.md#astro-meeus), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton) |
 | 92 | Star Gate System | [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-MEEUS](bibliography-expanded.md#astro-meeus), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton) |
@@ -282,10 +314,15 @@
 | 316 | Concentric Field Alignment | [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-MEEUS](bibliography-expanded.md#astro-meeus), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton) |
 | 317 | Geometric Axis Intersection | [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-MEEUS](bibliography-expanded.md#astro-meeus), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton) |
 | 318 | Cosmic Clock Projection | [ASTRO-NOAA](bibliography-expanded.md#astro-noaa), [ASTRO-MEEUS](bibliography-expanded.md#astro-meeus), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [ASTRO-PTOLEMY](bibliography-expanded.md#astro-ptolemy), [ASTRO-KEPLER](bibliography-expanded.md#astro-kepler), [PHYS-NEWTON](bibliography-expanded.md#phys-newton) |
+| 549 | Babbitt: solar spots and mottled photosphere | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 550 | Babbitt: historical comparative planetary sizes | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 551 | Babbitt: solar corona and prominences | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 552 | Babbitt: historical eclipse observations | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 567 | Babbitt: solar atmosphere eclipse 1858 and 1860 | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Тела Hova
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 123 | Nada Hova | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater) |
 | 124 | Alphi Hova | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [ESOT-LEADBEATER](bibliography-expanded.md#esot-leadbeater) |
@@ -303,7 +340,7 @@
 
 ## ДНК и коды
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 136 | DNA Base Codes | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [BIO-NHGRI](bibliography-expanded.md#bio-nhgri), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-STEINER](bibliography-expanded.md#esot-steiner) |
 | 137 | DNA Acceleration Codes | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [BIO-NHGRI](bibliography-expanded.md#bio-nhgri), [BIO-NCBI](bibliography-expanded.md#bio-ncbi), [MATH-NIST](bibliography-expanded.md#math-nist), [ESOT-STEINER](bibliography-expanded.md#esot-steiner) |
@@ -316,7 +353,7 @@
 
 ## Кристаллическое тело
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 159 | Seed Flames | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-GLTF](bibliography-expanded.md#tech-gltf), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
 | 160 | Amoraea Flame | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-GLTF](bibliography-expanded.md#tech-gltf), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [MATH-COXETER](bibliography-expanded.md#math-coxeter), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
@@ -408,7 +445,7 @@
 
 ## Пламена и Eukatharista
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 201 | Eukatharista | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie) |
 | 202 | Cosmic Eternal Flame Body | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-STEINER](bibliography-expanded.md#esot-steiner), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie) |
@@ -438,7 +475,7 @@
 
 ## Спирали и вихри
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 239 | Reu-Sha-TA Spiral | [MATH-NIST](bibliography-expanded.md#math-nist), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 240 | Reuche Base Shield | [MATH-NIST](bibliography-expanded.md#math-nist), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
@@ -469,10 +506,20 @@
 | 369 | Fusion-Fission Point | [MATH-NIST](bibliography-expanded.md#math-nist), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 370 | Universal Veca Monad | [MATH-NIST](bibliography-expanded.md#math-nist), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-DEANE-I](bibliography-expanded.md#esot-deane-i), [ESOT-KATHARA](bibliography-expanded.md#esot-kathara), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 371 | Trion Light / Meajhe Sound Field Pair | [MATH-NIST](bibliography-expanded.md#math-nist), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-MANDELBROT](bibliography-expanded.md#math-mandelbrot), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
+| 504 | Babbitt: etherio-atomic vortex model | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 505 | Babbitt: thermal and electrical spiral taxonomy | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 506 | Babbitt: positive and negative atomic poles | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 518 | Babbitt title: Principles of Light and Color | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 519 | Babbitt: chromochemistry and chromotherapy program | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 520 | Babbitt: propagation and reflection of liquid waves | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 521 | Babbitt: spiral color-channel hypothesis | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 564 | Babbitt: Hogarth line of beauty | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 565 | Babbitt: line of grace spiral | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 566 | Babbitt: gradation of curvature | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Проекции и голография
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 256 | Densification Phase 3C | [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter) |
 | 257 | Densification Phase 3D | [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [MATH-STROGATZ](bibliography-expanded.md#math-strogatz), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter) |
@@ -495,10 +542,21 @@
 | 461 | Three Parallel Brain Channels | [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter) |
 | 462 | Feedback Loop Diagram | [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter) |
 | 463 | Human–Machine Signal Interface | [MATH-NIST](bibliography-expanded.md#math-nist), [TECH-SVG](bibliography-expanded.md#tech-svg), [ESOT-RUSSELL](bibliography-expanded.md#esot-russell), [MATH-EUCLID](bibliography-expanded.md#math-euclid), [MATH-COXETER](bibliography-expanded.md#math-coxeter) |
+| 507 | Babbitt Plate II: chromatic gradation wheel | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 508 | Babbitt Plate II: chromatic contrast petals | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 509 | Babbitt Plate II: chromatic grays | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 532 | Babbitt: general machinery of the eye | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 533 | Babbitt: cornea iris and pupil optical pathway | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 537 | Babbitt: retinal image inversion | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 538 | Babbitt: historical inner-light perception hypothesis | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 541 | Babbitt: polarizer and analyzer figure 179 | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 542 | Babbitt: ordinary and extraordinary rays | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 545 | Babbitt: double refraction in Iceland spar | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 546 | Babbitt: ether-atomic explanation of birefringence | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Матрицы излучения
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 301 | Matradon Radiation Matrix | [MATH-CHUNG](bibliography-expanded.md#math-chung), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [MATH-NEWMAN](bibliography-expanded.md#math-newman), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 302 | Lotosphere | [MATH-CHUNG](bibliography-expanded.md#math-chung), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
@@ -530,10 +588,21 @@
 | 384 | Ethos-Meridian Line Set | [MATH-CHUNG](bibliography-expanded.md#math-chung), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 385 | Partikulate Current | [MATH-CHUNG](bibliography-expanded.md#math-chung), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
 | 386 | Spark-Pulse Standing-Wave Still Point | [MATH-CHUNG](bibliography-expanded.md#math-chung), [MATH-KURAMOTO](bibliography-expanded.md#math-kuramoto), [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [PHYS-MAXWELL](bibliography-expanded.md#phys-maxwell), [MATH-ARNOLD](bibliography-expanded.md#math-arnold) |
+| 513 | Babbitt Plate III: odic lights and colors | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 514 | Babbitt Plate III: historical magnetic color emissions | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 522 | Babbitt Plate I: solar spectrum and Fraunhofer lines | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 523 | Babbitt Plate I: chromatic and achromatic colors | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 524 | Babbitt Plate I: historical color therapeutics | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 543 | Babbitt: solar spectrum figure 167 | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 544 | Babbitt: spectral chemistry and Fraunhofer lines | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 553 | Babbitt: Dulong–Petit atomic heat table | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 554 | Babbitt: historical atomic weights and specific heats | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 555 | Babbitt: diamagnetic transverse alignment | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 556 | Babbitt: iron-filings magnetic field lines | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Коды и Christos
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 319 | 12-Dimensional Christos Divine Blueprint | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
 | 320 | Natural Universal Christos Shield | [ESOT-DEANE-II](bibliography-expanded.md#esot-deane-ii), [ESOT-SEFER](bibliography-expanded.md#esot-sefer), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [HIST-ELIADE](bibliography-expanded.md#hist-eliade) |
@@ -547,7 +616,7 @@
 
 ## Алхимия и символические соответствия
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 413 | Classical Four Elements | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
 | 414 | Elemental Pentagram | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
@@ -558,10 +627,17 @@
 | 419 | Atma–Buddhi–Manas | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
 | 420 | Antahkarana and Sutratma | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
 | 421 | Thirty-Three Degree Symbol | [ESOT-AGRIPPA](bibliography-expanded.md#esot-agrippa), [ESOT-HERMETICA](bibliography-expanded.md#esot-hermetica), [ESOT-JUNG](bibliography-expanded.md#esot-jung), [HIST-HANEGRAAFF](bibliography-expanded.md#hist-hanegraaff), [ESOT-FORTUNE](bibliography-expanded.md#esot-fortune), [ESOT-REGARDIE](bibliography-expanded.md#esot-regardie), [MATH-EUCLID](bibliography-expanded.md#math-euclid) |
+| 494 | Alchemical Key: four elemental axes | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 495 | Zodiacal triplicities and four elements | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 496 | Carbon–Earth and Oxygen–Water symbolic correspondences | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 497 | Nitrogen–Air and Hydrogen–Fire symbolic correspondences | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 498 | Alchemical Tree of Life composite iconography | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 499 | Interlocking triangular seals | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 500 | Rosicrucian seal ring and inscription | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 
 ## Психологические модели
 
-| ID | Понятие | Литература |
+| ID | Концепция | Литература |
 |---:|---|---|
 | 477 | Map of the Human Soul (Zoran Minov) | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 | 478 | Ladder of Imagination | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
@@ -575,6 +651,6 @@
 | 486 | Self-Knowledge and Self-Assessment | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 | 487 | Five Psychological Domains | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 
-## Проверка источников
+## Источниковедческий статус
 
-Для научно-критической редакции необходимо добавить издание, страницы, дословные выдержки в допустимом объёме, тип связи с утверждением и имя проверяющего. Пока все связи — библиографические ориентиры, а не доказанные текстовые соответствия.
+Индивидуальные библиографические ссылки требуют проверки точных страниц, изданий и характера связи. Для Бэббитта доступны 33 скана; ссылка на его труд подтверждает историческую принадлежность изображения, но не физическую достоверность концепции.

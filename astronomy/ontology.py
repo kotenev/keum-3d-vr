@@ -29,7 +29,7 @@ def compile_ontology(catalog):
     ids=[item["id"] for item in catalog]
     if len(ids)!=len(set(ids)):raise ValueError("duplicate concept IDs")
     if any(not isinstance(i,int) or i<1 for i in ids):raise ValueError("invalid IDs")
-    if len(catalog)<412:raise ValueError(f"expected at least 412, got {len(catalog)}")
+    if len(catalog)<493:raise ValueError(f"expected at least 493, got {len(catalog)}")
     unknown=set(x["category"] for x in catalog)-set(CLASS_RULES)
     if unknown:raise ValueError(f"unknown categories: {unknown}")
     return {
@@ -49,7 +49,7 @@ def compile_ontology(catalog):
 def main():
     p=argparse.ArgumentParser()
     p.add_argument("--catalog",default=str(BASE/"data/catalog.json"))
-    p.add_argument("--output",default="astronomy/ontology_493.json")
+    p.add_argument("--output",default="astronomy/ontology_569.json")
     a=p.parse_args()
     data=json.loads(Path(a.catalog).read_text(encoding="utf-8"))
     result=compile_ontology(data)

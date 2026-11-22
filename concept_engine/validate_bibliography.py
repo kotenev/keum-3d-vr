@@ -8,10 +8,10 @@ from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parents[1]
 
 def validate(catalog,refs):
-    if len(catalog)!=569:raise ValueError(f"expected 569 concepts, found {len(catalog)}")
-    if len({x["id"] for x in catalog})!=569:raise ValueError("duplicate concept ID")
+    if len(catalog)!=581:raise ValueError(f"expected 581 concepts, found {len(catalog)}")
+    if len({x["id"] for x in catalog})!=581:raise ValueError("duplicate concept ID")
     ids=[x["id"] for x in catalog]
-    if ids!=list(range(1,570)):raise ValueError("concept IDs must be contiguous")
+    if ids!=list(range(1,582)):raise ValueError("concept IDs must be contiguous")
     ref_ids=[r["id"] for r in refs["records"]]
     if len(ref_ids)!=len(set(ref_ids)):raise ValueError("duplicate bibliography ID")
     if refs["count"]!=len(ref_ids):raise ValueError("reference count mismatch")

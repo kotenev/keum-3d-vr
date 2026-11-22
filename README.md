@@ -144,3 +144,20 @@ python3 reconstruction/babbitt_vector.py --output build/babbitt_svg
 python3 -m unittest discover -s reconstruction -p 'test_babbitt_vector.py'
 python3 concept_engine/validate_bibliography.py
 ```
+
+
+## KEUM 3.7 — Фибоначчи и золотая спираль
+
+Реестр расширен с 569 до **581 концепции** (ID 570–581). Добавлены математические свойства Фибоначчи, логарифмическая спираль, золотой угол, модель филлотаксиса и отдельные карточки для эзотерической символики из предоставленного текста Веданы Миллер. Научные математические свойства не смешиваются с неподтверждёнными заявлениями о денежных или энергетических эффектах.
+
+- [Глава MkDocs с формулами TeX](mkdocs/encyclopedia/fibonacci-sacred-geometry.md)
+- [SVG-генератор](reconstruction/fibonacci_vector.py)
+- [Автотесты](reconstruction/test_fibonacci_vector.py)
+- [Онтология 581 концепции](astronomy/ontology_581.json)
+- [Прослеживаемость до 581 концепции](reconstruction/results/concept_image_links_581.json)
+
+```bash
+python3 reconstruction/fibonacci_vector.py --output build/fibonacci_svg
+python3 -m unittest discover -s reconstruction -p 'test_fibonacci_vector.py'
+python3 concept_engine/validate_bibliography.py
+```

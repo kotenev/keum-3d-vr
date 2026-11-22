@@ -63,7 +63,7 @@ nav:
       - Hova, DNA, Fire Codes: models/hova-dna.md
   - Реализация:
       - SVG и glTF: implementation/rendering.md
-      - Исполняемый движок 569 концепций: implementation/concept-runtime.md
+      - Исполняемый движок 581 концепции: implementation/concept-runtime.md
       - Индивидуальные модели и проверка точности: implementation/source-aware-models.md
       - Реконструкция 49 изображений: implementation/image-reconstruction.md
       - Дополнительные 10 изображений: implementation/additional-ten-images.md
@@ -86,8 +86,9 @@ nav:
       - Коды и Christos: encyclopedia/christos.md
       - 10 новых изображений и 81 концепция: encyclopedia/additional-ten-images.md
       - "Бэббитт: 31 страница и 2 алхимические композиции": encyclopedia/babbitt-critical-edition.md
+      - "Фибоначчи: математика и символика": encyclopedia/fibonacci-sacred-geometry.md
   - Литература и источники:
       - Расширенная библиография: bibliography-expanded.md
-      - Указатель по 569 концепциям: references-by-concept.md
+      - Указатель по 581 концепции: references-by-concept.md
       - Библиография первой редакции: bibliography.md
   - Глоссарий: glossary.md

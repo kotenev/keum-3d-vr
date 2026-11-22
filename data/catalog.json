@@ -12738,5 +12738,253 @@
       "scientific_evidence_for_claim": false,
       "image_source": "reconstruction/sources/babbitt_33/1000001717.jpg"
     }
+  },
+  {
+    "id": 570,
+    "name": "Fibonacci recurrence",
+    "description": "Последовательность F₀=0, F₁=1, Fₙ=Fₙ₋₁+Fₙ₋₂.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-theorem",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "MATH-KOSHY-FIB",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 571,
+    "name": "Binet closed-form formula",
+    "description": "Точная формула через корни характеристического уравнения x²−x−1=0.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-theorem",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "MATH-VAJDA-FIB",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 572,
+    "name": "Golden ratio limit",
+    "description": "Предел Fₙ₊₁/Fₙ=φ для n→∞.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-theorem",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "MATH-KOSHY-FIB",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 573,
+    "name": "Fibonacci square tiling",
+    "description": "Квадраты со сторонами последовательных чисел Фибоначчи, размещённые по циклическому правилу.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-construction",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "MATH-KOSHY-FIB",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 574,
+    "name": "Quarter-circle Fibonacci spiral",
+    "description": "Кусочно-круговая спираль из четвертей окружностей в квадратах Фибоначчи; не точная логарифмическая спираль.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-construction",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "MATH-VAJDA-FIB",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 575,
+    "name": "Golden logarithmic spiral",
+    "description": "Логарифмическая спираль, чей радиус увеличивается в φ раз при повороте на π/2.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-construction",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "MATH-VAJDA-FIB",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 576,
+    "name": "Golden angle",
+    "description": "Угол 2π/φ² ≈ 137.50776° в моделях филлотаксиса.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "mathematical-construction",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "BIO-PRUSINKIEWICZ",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 577,
+    "name": "Phyllotaxis spiral parastichies",
+    "description": "Спиральные семейства на растениях, иногда имеющие соседние числа Фибоначчи; биологически не универсальны.",
+    "source": "1000001774.jpg",
+    "category": "Сакральная геометрия",
+    "formal_type": "empirical-phenomenon",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "established mathematical representation or bounded biological observation",
+    "bibliography": {
+      "reference_ids": [
+        "BIO-DOUADY",
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 578,
+    "name": "Symbolic outward spiral",
+    "description": "Интерпретация движения от центра как расширения возможностей и ресурсов по тексту Веданы Миллер.",
+    "source": "1000001774.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "contemporary-esoteric-interpretation",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "symbolic interpretation; no demonstrated causal effect",
+    "bibliography": {
+      "reference_ids": [
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 579,
+    "name": "Symbolic inward spiral",
+    "description": "Интерпретация движения к центру как концентрации, сохранения и накопления по тексту Веданы Миллер.",
+    "source": "1000001774.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "contemporary-esoteric-interpretation",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "symbolic interpretation; no demonstrated causal effect",
+    "bibliography": {
+      "reference_ids": [
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 580,
+    "name": "Fibonacci talismanic stages",
+    "description": "Авторская символическая схема: намерение → действие → результат → накопление → расширение → приумножение.",
+    "source": "1000001774.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "contemporary-esoteric-interpretation",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "symbolic interpretation; no demonstrated causal effect",
+    "bibliography": {
+      "reference_ids": [
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
+  },
+  {
+    "id": 581,
+    "name": "Fibonacci prosperity claim",
+    "description": "Предполагаемая связь символа Фибоначчи с финансовым приумножением; экспериментально не подтверждена.",
+    "source": "1000001774.jpg",
+    "category": "Алхимия и символические соответствия",
+    "formal_type": "unverified-efficacy-claim",
+    "source_status": "user-supplied image and attributed article; author/date not independently verified",
+    "empirical_status": "symbolic interpretation; no demonstrated causal effect",
+    "bibliography": {
+      "reference_ids": [
+        "ESOT-MILLER-FIB"
+      ],
+      "relation": "mathematical source or supplied author interpretation, not magical efficacy",
+      "source_page": null,
+      "primary_source_verified": false,
+      "scientific_evidence_for_claim": false,
+      "image_source": "1000001774.jpg"
+    }
   }
 ]

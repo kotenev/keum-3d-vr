@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""KEUM universal symbolic runtime for all 412 catalog entries.
+"""KEUM universal symbolic runtime for all catalog entries.
 
 Every entry gets a deterministic, typed model instance. This is an executable
 visualization and ontology engine, NOT 412 independently verified physical laws.
@@ -30,8 +30,8 @@ TWO_PI=2*math.pi
 
 def catalog(path=BASE/"data/catalog.json"):
     items=json.loads(Path(path).read_text(encoding="utf-8"))
-    if len(items)<493 or len({x["id"] for x in items})!=len(items):
-        raise ValueError("catalog must contain at least 493 unique IDs")
+    if len(items)<581 or len({x["id"] for x in items})!=len(items):
+        raise ValueError("catalog must contain at least 581 unique IDs")
     if {x["category"] for x in items}-CATEGORIES.keys():
         raise ValueError("unknown category")
     return sorted(items,key=lambda x:x["id"])

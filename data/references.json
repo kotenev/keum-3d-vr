@@ -1,6 +1,6 @@
 {
   "schema": "keum.references.v1",
-  "count": 52,
+  "count": 58,
   "reference_policy": {
     "primary": "Primary source can document what an author claimed, not whether it is empirically true",
     "scientific": "Scientific source supports established method or comparative benchmark, not KEUM metaphysics",
@@ -579,6 +579,72 @@
       "verification": "user-image-visible; attribution unverified",
       "domain": "alchemy-iconography",
       "scope": "Visual source only; link points to source-image manifest, not published raster or historical edition"
+    },
+    {
+      "id": "MATH-KOSHY-FIB",
+      "author": "Thomas Koshy",
+      "title": "Fibonacci and Lucas Numbers with Applications",
+      "year": "2001",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Thomas+Koshy+Fibonacci+and+Lucas+Numbers+with+Applications",
+      "verification": "bibliographic-search",
+      "domain": "fibonacci",
+      "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
+    },
+    {
+      "id": "MATH-VAJDA-FIB",
+      "author": "Steven Vajda",
+      "title": "Fibonacci & Lucas Numbers, and the Golden Section",
+      "year": "1989",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Steven+Vajda+Fibonacci+Lucas+Numbers+Golden+Section",
+      "verification": "bibliographic-search",
+      "domain": "fibonacci",
+      "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
+    },
+    {
+      "id": "BIO-PRUSINKIEWICZ",
+      "author": "Przemyslaw Prusinkiewicz and Aristid Lindenmayer",
+      "title": "The Algorithmic Beauty of Plants",
+      "year": "1990",
+      "source_type": "scientific-monograph",
+      "url": "https://algorithmicbotany.org/papers/abop/abop.pdf",
+      "verification": "author-hosted-full-text",
+      "domain": "phyllotaxis",
+      "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
+    },
+    {
+      "id": "BIO-DOUADY",
+      "author": "Stéphane Douady and Yves Couder",
+      "title": "Phyllotaxis as a Physical Self-Organized Growth Process",
+      "year": "1996",
+      "source_type": "peer-reviewed",
+      "url": "https://doi.org/10.1103/PhysRevLett.68.2098",
+      "verification": "doi-pointer",
+      "domain": "phyllotaxis",
+      "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
+    },
+    {
+      "id": "HIST-THOMPSON",
+      "author": "D'Arcy Wentworth Thompson",
+      "title": "On Growth and Form",
+      "year": "1917",
+      "source_type": "scientific-classic",
+      "url": "https://search.worldcat.org/search?q=D%27Arcy+Thompson+On+Growth+and+Form",
+      "verification": "bibliographic-search",
+      "domain": "morphogenesis",
+      "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
+    },
+    {
+      "id": "ESOT-MILLER-FIB",
+      "author": "Ведана Миллер",
+      "title": "Принцип Фибоначчи в магии и эзотерике: тайна золотой спирали и закон приумножения",
+      "year": "2026 or earlier; undated original",
+      "source_type": "user-supplied-primary-text",
+      "url": "https://github.com/kotenev/keum-3d-vr/blob/main/mkdocs/encyclopedia/fibonacci-sacred-geometry.md",
+      "verification": "user-supplied-text-not-independent-source",
+      "domain": "contemporary-symbolism",
+      "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Научная, фундаментальная и эзотерическая библиография KEUM
 
-**52 источника · 569 концепций.** Это тематический справочник, а не подтверждение всех 569 утверждений.
+**58 источников · 581 концепция.** Это тематический справочник, а не подтверждение всех 569 утверждений.
 
 !!! warning "Методологическая граница"
     Эзотерический первоисточник подтверждает наличие *описания* у автора, но не истинность заявленного физического механизма. Научный учебник подтверждает математический аппарат, а не эзотерическую интерпретацию. Ссылки типа `bibliographic-search` — поисковые указатели WorldCat, а не проверенные страницы конкретных изданий.
@@ -460,7 +460,7 @@
 - Психологические карты не являются валидированными методиками без опубликованной проверки надёжности и валидности.
 - Математическая параметризация эзотерического рисунка не делает его физической теорией.
 
-[Указатель источников для всех 569 концепций](references-by-concept.md).
+[Указатель источников для всех 581 концепция](references-by-concept.md).
 
 
 ## BABB-PLC — Edwin D. Babbitt, *The Principles of Light and Color*
@@ -480,3 +480,15 @@
 - **IMG-ALCHEMICAL-COLLAGE:** алхимическая композиция `1000001685.jpg` — составное изображение неизвестной атрибуции.
 
 Эти изображения **не следует приписывать Бэббитту** без независимого подтверждения.
+
+
+## Фибоначчи, филлотаксис и символические практики
+
+- **MATH-KOSHY-FIB:** Thomas Koshy, *Fibonacci and Lucas Numbers with Applications* (2001). [Библиографический поиск](https://search.worldcat.org/search?q=Thomas+Koshy+Fibonacci+and+Lucas+Numbers+with+Applications).
+- **MATH-VAJDA-FIB:** Steven Vajda, *Fibonacci & Lucas Numbers, and the Golden Section* (1989). [Библиографический поиск](https://search.worldcat.org/search?q=Steven+Vajda+Fibonacci+Lucas+Numbers+Golden+Section).
+- **BIO-PRUSINKIEWICZ:** Prusinkiewicz & Lindenmayer, *The Algorithmic Beauty of Plants* (1990). [Авторская публикация](https://algorithmicbotany.org/papers/abop/abop.pdf).
+- **BIO-DOUADY:** Douady & Couder, *Phyllotaxis as a Physical Self-Organized Growth Process* (1992). [DOI](https://doi.org/10.1103/PhysRevLett.68.2098).
+- **HIST-THOMPSON:** D'Arcy Wentworth Thompson, *On Growth and Form* (1917). [Библиографический поиск](https://search.worldcat.org/search?q=D%27Arcy+Thompson+On+Growth+and+Form).
+- **ESOT-MILLER-FIB:** Ведана Миллер, предоставленный пользователем текст «Принцип Фибоначчи в магии и эзотерике». [Критическая редакция](encyclopedia/fibonacci-sacred-geometry.md). Дата и первоначальный источник не установлены.
+
+Формулы и символические значения разделены по уровню доказательности.

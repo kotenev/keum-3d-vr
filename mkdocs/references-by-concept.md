@@ -1,6 +1,6 @@
-# 569 концепций: научные и эзотерические источники
+# 581 концепция: научные и эзотерические источники
 
-**569 концепций, 16 категорий, 52 библиографических источника.** Тематические ссылки не равнозначны проверенным цитатам. Для 31 изображения Бэббитта указан авторский первоисточник; для двух алхимических композиций атрибуция не установлена.
+**581 концепция, 16 категорий, 58 библиографических источников.** Связи тематические, кроме прямо указанных источников пользовательских текстов и изображений; эффективность магических практик не установлена.
 
 ## Космология
 
@@ -126,6 +126,14 @@
 | 561 | Babbitt: sixfold crystal symmetry | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 | 562 | Babbitt: philosophical Law of Unity | [BABB-PLC](bibliography-expanded.md#babb-plc) |
 | 563 | Babbitt: triangle hexagon and microzoa unity | [BABB-PLC](bibliography-expanded.md#babb-plc) |
+| 570 | Fibonacci recurrence | [MATH-KOSHY-FIB](bibliography-expanded.md#math-koshy-fib), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 571 | Binet closed-form formula | [MATH-VAJDA-FIB](bibliography-expanded.md#math-vajda-fib), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 572 | Golden ratio limit | [MATH-KOSHY-FIB](bibliography-expanded.md#math-koshy-fib), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 573 | Fibonacci square tiling | [MATH-KOSHY-FIB](bibliography-expanded.md#math-koshy-fib), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 574 | Quarter-circle Fibonacci spiral | [MATH-VAJDA-FIB](bibliography-expanded.md#math-vajda-fib), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 575 | Golden logarithmic spiral | [MATH-VAJDA-FIB](bibliography-expanded.md#math-vajda-fib), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 576 | Golden angle | [BIO-PRUSINKIEWICZ](bibliography-expanded.md#bio-prusinkiewicz), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 577 | Phyllotaxis spiral parastichies | [BIO-DOUADY](bibliography-expanded.md#bio-douady), [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
 
 ## Меркаба и поля
 
@@ -634,6 +642,10 @@
 | 498 | Alchemical Tree of Life composite iconography | [IMG-ALCHEMICAL-COLLAGE](bibliography-expanded.md#img-alchemical-collage) |
 | 499 | Interlocking triangular seals | [IMG-ALCHEMICAL-COLLAGE](bibliography-expanded.md#img-alchemical-collage) |
 | 500 | Rosicrucian seal ring and inscription | [IMG-ALCHEMICAL-COLLAGE](bibliography-expanded.md#img-alchemical-collage) |
+| 578 | Symbolic outward spiral | [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 579 | Symbolic inward spiral | [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 580 | Fibonacci talismanic stages | [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
+| 581 | Fibonacci prosperity claim | [ESOT-MILLER-FIB](bibliography-expanded.md#esot-miller-fib) |
 
 ## Психологические модели
 
@@ -651,6 +663,6 @@
 | 486 | Self-Knowledge and Self-Assessment | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 | 487 | Five Psychological Domains | [PSY-MINOV](bibliography-expanded.md#psy-minov), [PSY-MASLOW](bibliography-expanded.md#psy-maslow), [PSY-DECI-RYAN](bibliography-expanded.md#psy-deci-ryan), [PSY-JUNG-ARCH](bibliography-expanded.md#psy-jung-arch), [PSY-ROGERS](bibliography-expanded.md#psy-rogers), [ESOT-CAMPBELL](bibliography-expanded.md#esot-campbell) |
 
-## Статус проверки
+## Статус
 
-Точные цитаты, издания и страницы требуют дальнейшей источниковедческой работы. Параметрические математические модели не доказывают авторские эзотерические гипотезы.
+Источники с пометкой bibliographic-search требуют проверки конкретных изданий и страниц. Первичные эзотерические тексты подтверждают наличие интерпретации, но не её причинную эффективность.

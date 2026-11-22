@@ -22,6 +22,10 @@ jobs:
       - run: python3 -m pip install -r reconstruction/requirements.txt
       - run: python3 -m unittest discover -s reconstruction -p 'test_*.py' -v
       - run: python3 reconstruction/babbitt_vector.py --output build/babbitt_svg
+      - name: Test Fibonacci geometry and SVG generator
+        run: |
+          python3 -m unittest discover -s reconstruction -p 'test_fibonacci_vector.py' -v
+          python3 reconstruction/fibonacci_vector.py --output build/fibonacci_svg
       - name: Validate 412-concept traceability index
         run: |
           python3 - <<'PY'

@@ -484,11 +484,11 @@
 
 ## Фибоначчи, филлотаксис и символические практики
 
-- **MATH-KOSHY-FIB:** Thomas Koshy, *Fibonacci and Lucas Numbers with Applications* (2001). [Библиографический поиск](https://search.worldcat.org/search?q=Thomas+Koshy+Fibonacci+and+Lucas+Numbers+with+Applications).
-- **MATH-VAJDA-FIB:** Steven Vajda, *Fibonacci & Lucas Numbers, and the Golden Section* (1989). [Библиографический поиск](https://search.worldcat.org/search?q=Steven+Vajda+Fibonacci+Lucas+Numbers+Golden+Section).
-- **BIO-PRUSINKIEWICZ:** Prusinkiewicz & Lindenmayer, *The Algorithmic Beauty of Plants* (1990). [Авторская публикация](https://algorithmicbotany.org/papers/abop/abop.pdf).
-- **BIO-DOUADY:** Douady & Couder, *Phyllotaxis as a Physical Self-Organized Growth Process* (1992). [DOI](https://doi.org/10.1103/PhysRevLett.68.2098).
-- **HIST-THOMPSON:** D'Arcy Wentworth Thompson, *On Growth and Form* (1917). [Библиографический поиск](https://search.worldcat.org/search?q=D%27Arcy+Thompson+On+Growth+and+Form).
-- **ESOT-MILLER-FIB:** Ведана Миллер, предоставленный пользователем текст «Принцип Фибоначчи в магии и эзотерике». [Критическая редакция](encyclopedia/fibonacci-sacred-geometry.md). Дата и первоначальный источник не установлены.
+- <a id="math-koshy-fib"></a> **MATH-KOSHY-FIB:** Thomas Koshy, *Fibonacci and Lucas Numbers with Applications* (2001). [Библиографический поиск](https://search.worldcat.org/search?q=Thomas+Koshy+Fibonacci+and+Lucas+Numbers+with+Applications).
+- <a id="math-vajda-fib"></a> **MATH-VAJDA-FIB:** Steven Vajda, *Fibonacci & Lucas Numbers, and the Golden Section* (1989). [Библиографический поиск](https://search.worldcat.org/search?q=Steven+Vajda+Fibonacci+Lucas+Numbers+Golden+Section).
+- <a id="bio-prusinkiewicz"></a> **BIO-PRUSINKIEWICZ:** Prusinkiewicz & Lindenmayer, *The Algorithmic Beauty of Plants* (1990). [Авторская публикация](https://algorithmicbotany.org/papers/abop/abop.pdf).
+- <a id="bio-douady"></a> **BIO-DOUADY:** Douady & Couder, *Phyllotaxis as a Physical Self-Organized Growth Process* (1992). [DOI](https://doi.org/10.1103/PhysRevLett.68.2098).
+- <a id="hist-thompson"></a> **HIST-THOMPSON:** D'Arcy Wentworth Thompson, *On Growth and Form* (1917). [Библиографический поиск](https://search.worldcat.org/search?q=D%27Arcy+Thompson+On+Growth+and+Form).
+- <a id="esot-miller-fib"></a> **ESOT-MILLER-FIB:** Ведана Миллер, предоставленный пользователем текст «Принцип Фибоначчи в магии и эзотерике». [Критическая редакция](encyclopedia/fibonacci-sacred-geometry.md). Дата и первоначальный источник не установлены.
 
 Формулы и символические значения разделены по уровню доказательности.

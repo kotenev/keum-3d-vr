@@ -27,7 +27,7 @@
 | Симметрия и многогранники | H. S. M. Coxeter, *Regular Polytopes* | 1973 (3-е изд.) | S/B | [WorldCat](https://search.worldcat.org/search?q=Coxeter+Regular+Polytopes) |
 | Геометрия узлов и топология | Colin C. Adams, *The Knot Book* | 2004 (2-е изд.) | S/B | [WorldCat](https://search.worldcat.org/search?q=Colin+Adams+The+Knot+Book) |
 | Фракталы, самоподобие | Benoit B. Mandelbrot, *The Fractal Geometry of Nature* | 1982 | S/B | [WorldCat](https://search.worldcat.org/search?q=Mandelbrot+Fractal+Geometry+of+Nature) |
-| Фибоначчи, филлотаксис | Douady & Couder, “Phyllotaxis as a Physical Self-Organized Growth Process” | 1996 | S/V | [DOI](https://doi.org/10.1103/PhysRevLett.76.2093) |
+| Фибоначчи, филлотаксис | Douady & Couder, “Phyllotaxis as a Physical Self-Organized Growth Process” | 1996 | S/V | [DOI](https://doi.org/10.1103/PhysRevLett.68.2098) |
 | Колебания и синхронизация | Acebrón et al., “The Kuramoto model: A simple paradigm for synchronization phenomena” | 2005 | S/V | [DOI](https://doi.org/10.1103/RevModPhys.77.137) |
 | Нелинейная динамика | Steven H. Strogatz, *Nonlinear Dynamics and Chaos* | 2015 | S/B | [WorldCat](https://search.worldcat.org/search?q=Strogatz+Nonlinear+Dynamics+and+Chaos) |
 | Вихри и гидродинамика | P. G. Saffman, *Vortex Dynamics* | 1992 | S/B | [WorldCat](https://search.worldcat.org/search?q=Saffman+Vortex+Dynamics) |

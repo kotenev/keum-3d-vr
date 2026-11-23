@@ -29,11 +29,13 @@ def build():
     if len(concepts)!=581 or [x["id"] for x in concepts]!=list(range(1,582)):
         raise ValueError("Concept count or ordering differs from canonical registry")
     rows=[];categories=defaultdict(lambda:{"concepts":0,"links":0})
+    reverse=defaultdict(list)
     for c in concepts:
         bib=c.get("bibliography",{})
         links=bib.get("reference_ids",[])
         if not links or len(set(links))!=len(links): raise ValueError(f"Missing/duplicate bibliography: {c['id']}")
         if any(x not in lookup for x in links): raise ValueError(f"Unknown reference: {c['id']}")
+        for ref_id in links: reverse[ref_id].append(c["id"])
         counts=Counter(role(lookup[x]) for x in links)
         categories[c["category"]]["concepts"]+=1
         categories[c["category"]]["links"]+=len(links)
@@ -50,6 +52,7 @@ def build():
             "reference_role_counts":dict(Counter(role(r) for r in lookup.values())),
             "unverified_bibliographic_records":[r["id"] for r in refs["records"]
                  if r.get("verification") in ("bibliographic-search","doi-pointer","institution-homepage")],
+            "source_verification_queue":[{"reference_id":r["id"],"title":r["title"],"verification":r["verification"],"url":r["url"],"linked_concept_count":len(reverse[r["id"]]),"linked_concept_ids":reverse[r["id"]],"required_action":("verify exact edition, author, publication year and page-level claim correspondence" if r.get("verification") in ("bibliographic-search","doi-pointer","institution-homepage") else "verify passage and source-to-concept attribution")} for r in refs["records"]],
             "concepts":rows}
 
 def main():

@@ -89,6 +89,8 @@ nav:
       - "Фибоначчи: математика и символика": encyclopedia/fibonacci-sacred-geometry.md
   - Литература и источники:
       - Расширенная библиография: bibliography-expanded.md
+      - Аудит покрытия: bibliography-coverage-audit.md
+      - Исследовательское дополнение: bibliography-research-2026.md
       - Указатель по 581 концепции: references-by-concept.md
       - Библиография первой редакции: bibliography.md
   - Глоссарий: glossary.md

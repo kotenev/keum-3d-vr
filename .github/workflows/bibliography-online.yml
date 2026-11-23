@@ -1,0 +1,29 @@
+name: KEUM bibliography online reconciliation
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 5 * * 1'
+permissions:
+  contents: read
+concurrency:
+  group: bibliography-online-reconciliation
+  cancel-in-progress: false
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate canonical bibliography
+        run: python3 concept_engine/validate_bibliography.py
+      - name: Query Crossref and Open Library
+        run: python3 concept_engine/reconcile_sources.py --online --timeout 12 --pause 0.5 --output build/bibliography/reconciliation-online.json
+      - name: Upload editorial candidate queue
+        uses: actions/upload-artifact@v4
+        with:
+          name: keum-bibliography-online-candidates
+          path: build/bibliography/reconciliation-online.json
+          retention-days: 90

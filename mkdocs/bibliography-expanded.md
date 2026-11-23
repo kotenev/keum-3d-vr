@@ -1,494 +1,563 @@
-# Научная, фундаментальная и эзотерическая библиография KEUM
+# Библиография KEUM — обновлённый реестр
 
-**58 источников · 581 концепция.** Это тематический справочник, а не подтверждение всех 569 утверждений.
+**70 источников, 581 концепция.** Источники сгруппированы по типу и снабжены ссылками. Ссылки bibliographic-search не означают проверки конкретного издания.
 
-!!! warning "Методологическая граница"
-    Эзотерический первоисточник подтверждает наличие *описания* у автора, но не истинность заявленного физического механизма. Научный учебник подтверждает математический аппарат, а не эзотерическую интерпретацию. Ссылки типа `bibliographic-search` — поисковые указатели WorldCat, а не проверенные страницы конкретных изданий.
-
-## Научные труды, математика и технические стандарты
-
-<a id="math-chung"></a>
 ### MATH-CHUNG — Spectral Graph Theory
 
-**Fan R. K. Chung**, 1997. Тип: `scientific`; статус: `verified-landing`.
+**Fan R. K. Chung** (1997). Тип: `scientific`; проверка: `verified-landing`; область: `graph-theory`.
 
-[Источник или библиографический указатель](https://cseweb.ucsd.edu/~fan/research/spectral_graph.html)
+[Источник или библиографический поиск](https://cseweb.ucsd.edu/~fan/research/spectral_graph.html)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="math-nist"></a>
 ### MATH-NIST — Digital Library of Mathematical Functions
 
-**NIST**, 2010–. Тип: `scientific`; статус: `verified-landing`.
+**NIST** (2010–). Тип: `scientific`; проверка: `verified-landing`; область: `mathematical-functions`.
 
-[Источник или библиографический указатель](https://dlmf.nist.gov/)
+[Источник или библиографический поиск](https://dlmf.nist.gov/)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="math-kuramoto"></a>
 ### MATH-KURAMOTO — The Kuramoto model: A simple paradigm for synchronization phenomena
 
-**Acebrón et al.**, 2005. Тип: `peer-reviewed`; статус: `verified-article`.
+**Acebrón et al.** (2005). Тип: `peer-reviewed`; проверка: `verified-article`; область: `oscillators`.
 
-[Источник или библиографический указатель](https://doi.org/10.1103/RevModPhys.77.137)
+[Источник или библиографический поиск](https://doi.org/10.1103/RevModPhys.77.137)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="math-strogatz"></a>
 ### MATH-STROGATZ — Nonlinear Dynamics and Chaos
 
-**Steven H. Strogatz**, 2015. Тип: `textbook`; статус: `bibliographic-search`.
+**Steven H. Strogatz** (2015). Тип: `textbook`; проверка: `bibliographic-search`; область: `dynamics`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Steven+Strogatz+Nonlinear+Dynamics+and+Chaos)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Steven+Strogatz+Nonlinear+Dynamics+and+Chaos)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="math-newman"></a>
 ### MATH-NEWMAN — Networks: An Introduction
 
-**M. E. J. Newman**, 2010. Тип: `textbook`; статус: `bibliographic-search`.
+**M. E. J. Newman** (2010). Тип: `textbook`; проверка: `bibliographic-search`; область: `networks`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Mark+Newman+Networks+An+Introduction)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Mark+Newman+Networks+An+Introduction)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="astro-noaa"></a>
 ### ASTRO-NOAA — Solar Calculator
 
-**NOAA Global Monitoring Laboratory**, n.d.. Тип: `scientific-tool`; статус: `verified-landing`.
+**NOAA Global Monitoring Laboratory** (n.d.). Тип: `scientific-tool`; проверка: `verified-landing`; область: `solar-astronomy`.
 
-[Источник или библиографический указатель](https://gml.noaa.gov/grad/solcalc/)
+[Источник или библиографический поиск](https://gml.noaa.gov/grad/solcalc/)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="astro-meeus"></a>
 ### ASTRO-MEEUS — Astronomical Algorithms
 
-**Jean Meeus**, 1998. Тип: `textbook`; статус: `bibliographic-search`.
+**Jean Meeus** (1998). Тип: `textbook`; проверка: `bibliographic-search`; область: `astronomy`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Jean+Meeus+Astronomical+Algorithms)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Jean+Meeus+Astronomical+Algorithms)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="bio-nhgri"></a>
 ### BIO-NHGRI — Deoxyribonucleic Acid (DNA) Fact Sheet
 
-**National Human Genome Research Institute**, n.d.. Тип: `scientific-reference`; статус: `verified-landing`.
+**National Human Genome Research Institute** (n.d.). Тип: `scientific-reference`; проверка: `verified-landing`; область: `molecular-biology`.
 
-[Источник или библиографический указатель](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)
+[Источник или библиографический поиск](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="bio-ncbi"></a>
 ### BIO-NCBI — Biochemistry, DNA Structure
 
-**Ghannam, Wang & Jan**, 2023. Тип: `medical-reference`; статус: `verified-landing`.
+**Ghannam, Wang & Jan** (2023). Тип: `medical-reference`; проверка: `verified-landing`; область: `molecular-biology`.
 
-[Источник или библиографический указатель](https://www.ncbi.nlm.nih.gov/books/NBK538241/)
+[Источник или библиографический поиск](https://www.ncbi.nlm.nih.gov/books/NBK538241/)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="tech-svg"></a>
 ### TECH-SVG — Scalable Vector Graphics (SVG) 2
 
-**W3C**, n.d.. Тип: `standard`; статус: `verified-landing`.
+**W3C** (n.d.). Тип: `standard`; проверка: `verified-landing`; область: `vector-graphics`.
 
-[Источник или библиографический указатель](https://www.w3.org/TR/SVG2/)
+[Источник или библиографический поиск](https://www.w3.org/TR/SVG2/)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="tech-gltf"></a>
 ### TECH-GLTF — glTF 2.0 Specification
 
-**Khronos Group**, 2.0. Тип: `standard`; статус: `verified-landing`.
+**Khronos Group** (2.0). Тип: `standard`; проверка: `verified-landing`; область: `3d-graphics`.
 
-[Источник или библиографический указатель](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
+[Источник или библиографический поиск](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="tech-mathml"></a>
 ### TECH-MATHML — MathML Core
 
-**W3C**, n.d.. Тип: `standard`; статус: `verified-landing`.
+**W3C** (n.d.). Тип: `standard`; проверка: `verified-landing`; область: `math-markup`.
 
-[Источник или библиографический указатель](https://www.w3.org/TR/mathml-core/)
+[Источник или библиографический поиск](https://www.w3.org/TR/mathml-core/)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="psy-maslow"></a>
-### PSY-MASLOW — A Theory of Human Motivation
-
-**Abraham H. Maslow**, 1943. Тип: `peer-reviewed`; статус: `doi-pointer`.
-
-[Источник или библиографический указатель](https://doi.org/10.1037/h0054346)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="psy-deci-ryan"></a>
-### PSY-DECI-RYAN — The 'What' and 'Why' of Goal Pursuits
-
-**Edward L. Deci and Richard M. Ryan**, 2000. Тип: `peer-reviewed`; статус: `doi-pointer`.
-
-[Источник или библиографический указатель](https://doi.org/10.1207/S15327965PLI1104_01)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="cv-canny"></a>
-### CV-CANNY — A Computational Approach to Edge Detection
-
-**John Canny**, 1986. Тип: `peer-reviewed`; статус: `doi-pointer`.
-
-[Источник или библиографический указатель](https://doi.org/10.1109/TPAMI.1986.4767851)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="astro-iau"></a>
-### ASTRO-IAU — Astronomical coordinate and reference systems (overview)
-
-**International Astronomical Union**, n.d.. Тип: `scientific-reference`; статус: `institution-homepage`.
-
-[Источник или библиографический указатель](https://www.iau.org/)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="math-euclid"></a>
-### MATH-EUCLID — Elements
-
-**Euclid**, classical. Тип: `mathematics-classic`; статус: `text-collection`.
-
-[Источник или библиографический указатель](https://mathcs.clarku.edu/~djoyce/elements/elements.html)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="math-coxeter"></a>
-### MATH-COXETER — Regular Polytopes
-
-**H. S. M. Coxeter**, 1973. Тип: `textbook`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Coxeter+Regular+Polytopes)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="math-mandelbrot"></a>
-### MATH-MANDELBROT — The Fractal Geometry of Nature
-
-**Benoit B. Mandelbrot**, 1982. Тип: `textbook`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Mandelbrot+Fractal+Geometry+of+Nature)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="math-arnold"></a>
-### MATH-ARNOLD — Mathematical Methods of Classical Mechanics
-
-**V. I. Arnold**, 1978. Тип: `textbook`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Arnold+Mathematical+Methods+of+Classical+Mechanics)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="astro-ptolemy"></a>
-### ASTRO-PTOLEMY — Almagest
-
-**Claudius Ptolemy**, 2nd century. Тип: `historical-astronomy`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Ptolemy+Almagest)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="astro-kepler"></a>
-### ASTRO-KEPLER — Harmonices Mundi
-
-**Johannes Kepler**, 1619. Тип: `historical-astronomy`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Kepler+Harmonices+Mundi)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="phys-newton"></a>
-### PHYS-NEWTON — Philosophiæ Naturalis Principia Mathematica
-
-**Isaac Newton**, 1687. Тип: `physics-classic`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Newton+Principia+Mathematica)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="phys-maxwell"></a>
-### PHYS-MAXWELL — A Treatise on Electricity and Magnetism
-
-**James Clerk Maxwell**, 1873. Тип: `physics-classic`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Maxwell+Treatise+Electricity+Magnetism)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="phys-einstein"></a>
-### PHYS-EINSTEIN — Relativity: The Special and General Theory
-
-**Albert Einstein**, 1916. Тип: `physics-classic`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Einstein+Relativity+Special+General+Theory)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-## Академические исследования религии, истории и психологии
-
-<a id="hist-scholem"></a>
-### HIST-SCHOLEM — Major Trends in Jewish Mysticism
-
-**Gershom Scholem**, 1941. Тип: `academic-history`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Gershom+Scholem+Major+Trends+in+Jewish+Mysticism)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="hist-idel"></a>
-### HIST-IDEL — Kabbalah: New Perspectives
-
-**Moshe Idel**, 1988. Тип: `academic-history`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Moshe+Idel+Kabbalah+New+Perspectives)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="hist-hanegraaff"></a>
-### HIST-HANEGRAAFF — New Age Religion and Western Culture
-
-**Wouter J. Hanegraaff**, 1996. Тип: `academic-history`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Hanegraaff+New+Age+Religion+Western+Culture)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="hist-garb"></a>
-### HIST-GARB — Jewish Mysticism (academic chapter)
-
-**Jonathan Garb**, 2025. Тип: `academic-history`; статус: `verified-chapter`.
-
-[Источник или библиографический указатель](https://content-webapi.tuni.fi/proxy/public/2025-01/prism-background-volume_0.pdf)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="esot-jung"></a>
-### ESOT-JUNG — Psychology and Alchemy
-
-**C. G. Jung**, 1944. Тип: `historical-psychology`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Jung+Psychology+and+Alchemy)
-
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
-
-<a id="hist-eliade"></a>
-### HIST-ELIADE — The Sacred and the Profane
-
-**Mircea Eliade**, 1957. Тип: `religious-studies`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Mircea+Eliade+The+Sacred+and+the+Profane)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="esot-campbell"></a>
-### ESOT-CAMPBELL — The Hero with a Thousand Faces
-
-**Joseph Campbell**, 1949. Тип: `comparative-mythology`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Joseph+Campbell+Hero+with+a+Thousand+Faces)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="psy-jung-arch"></a>
-### PSY-JUNG-ARCH — The Archetypes and the Collective Unconscious
-
-**C. G. Jung**, 1959. Тип: `psychology-classic`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Jung+Archetypes+Collective+Unconscious)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-<a id="psy-rogers"></a>
-### PSY-ROGERS — On Becoming a Person
-
-**Carl R. Rogers**, 1961. Тип: `psychology-classic`; статус: `bibliographic-search`.
-
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Carl+Rogers+On+Becoming+a+Person)
-
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
-
-## Эзотерические первоисточники
-
-<a id="esot-sefer"></a>
 ### ESOT-SEFER — Sefer Yetzirah
 
-**Traditional**, ancient/medieval. Тип: `esoteric-primary`; статус: `verified-text-collection`.
+**Traditional** (ancient/medieval). Тип: `esoteric-primary`; проверка: `verified-text-collection`; область: `jewish-mysticism`.
 
-[Источник или библиографический указатель](https://www.sefaria.org/Sefer_Yetzirah)
+[Источник или библиографический поиск](https://www.sefaria.org/Sefer_Yetzirah)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-zohar"></a>
 ### ESOT-ZOHAR — Zohar
 
-**Traditional**, 13th century corpus. Тип: `esoteric-primary`; статус: `verified-text-collection`.
+**Traditional** (13th century corpus). Тип: `esoteric-primary`; проверка: `verified-text-collection`; область: `jewish-mysticism`.
 
-[Источник или библиографический указатель](https://www.sefaria.org/Zohar)
+[Источник или библиографический поиск](https://www.sefaria.org/Zohar)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-bahir"></a>
 ### ESOT-BAHIR — Sefer HaBahir
 
-**Traditional**, medieval. Тип: `esoteric-primary`; статус: `bibliographic-pointer`.
+**Traditional** (medieval). Тип: `esoteric-primary`; проверка: `bibliographic-pointer`; область: `jewish-mysticism`.
 
-[Источник или библиографический указатель](https://www.sefaria.org/Sefer_HaBahir)
+[Источник или библиографический поиск](https://www.sefaria.org/Sefer_HaBahir)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-russell"></a>
+### HIST-SCHOLEM — Major Trends in Jewish Mysticism
+
+**Gershom Scholem** (1941). Тип: `academic-history`; проверка: `bibliographic-search`; область: `religious-studies`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Gershom+Scholem+Major+Trends+in+Jewish+Mysticism)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### HIST-IDEL — Kabbalah: New Perspectives
+
+**Moshe Idel** (1988). Тип: `academic-history`; проверка: `bibliographic-search`; область: `religious-studies`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Moshe+Idel+Kabbalah+New+Perspectives)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### HIST-HANEGRAAFF — New Age Religion and Western Culture
+
+**Wouter J. Hanegraaff** (1996). Тип: `academic-history`; проверка: `bibliographic-search`; область: `new-age-studies`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Hanegraaff+New+Age+Religion+Western+Culture)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### HIST-GARB — Jewish Mysticism (academic chapter)
+
+**Jonathan Garb** (2025). Тип: `academic-history`; проверка: `verified-chapter`; область: `religious-studies`.
+
+[Источник или библиографический поиск](https://content-webapi.tuni.fi/proxy/public/2025-01/prism-background-volume_0.pdf)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
 ### ESOT-RUSSELL — The Universal One
 
-**Walter Russell**, 1926. Тип: `esoteric-primary`; статус: `verified-digitized-book`.
+**Walter Russell** (1926). Тип: `esoteric-primary`; проверка: `verified-digitized-book`; область: `alternative-cosmology`.
 
-[Источник или библиографический указатель](https://www.loc.gov/item/27004508/)
+[Источник или библиографический поиск](https://www.loc.gov/item/27004508/)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-deane-i"></a>
 ### ESOT-DEANE-I — Voyagers, Volume I: The Sleeping Abductees
 
-**Ashayana Deane**, n.d.. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Ashayana Deane** (n.d.). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `keylontic`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Ashayana+Deane+Voyagers+Sleeping+Abductees)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Ashayana+Deane+Voyagers+Sleeping+Abductees)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-deane-ii"></a>
 ### ESOT-DEANE-II — Voyagers, Volume II: The Secrets of Amenti
 
-**Ashayana Deane**, n.d.. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Ashayana Deane** (n.d.). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `keylontic`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Ashayana+Deane+Secrets+of+Amenti)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Ashayana+Deane+Secrets+of+Amenti)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-kathara"></a>
 ### ESOT-KATHARA — Kathara Bio-Spiritual Healing System (materials)
 
-**Ashayana Deane / MCEO**, n.d.. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Ashayana Deane / MCEO** (n.d.). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `keylontic`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Kathara+Bio-Spiritual+Healing+System)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Kathara+Bio-Spiritual+Healing+System)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-blavatsky"></a>
 ### ESOT-BLAVATSKY — The Secret Doctrine
 
-**H. P. Blavatsky**, 1888. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**H. P. Blavatsky** (1888). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `theosophy`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=H.P.+Blavatsky+The+Secret+Doctrine)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=H.P.+Blavatsky+The+Secret+Doctrine)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-hermetica"></a>
 ### ESOT-HERMETICA — Corpus Hermeticum
 
-**Hermetic corpus**, antiquity. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Hermetic corpus** (antiquity). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `hermeticism`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Corpus+Hermeticum+Brian+Copenhaver)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Corpus+Hermeticum+Brian+Copenhaver)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-agrippa"></a>
 ### ESOT-AGRIPPA — Three Books of Occult Philosophy
 
-**Heinrich Cornelius Agrippa**, 1533. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Heinrich Cornelius Agrippa** (1533). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `occultism`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Agrippa+Three+Books+of+Occult+Philosophy)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Agrippa+Three+Books+of+Occult+Philosophy)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="psy-minov"></a>
+### ESOT-JUNG — Psychology and Alchemy
+
+**C. G. Jung** (1944). Тип: `historical-psychology`; проверка: `bibliographic-search`; область: `alchemy-psychology`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Jung+Psychology+and+Alchemy)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### PSY-MASLOW — A Theory of Human Motivation
+
+**Abraham H. Maslow** (1943). Тип: `peer-reviewed`; проверка: `doi-pointer`; область: `psychology`.
+
+[Источник или библиографический поиск](https://doi.org/10.1037/h0054346)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### PSY-DECI-RYAN — The 'What' and 'Why' of Goal Pursuits
+
+**Edward L. Deci and Richard M. Ryan** (2000). Тип: `peer-reviewed`; проверка: `doi-pointer`; область: `psychology`.
+
+[Источник или библиографический поиск](https://doi.org/10.1207/S15327965PLI1104_01)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
 ### PSY-MINOV — Map of the Human Soul (diagram, 2012)
 
-**Zoran Minov**, 2012. Тип: `user-supplied-primary-image`; статус: `verified-user-image`.
+**Zoran Minov** (2012). Тип: `user-supplied-primary-image`; проверка: `verified-user-image`; область: `authored-model`.
 
-[Источник или библиографический указатель](https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/sources/additional_10/66285.jpg)
+[Источник или библиографический поиск](https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/sources/additional_10/66285.jpg)
 
-*Роль:* bibliographic/methodological reference; does not automatically support a specific KEUM claim.
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
 
-<a id="esot-fortune"></a>
+### CV-CANNY — A Computational Approach to Edge Detection
+
+**John Canny** (1986). Тип: `peer-reviewed`; проверка: `doi-pointer`; область: `image-processing`.
+
+[Источник или библиографический поиск](https://doi.org/10.1109/TPAMI.1986.4767851)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### ASTRO-IAU — Astronomical coordinate and reference systems (overview)
+
+**International Astronomical Union** (n.d.). Тип: `scientific-reference`; проверка: `institution-homepage`; область: `astronomy`.
+
+[Источник или библиографический поиск](https://www.iau.org/)
+
+*Ограничение:* bibliographic/methodological reference; does not automatically support a specific KEUM claim
+
+### MATH-EUCLID — Elements
+
+**Euclid** (classical). Тип: `mathematics-classic`; проверка: `text-collection`; область: `euclidean-geometry`.
+
+[Источник или библиографический поиск](https://mathcs.clarku.edu/~djoyce/elements/elements.html)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### MATH-COXETER — Regular Polytopes
+
+**H. S. M. Coxeter** (1973). Тип: `textbook`; проверка: `bibliographic-search`; область: `polytopes`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Coxeter+Regular+Polytopes)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### MATH-MANDELBROT — The Fractal Geometry of Nature
+
+**Benoit B. Mandelbrot** (1982). Тип: `textbook`; проверка: `bibliographic-search`; область: `fractals`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Mandelbrot+Fractal+Geometry+of+Nature)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### MATH-ARNOLD — Mathematical Methods of Classical Mechanics
+
+**V. I. Arnold** (1978). Тип: `textbook`; проверка: `bibliographic-search`; область: `dynamical-systems`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Arnold+Mathematical+Methods+of+Classical+Mechanics)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### ASTRO-PTOLEMY — Almagest
+
+**Claudius Ptolemy** (2nd century). Тип: `historical-astronomy`; проверка: `bibliographic-search`; область: `astronomy-history`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Ptolemy+Almagest)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### ASTRO-KEPLER — Harmonices Mundi
+
+**Johannes Kepler** (1619). Тип: `historical-astronomy`; проверка: `bibliographic-search`; область: `astronomy-history`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Kepler+Harmonices+Mundi)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### PHYS-NEWTON — Philosophiæ Naturalis Principia Mathematica
+
+**Isaac Newton** (1687). Тип: `physics-classic`; проверка: `bibliographic-search`; область: `classical-physics`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Newton+Principia+Mathematica)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### PHYS-MAXWELL — A Treatise on Electricity and Magnetism
+
+**James Clerk Maxwell** (1873). Тип: `physics-classic`; проверка: `bibliographic-search`; область: `electromagnetism`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Maxwell+Treatise+Electricity+Magnetism)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### PHYS-EINSTEIN — Relativity: The Special and General Theory
+
+**Albert Einstein** (1916). Тип: `physics-classic`; проверка: `bibliographic-search`; область: `relativity`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Einstein+Relativity+Special+General+Theory)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
+### HIST-ELIADE — The Sacred and the Profane
+
+**Mircea Eliade** (1957). Тип: `religious-studies`; проверка: `bibliographic-search`; область: `religious-studies`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Mircea+Eliade+The+Sacred+and+the+Profane)
+
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
+
 ### ESOT-FORTUNE — The Mystical Qabalah
 
-**Dion Fortune**, 1935. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Dion Fortune** (1935). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `western-esotericism`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Dion+Fortune+The+Mystical+Qabalah)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Dion+Fortune+The+Mystical+Qabalah)
 
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-<a id="esot-regardie"></a>
 ### ESOT-REGARDIE — The Golden Dawn
 
-**Israel Regardie**, 1937–1940. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Israel Regardie** (1937–1940). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `ceremonial-magic`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Israel+Regardie+The+Golden+Dawn)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Israel+Regardie+The+Golden+Dawn)
 
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-<a id="esot-steiner"></a>
 ### ESOT-STEINER — Occult Science: An Outline
 
-**Rudolf Steiner**, 1910. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**Rudolf Steiner** (1910). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `anthroposophy`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Rudolf+Steiner+Occult+Science+Outline)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Rudolf+Steiner+Occult+Science+Outline)
 
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-<a id="esot-leadbeater"></a>
 ### ESOT-LEADBEATER — The Chakras
 
-**C. W. Leadbeater**, 1927. Тип: `esoteric-primary`; статус: `bibliographic-search`.
+**C. W. Leadbeater** (1927). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `theosophy`.
 
-[Источник или библиографический указатель](https://search.worldcat.org/search?q=Leadbeater+The+Chakras)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Leadbeater+The+Chakras)
 
-*Роль:* historical, methodological or comparative reference; not direct verification of KEUM concept.
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-## Правила научной атрибуции
+### ESOT-CAMPBELL — The Hero with a Thousand Faces
 
-- Для строгой ссылки на утверждение нужны точное издание, страница, цитата, тип связи и рецензент.
-- Сходство символов разных традиций не доказывает исторического заимствования.
-- Восход/закат и астрономические координаты проверяются научными эфемеридами; схема Concave Earth не является геофизическим объяснением.
-- Психологические карты не являются валидированными методиками без опубликованной проверки надёжности и валидности.
-- Математическая параметризация эзотерического рисунка не делает его физической теорией.
+**Joseph Campbell** (1949). Тип: `comparative-mythology`; проверка: `bibliographic-search`; область: `mythology`.
 
-[Указатель источников для всех 581 концепция](references-by-concept.md).
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Joseph+Campbell+Hero+with+a+Thousand+Faces)
 
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-## BABB-PLC — Edwin D. Babbitt, *The Principles of Light and Color*
+### PSY-JUNG-ARCH — The Archetypes and the Collective Unconscious
 
-**Тип:** исторический эзотерико-натурфилософский первоисточник. **Издание:** предоставленные изображения титульного листа содержат обозначение *Second Edition*; точный год и издательская история экземпляра требуют отдельной сверки.
+**C. G. Jung** (1959). Тип: `psychology-classic`; проверка: `bibliographic-search`; область: `analytical-psychology`.
 
-[Библиографический поиск изданий](https://archive.org/search?query=Edwin+D+Babbitt+Principles+of+Light+and+Color)
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Jung+Archetypes+Collective+Unconscious)
 
-[Научно-критическая карта 33 изображений, страниц и математических формул](encyclopedia/babbitt-critical-edition.md).
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-Изображения подтверждают содержание авторских исторических представлений, но не физическую достоверность «эфиров», «одических» излучений и хромотерапии.
+### PSY-ROGERS — On Becoming a Person
 
+**Carl R. Rogers** (1961). Тип: `psychology-classic`; проверка: `bibliographic-search`; область: `humanistic-psychology`.
 
-## Два отдельных изображения без установленной атрибуции
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Carl+Rogers+On+Becoming+a+Person)
 
-- **IMG-ALCHEMICAL-KEY:** *The Alchemical Key*, пользовательский рисунок `1000001684.jpg` — автор и источник не установлены.
-- **IMG-ALCHEMICAL-COLLAGE:** алхимическая композиция `1000001685.jpg` — составное изображение неизвестной атрибуции.
+*Ограничение:* historical, methodological or comparative reference; not direct verification of KEUM concept
 
-Эти изображения **не следует приписывать Бэббитту** без независимого подтверждения.
+### BABB-PLC — The Principles of Light and Color
 
+**Edwin D. Babbitt** (nineteenth century; supplied scan indicates second edition). Тип: `historical-esoteric-primary`; проверка: `user-supplied-scanned-pages`; область: `color-optics-history`.
 
-## Фибоначчи, филлотаксис и символические практики
+[Источник или библиографический поиск](https://archive.org/search?query=Edwin+D+Babbitt+Principles+of+Light+and+Color)
 
-- <a id="math-koshy-fib"></a> **MATH-KOSHY-FIB:** Thomas Koshy, *Fibonacci and Lucas Numbers with Applications* (2001). [Библиографический поиск](https://search.worldcat.org/search?q=Thomas+Koshy+Fibonacci+and+Lucas+Numbers+with+Applications).
-- <a id="math-vajda-fib"></a> **MATH-VAJDA-FIB:** Steven Vajda, *Fibonacci & Lucas Numbers, and the Golden Section* (1989). [Библиографический поиск](https://search.worldcat.org/search?q=Steven+Vajda+Fibonacci+Lucas+Numbers+Golden+Section).
-- <a id="bio-prusinkiewicz"></a> **BIO-PRUSINKIEWICZ:** Prusinkiewicz & Lindenmayer, *The Algorithmic Beauty of Plants* (1990). [Авторская публикация](https://algorithmicbotany.org/papers/abop/abop.pdf).
-- <a id="bio-douady"></a> **BIO-DOUADY:** Douady & Couder, *Phyllotaxis as a Physical Self-Organized Growth Process* (1992). [DOI](https://doi.org/10.1103/PhysRevLett.68.2098).
-- <a id="hist-thompson"></a> **HIST-THOMPSON:** D'Arcy Wentworth Thompson, *On Growth and Form* (1917). [Библиографический поиск](https://search.worldcat.org/search?q=D%27Arcy+Thompson+On+Growth+and+Form).
-- <a id="esot-miller-fib"></a> **ESOT-MILLER-FIB:** Ведана Миллер, предоставленный пользователем текст «Принцип Фибоначчи в магии и эзотерике». [Критическая редакция](encyclopedia/fibonacci-sacred-geometry.md). Дата и первоначальный источник не установлены.
+*Ограничение:* Primary evidence of Babbitt's historical claims and illustrations, not scientific verification.
 
-Формулы и символические значения разделены по уровню доказательности.
+### IMG-ALCHEMICAL-KEY — The Alchemical Key — user-supplied image
+
+**Unverified** (undetermined). Тип: `user-supplied-visual-primary`; проверка: `user-image-visible; attribution unverified`; область: `alchemy-iconography`.
+
+[Источник или библиографический поиск](https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/results/babbitt_33_manifest.json)
+
+*Ограничение:* Visual source only; link points to source-image manifest, not published raster or historical edition
+
+### IMG-ALCHEMICAL-COLLAGE — Alchemical tree, seals and ring — user-supplied composite image
+
+**Unverified** (undetermined). Тип: `user-supplied-visual-primary`; проверка: `user-image-visible; attribution unverified`; область: `alchemy-iconography`.
+
+[Источник или библиографический поиск](https://github.com/kotenev/keum-3d-vr/blob/main/reconstruction/results/babbitt_33_manifest.json)
+
+*Ограничение:* Visual source only; link points to source-image manifest, not published raster or historical edition
+
+### MATH-KOSHY-FIB — Fibonacci and Lucas Numbers with Applications
+
+**Thomas Koshy** (2001). Тип: `textbook`; проверка: `bibliographic-search`; область: `fibonacci`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Thomas+Koshy+Fibonacci+and+Lucas+Numbers+with+Applications)
+
+*Ограничение:* Mathematical or historical comparison; source does not demonstrate efficacy of magical practices
+
+### MATH-VAJDA-FIB — Fibonacci & Lucas Numbers, and the Golden Section
+
+**Steven Vajda** (1989). Тип: `textbook`; проверка: `bibliographic-search`; область: `fibonacci`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Steven+Vajda+Fibonacci+Lucas+Numbers+Golden+Section)
+
+*Ограничение:* Mathematical or historical comparison; source does not demonstrate efficacy of magical practices
+
+### BIO-PRUSINKIEWICZ — The Algorithmic Beauty of Plants
+
+**Przemyslaw Prusinkiewicz and Aristid Lindenmayer** (1990). Тип: `scientific-monograph`; проверка: `author-hosted-full-text`; область: `phyllotaxis`.
+
+[Источник или библиографический поиск](https://algorithmicbotany.org/papers/abop/abop.pdf)
+
+*Ограничение:* Mathematical or historical comparison; source does not demonstrate efficacy of magical practices
+
+### BIO-DOUADY — Phyllotaxis as a Physical Self-Organized Growth Process
+
+**Stéphane Douady and Yves Couder** (1992). Тип: `peer-reviewed`; проверка: `doi-pointer`; область: `phyllotaxis`.
+
+[Источник или библиографический поиск](https://doi.org/10.1103/PhysRevLett.68.2098)
+
+*Ограничение:* Mathematical or historical comparison; source does not demonstrate efficacy of magical practices
+
+### HIST-THOMPSON — On Growth and Form
+
+**D'Arcy Wentworth Thompson** (1917). Тип: `scientific-classic`; проверка: `bibliographic-search`; область: `morphogenesis`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=D%27Arcy+Thompson+On+Growth+and+Form)
+
+*Ограничение:* Mathematical or historical comparison; source does not demonstrate efficacy of magical practices
+
+### ESOT-MILLER-FIB — Принцип Фибоначчи в магии и эзотерике: тайна золотой спирали и закон приумножения
+
+**Ведана Миллер** (2026 or earlier; undated original). Тип: `user-supplied-primary-text`; проверка: `user-supplied-text-not-independent-source`; область: `contemporary-symbolism`.
+
+[Источник или библиографический поиск](https://github.com/kotenev/keum-3d-vr/blob/main/mkdocs/encyclopedia/fibonacci-sacred-geometry.md)
+
+*Ограничение:* Mathematical or historical comparison; source does not demonstrate efficacy of magical practices
+
+### HIST-FAIVRE — Access to Western Esotericism
+
+**Antoine Faivre** (1994). Тип: `secondary`; проверка: `bibliographic-search`; область: `western-esotericism`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Antoine+Faivre+Access+to+Western+Esotericism)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### HIST-JAMES — The Varieties of Religious Experience
+
+**William James** (1902). Тип: `historical-primary`; проверка: `bibliographic-search`; область: `religious-experience`.
+
+[Источник или библиографический поиск](https://www.gutenberg.org/ebooks/search/?query=William+James+Varieties+of+Religious+Experience)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### ESOT-RUSSELL-LIGHT — The Secret of Light
+
+**Walter Russell** (1947). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `russell-cosmology`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Walter+Russell+The+Secret+of+Light)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### PHYS-JACKSON — Classical Electrodynamics
+
+**John David Jackson** (1998). Тип: `textbook`; проверка: `bibliographic-search`; область: `electromagnetism`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Jackson+Classical+Electrodynamics)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### PHYS-WEINBERG — Cosmology
+
+**Steven Weinberg** (2008). Тип: `textbook`; проверка: `bibliographic-search`; область: `cosmology`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Steven+Weinberg+Cosmology)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### PHYS-SAFFMAN — Vortex Dynamics
+
+**Philip G. Saffman** (1992). Тип: `textbook`; проверка: `bibliographic-search`; область: `fluid-dynamics`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Saffman+Vortex+Dynamics)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### MATH-ADAMS — The Knot Book
+
+**Colin C. Adams** (2004). Тип: `textbook`; проверка: `bibliographic-search`; область: `topology`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Colin+Adams+The+Knot+Book)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### BIO-WATSON-CRICK — Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid
+
+**James D. Watson and Francis H. C. Crick** (1953). Тип: `peer-reviewed`; проверка: `doi-pointer`; область: `molecular-biology`.
+
+[Источник или библиографический поиск](https://doi.org/10.1038/171737a0)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### BIO-NIRENBERG — The RNA Code and Protein Synthesis
+
+**Marshall W. Nirenberg et al.** (1965). Тип: `scientific-primary`; проверка: `bibliographic-search`; область: `genetic-code`.
+
+[Источник или библиографический поиск](https://pubmed.ncbi.nlm.nih.gov/?term=Nirenberg+RNA+Code+Protein+Synthesis)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### ASTRO-SOFA — Standards of Fundamental Astronomy
+
+**IAU SOFA Board** (ongoing). Тип: `scientific-standard`; проверка: `bibliographic-search`; область: `astronomical-coordinates`.
+
+[Источник или библиографический поиск](https://www.iausofa.org/)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### ESOT-BABB-PLC — The Principles of Light and Color
+
+**Edwin D. Babbitt** (1878). Тип: `esoteric-primary`; проверка: `bibliographic-search`; область: `color-theory-history`.
+
+[Источник или библиографический поиск](https://archive.org/search?query=Edwin+D+Babbitt+Principles+of+Light+and+Color)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim
+
+### ESOT-HERMETIC-SEARCH — Corpus Hermeticum (edition search)
+
+**Various ancient authors** (ancient corpus). Тип: `historical-primary`; проверка: `bibliographic-search`; область: `hermeticism`.
+
+[Источник или библиографический поиск](https://search.worldcat.org/search?q=Corpus+Hermeticum)
+
+*Ограничение:* Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim

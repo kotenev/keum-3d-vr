@@ -12,6 +12,7 @@ on:
     paths:
       - 'concept_engine/**'
       - 'data/catalog.json'
+      - 'data/references.json'
       - 'vector_engine/graph_engine.py'
   workflow_dispatch:
 permissions:
@@ -26,6 +27,10 @@ jobs:
           python-version: '3.12'
       - name: Validate scientific and esoteric bibliography
         run: python3 concept_engine/validate_bibliography.py
+      - name: Generate bibliography provenance audit
+        run: python3 concept_engine/audit_bibliography.py
+      - name: Produce offline source reconciliation queue
+        run: python3 concept_engine/reconcile_sources.py --output build/bibliography/reconciliation.json
       - name: Test all 581 instances
         run: python3 -m unittest discover -s concept_engine -p 'test_*.py' -v
       - name: Generate 581-entry provenance ledger
@@ -47,6 +52,13 @@ jobs:
           assert len(list(p.glob("keum-*.gltf")))==581
           print("validated 581 x 3 exports")
           PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: keum-bibliography-audit
+          path: |
+            data/bibliography_audit.json
+            build/bibliography/reconciliation.json
+          retention-days: 30
       - uses: actions/upload-artifact@v4
         with:
           name: keum-581-models

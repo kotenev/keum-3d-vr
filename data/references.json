@@ -1,6 +1,6 @@
 {
   "schema": "keum.references.v1",
-  "count": 58,
+  "count": 70,
   "reference_policy": {
     "primary": "Primary source can document what an author claimed, not whether it is empirically true",
     "scientific": "Scientific source supports established method or comparative benchmark, not KEUM metaphysics",
@@ -645,6 +645,138 @@
       "verification": "user-supplied-text-not-independent-source",
       "domain": "contemporary-symbolism",
       "scope": "Mathematical or historical comparison; source does not demonstrate efficacy of magical practices"
+    },
+    {
+      "id": "HIST-FAIVRE",
+      "author": "Antoine Faivre",
+      "title": "Access to Western Esotericism",
+      "year": "1994",
+      "source_type": "secondary",
+      "url": "https://search.worldcat.org/search?q=Antoine+Faivre+Access+to+Western+Esotericism",
+      "verification": "bibliographic-search",
+      "domain": "western-esotericism",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "HIST-JAMES",
+      "author": "William James",
+      "title": "The Varieties of Religious Experience",
+      "year": "1902",
+      "source_type": "historical-primary",
+      "url": "https://www.gutenberg.org/ebooks/search/?query=William+James+Varieties+of+Religious+Experience",
+      "verification": "bibliographic-search",
+      "domain": "religious-experience",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "ESOT-RUSSELL-LIGHT",
+      "author": "Walter Russell",
+      "title": "The Secret of Light",
+      "year": "1947",
+      "source_type": "esoteric-primary",
+      "url": "https://search.worldcat.org/search?q=Walter+Russell+The+Secret+of+Light",
+      "verification": "bibliographic-search",
+      "domain": "russell-cosmology",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "PHYS-JACKSON",
+      "author": "John David Jackson",
+      "title": "Classical Electrodynamics",
+      "year": "1998",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Jackson+Classical+Electrodynamics",
+      "verification": "bibliographic-search",
+      "domain": "electromagnetism",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "PHYS-WEINBERG",
+      "author": "Steven Weinberg",
+      "title": "Cosmology",
+      "year": "2008",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Steven+Weinberg+Cosmology",
+      "verification": "bibliographic-search",
+      "domain": "cosmology",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "PHYS-SAFFMAN",
+      "author": "Philip G. Saffman",
+      "title": "Vortex Dynamics",
+      "year": "1992",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Saffman+Vortex+Dynamics",
+      "verification": "bibliographic-search",
+      "domain": "fluid-dynamics",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "MATH-ADAMS",
+      "author": "Colin C. Adams",
+      "title": "The Knot Book",
+      "year": "2004",
+      "source_type": "textbook",
+      "url": "https://search.worldcat.org/search?q=Colin+Adams+The+Knot+Book",
+      "verification": "bibliographic-search",
+      "domain": "topology",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "BIO-WATSON-CRICK",
+      "author": "James D. Watson and Francis H. C. Crick",
+      "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+      "year": "1953",
+      "source_type": "peer-reviewed",
+      "url": "https://doi.org/10.1038/171737a0",
+      "verification": "doi-pointer",
+      "domain": "molecular-biology",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "BIO-NIRENBERG",
+      "author": "Marshall W. Nirenberg et al.",
+      "title": "The RNA Code and Protein Synthesis",
+      "year": "1965",
+      "source_type": "scientific-primary",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Nirenberg+RNA+Code+Protein+Synthesis",
+      "verification": "bibliographic-search",
+      "domain": "genetic-code",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "ASTRO-SOFA",
+      "author": "IAU SOFA Board",
+      "title": "Standards of Fundamental Astronomy",
+      "year": "ongoing",
+      "source_type": "scientific-standard",
+      "url": "https://www.iausofa.org/",
+      "verification": "bibliographic-search",
+      "domain": "astronomical-coordinates",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "ESOT-BABB-PLC",
+      "author": "Edwin D. Babbitt",
+      "title": "The Principles of Light and Color",
+      "year": "1878",
+      "source_type": "esoteric-primary",
+      "url": "https://archive.org/search?query=Edwin+D+Babbitt+Principles+of+Light+and+Color",
+      "verification": "bibliographic-search",
+      "domain": "color-theory-history",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
+    },
+    {
+      "id": "ESOT-HERMETIC-SEARCH",
+      "author": "Various ancient authors",
+      "title": "Corpus Hermeticum (edition search)",
+      "year": "ancient corpus",
+      "source_type": "historical-primary",
+      "url": "https://search.worldcat.org/search?q=Corpus+Hermeticum",
+      "verification": "bibliographic-search",
+      "domain": "hermeticism",
+      "scope": "Comparative, historical or methodological context only; not evidence of the truth of a KEUM metaphysical claim"
     }
   ]
 }
